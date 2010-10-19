@@ -1,0 +1,172 @@
+fluidic-mosaic hypothesis - currently accepted model for the structure of the
+plasma membrane
+phospholipid bilayer - studded with membrane proteins that are integral or
+peripheral
+plasma membrane - primary function is to create an environment inside the cell
+that is different from conditions outside
+extracellular material - helps define the cell's shape and either attaches it
+to another cell or acts as a first line of defense against the outside world
+fiber composites - descirbes composition of extracellular structures
+fiber composites - consist of a cross-linked network of long filaments
+embedded in a stuff surrounding material or ground substance
+rods - in a fiber composite, along with filaments, are extremely effective at
+withstanding stretching and straining forces (tension)
+filaments - in a fiber composite, along with rods, are extremely effective at
+withstanding stretching and straining forces (tension)
+surrounding substance - in a fiber composite, effective at withstanding
+pressing forces (compression)
+fiber composites - rugged due to the combination of tension- and compression-
+resisting elements
+cell walls - part of the cell which from which paper, cotton clothing, and
+wood are primarily made up of
+cell walls - degraded in a controlled way as fruits ripen, making the fruits
+softer and more digestible for the animals that disperse the seeds inside
+cell walls - when a seed germinates (sprouts), these are actively broken down,
+releasing nutrients to the growing plant
+cell walls - when damaged by attacking insects, may release signaling
+molecules that trigger the reinforcement of walls in neighboring cells
+primary cell wall - initial fiber composite secreted when plant cells first
+form
+primary cell wall - consistes of long strans of cellulose, cross-linked by
+other polysaccharide filaments and bundled into stout, cable-liked structures
+termed microfibrils
+microfibrils - synthesized by a complex of enzymes in the plasma membrane,
+forming a crisscrossed network
+pectins - gelatinous polysaccharides in jams and jellies which fills the space
+between microfibrils
+gelatinous polysaccharides - fill the space between microfibrils
+pectin - because its polysaccharides are hydrophilic, this attracts and holds
+large amounts of water to keep the cell wall moist
+nucleus and cytoplasm - under normal conditions, fill the entire volume of the
+cell and push the plasma membrane up against the wall
+turgor pressure - force exerted against the wall when water inflates the
+plasma membrane
+expansins - enzymes excreted by young plant cells into their cell-wall matrix
+expansins - catalyze reactions that allow the microfibrils in the cell-wall
+matrix to slide past one another
+cell growth - results when microfibrils slide past one another and turgor
+pressure forces the cell wall to elongate and expand
+secondary cell wall - layert of matrial which may be excreted as plant cells
+mature and stop gorwing
+waxes - in the secondary cell wall of leaf cells, form a waterproof coating
+cellulose - in the secondary cell walls of plant stem cells, support the
+plant's stem
+lgnin - a tough substance in the secondary cell wall of cells that form wood
+extracellular matrix - fiber composite secreted by most animal cells
+collagen - cable-like protein which dominates the fibrous component of an
+animal ECM
+gel-forming polysaccharides - comprise the matrix that surrounds collagen and
+the other fibrous components in an animal ECM
+pliable - adjective which describes the structure as a whole which results
+from the animal ECM
+elastin - rubber-like protein in lung cell ECM
+transmembrane proteins - connections to these strenghten the ECM
+integrins - transmembrane proteins connected to actin filaments
+fibronectins - nerby proteins in the ECM to which integrins bind
+fibronectins - proteins in the ECM which connect to collagen fibers
+cytoskeleton-ECM linkage - keeps individual cells in place and helps adjacent
+cells adhere to each other
+cytoskeleton-ECM linkage - when this breaks down, cancer can develop
+metastasis - process by which tumor breaks away and migrates throughout the
+body, forming new tumors
+connections between cells - basis of multicellularity
+tissues - groups of similar cells that perform a similar function
+tissues - something most multicellular organisms have
+middle lamella - central layer between primary cell walls of adjacent plant
+cells
+middle lamella - continuous with the primary cell walls of adjacent cells in
+plants
+middle lamella - serves to glue together adjacent cells in plants
+gelatinous polysaccharides - material which composes middle-lamella-like layer
+in adjacent animal cells
+cytoskelton-ECM connections - help hold individual animal cells together
+epithelia - tissues that form external and internal surfaces
+epithelia - form layers that separate organs and other structures
+epithelia - must be sealed to prevent mixing of solutions from adjacent organs
+or structures
+tight junction - cell-cell attachment composed of specialized proteins in the
+plasma membranes of adjacent animal cells
+tight junction - proteins in this type of cell-cell attachment line up and
+bind to one another
+tight junction - its structure resembles quilting, with the proteins acting as
+stitches
+tight junction - type of cell-cell attachment that forms a watertight seal
+tight junction - commonly found in cells that form a barrier, such as the
+epithelial cells lining the stomach and intestines
+tight junction - prevents ions and molecules in the gut contents from leaking
+cells and diffusing into the body
+tight junction - may loosen to permit more transport between epithelial cells
+desmosomes - cell-cell attachment particularly common in animal epithelial
+cells and certain muscle cells
+desmosomes - cell-cell attachment whose structure is analgous to rivets that
+hold pieces of sheet metal together
+desmosomes - cell-cell attachment that contains proteins that bind to each
+other and to larger proteins that anchor filaments in the cytoskeleton of
+adjacent cells
+desmosomes - bind together the cytoskeletons of adjacent cells
+selective adhesion - phenomenon in which cells of differing types combine and
+aggregate because they adhere to cells of the same tissue type
+antibody - protein that binds specifically to a section of another protein
+antibody - can be used to block certain portions of proteins or mark proteins
+so they can be seen
+cadherins - attachment molecules in desmosomes
+cell adhesion proteins - allow animal cells to attach to each other in a
+selective manner by binding and riveting certain cells together
+plasmodesmata - direct connections in plants between the cytoplasm of adjacent
+cells
+smooth endoplasmic reticulum - runs through plasmodesmata
+plasmodesmata - contain proteins that regulate the passage of specific
+proteins between plant cells, making the connections in similar function to
+the nuclear pore complex
+gap junction - connects adjacent cells in most animal tissues
+gap junction - features a specialized protein that creates channels between
+animal cells
+gap junction - allows water, ions, and small molecules such as amino acids,
+sugars, and nucleoties to move between adjacent cells
+hormones - information-carrying molecules that are secreted from a plant or
+animal cell, circulate in the body, and act on target cells far from the
+original cell that sent the signal
+cell-cell signal - coordinates activities of cells in different parts of a
+multicellular body
+cell-cell signal - important whether it is lipid solublle, because the signal
+has to be recognized to have an effect on a target cell
+lipid-soluble signals - diffuse across the plasma membrane
+hydrophilic cell-cell signals - are lipid-insoluble and do not cross the
+plasma membrane
+hydrophilic cell-cell signals - must be recognized at the cell surface
+receptor - its presence dictates which cells will respond to a particular
+hormone
+beta-blockers - bind to certain receptors for adrenaline
+signal receptor - protein that changes its shape and activity after binding to
+a signaling molecule
+lipid-soluble signals - processed directly when it enters a cell without any
+intermediate steps
+siginal transduction - triggered when a signal binds at the cell surface
+signal amplification - allows hormones present in miniscule concentrations to
+trigger a large response from cells
+signal transduction - converts an extracellular signal to an intracellular
+signal
+signal transduction - signal processing step that begins at the plasma membrane
+signal amplification - signal processing step that occurs inside the cell
+G proteins - peripheral membrane proteins closely associated with signal
+receptors
+G proteins - when activated by a signal receptor, these trigger messenger
+production
+messenger - its production is the key step in signal transduction
+G proteins - link the receipt of an extracellular signal to the production of
+an intracellular signal
+G proteins - bind guanosine triphosphate (GTP) and guanosine diphosphate (GDP)
+protein kinases - enzymes that activate or inactivate other proteins by adding
+a phosphate group to them
+receptor tyrosine kinases - one of the best-studied group of enzyme-linked
+receptors
+Ras - peripheral membrane protein which functions like a G rpotein
+Ras - its activation triggers the phosphorylation and activation of another
+protein
+phosphorylation cascade - sequence of events by which an enzyme-linked
+receptor amplifies a signal
+cross-talk - interactions between signaling pathways
+quorum sensing - cell-cell communicatoin in bacteria
+biofilms - hard, polysaccharide-rich substances that encase cells and attach
+them to a surface
+

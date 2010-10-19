@@ -1,0 +1,107 @@
+exergonic - indicates that a raection releases energy
+endergonic - indications that a reaction requires an input of energy
+phosphorylation - addition of a phosphate group to a substrate
+glucose - the most common fuel used by organisms
+metabolism - all the chemical reactions that occur in living cells
+energetic coupling - coupling between an exergonic and endergonic reaction
+redox reactions - class of chemical reactions that involve the loss or gain of
+one or more elections
+oxidations - loss of electrons
+reduction - gain of electrons
+nicotinamide adenine dinucleotide - NAD+
+NAD+ - reduced to form NADH
+NADH - formed from the reduction of NAD+
+electron carrier - readily donates electrons to other molecules
+glucose - does not burn in cells but is oxidized through a long series of
+carfully controlled redox reactions
+glucose - its oxidation is used to synthesize ATP from ADP and P_i
+cellular respiration - a four-step process for producing ATP from a starting
+material with a high potential energy
+glycosis - first step of cellular respiration
+glycosis - when one molecule of glucose is broken into two molecules of the
+three-carbon compound pyuravate
+glycosis - 2 ATP + NAD+ --> ADP + NADH
+pyruvate processing - second step of cellular respiration
+pyruvate processing - when pyruvate is processed to form acetyl-CoA
+citric acid cycle - third step in cellular respiration
+citric acid cycle - when ATP and NADH are produced and flavine adenine
+dinucleotide (FAD) is reduced to form FADH_2
+electron transport and chemiosmosis - fourth step of cellular respiration
+electron transport and chemiosmosis - when electrons from NADH and FADH_2 move
+through a series of proteins called an electron transport chain
+electron transport chain - when electrons from NADH and FADH_2 move through
+this series of proteins, potential energy is released which is used to create
+a protein gradient across a protein; the ensuiing flow of protons back across
+the membrane is used to make ATP
+cellular repiration - any suite of reactions that produces ATP in an electron
+transport chain
+glycosis - processing glycose to pyruvate
+glycosis - sequence of 10 reactions which occur in the cytosol
+substrate-level phosphorylation - enzyme-catalyzed reactions that result in
+ATP production
+phosphofructokinase - catalyzes the synthesis of fructose-1,6-biphosphate from
+fructose-6-phosphate
+feedback inhibition - when an enzyme in a pathway is inhibited by the product
+of the reaction sequence
+regulatory site - a location that changes the activity of an enzyme
+phosphofructokinase - regulatory site where ATP binds when concentrations are high
+ATP - acts as an allosteric regulator
+cristae - sac-like structures which fill the mitochodria
+mitochondrial matrix - region of the mitochondria inside the inner membrane
+but outside the cristae
+acetyle CoA - produced when pyruvate reacts with CoA
+coenzyme A - CoA
+CoA - acts as an enzyme by accepting and then transfering an acetyl group to a
+substrate
+pyruvate dehydrogenase - enzyme complex where acetyl CoA is produced
+carboxylic acides - acids with the form R-COOH
+guanosine triphosphate - this and ATP are produced through substrate-level
+phosphorylation
+high - reaction rates are this when ATP is scarce
+low - reaction rates are this when ATP is abundant
+TCA cycle - starts with acetyl and ends with CO2
+TCA cycle - its reactions occur in the mitochondrial matrix, and the potential
+energy that is released is used to produce NADH, FADH_2, and ATP or GTP
+electron transport chain - collectively, the molecules responsible for the
+oxidation of NADH and FADH_2
+ATP synthase - enzyme which makes part of the protein spin, driving production
+of ATP from ADP and P_i
+oxidative phosphorylation - mode of ATP production which links the
+phosphorylation of ADP with the oxidation of NADH and FADH_2
+ubinquinone - non-protein found in the inner membrane of the mitochonddria
+ubinquinone - quinone which is nearly ubiquitous in organisms
+coenzyme Q - another name for ubinquinone
+proton-motive force - enzyme in the inner membrane of the mitochonddria uses
+this to synthesize ATP
+chemiosmosis - production of ATP via a proton gradient
+electron transport chain - its job is to pump protons from the matrix of the
+mitochondria through the inner membrane and out to the inner membrane space or
+the interior of cristae
+chemiosmosis - like a hydroelectric dam, where the movement of water makes
+turbines spin and generate electricity
+electron transport chain - analgous to a series of gigantic pumps that force
+water up and behind the dam
+cotochrome c - acts as a shuttle which transfers electron between complexes
+ATP synthase - enzyme that both hydrolyzes and synthesizes ATP
+lactic acid fermentation - forms a product molecule called lactate and
+regenerates NAD+
+fermentation - a metabolic pathway that regenerates NAD+ from stockpiles of
+NADH
+fermentation - allows glycosis to continue producing ATP in the absense of the
+electron acceptor required by the ETC
+NAD+ - produced when NADH gets rid of electrons
+glycosis - produces ATP via substrate-level phosphorylation when NAD+ is
+present
+fermentation - widespread type of metabolism which is inefficient compared
+with aerobic cellular respiration
+fermentation - in organisms that usually use oxygen as an electron acceptor,
+and alternative mode of energy production when oxygen supplies temporarily run
+out
+faculative aerobes - electron acceptor in oraganisms that can switch between
+fermentationh and cellular respiration
+catabolic pathways - reactions that break down molecules and produce ATP
+anabolic pathways - reactions that syntehsize larger molecules from smaller
+components
+glycerol - enters the glycotic pathway once it has been oxidized and
+phosphorylated to form glyceraldehyde-3-phosphate
+
