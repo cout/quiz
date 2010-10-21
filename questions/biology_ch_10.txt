@@ -1,0 +1,46 @@
+photosynthesis - process of using light to produce energy (check this
+definition)
+photosynthesis - before this process began on earth, it is believed there was
+no oxygen in the earth's atmosphere
+# early researchers thought that CO2 + H2O --> CH2O + O2
+# (30's/40's) - photosynthesis in purple sulfur bacteria:
+#   CO2 + 2H2S + light --> (CH2O)n + H2O + 2S
+# => shows that CO2 and H2O do not combine directly do form CH2O AND the
+# oxygen atoms in CO2 are not released as O2
+photosynthesis - two linked sets of reactions: a light-dependent reaction that
+produces O2 from H2O and a second light-independent reaction of the Calvin
+cycle that produces sugar from CO2
+electrons - link the two sets of reactions in photosynthesis
+chloroplasts - where all photosynthetic reactions occur
+surface area - the structure of a chloroplast has lots of this
+pigments - molecules that absorb light
+photosynthetic pigments - molecules that use absorbed light to drive the light
+reactions of photosynthesis
+chlorophyll - the most abundant pigment in the thylakoid membranes of plants
+electromagnetic spectrum - range of wavelengths of electromagnetic radiation
+photosynthetically active radiation - wavelengths of light used by plants
+cartenoids - absorb blue and green light and transmit yellow, orange or red
+light
+chlorophylls - absorb blue and red light and transmit green light
+chlorophyll - dominant pigment in plants due to its short wavelengths / high
+energy
+accessory pigments - absorb light and pass the energy to chlorophyll
+accessory pigments - allow the plants to absorb light from a wider range in
+the spectrum
+lutein - a pigment produced very strongly by spinach, kale, and other leafy
+greans
+chlorophyll - the first pigment to degrade when leaves die
+head - part of the chlorophyll where light is absorbed
+lipid tail - part of the chlorophyll that anchors the molecule in the
+thylakoid membrane
+ring - describes the structure of the chlorophyll head
+photosystem - group of 200+ chlorophyll molecules working together
+photosystem - consists of an antenna complex and a reaction center
+antenna complex - where energy is transmitted from one chlorophyll molecule to
+its neighbor until the energy reaches the reaction center
+reaction center - once the energy reaches this place, excited electrons are
+transferred to an electron acceptor
+redox - this type of reaction occurs at the reaction center in a photosystem
+reaction center - there are two types of this: photosystem I and photosystem
+II
+en
