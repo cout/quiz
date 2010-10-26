@@ -43,4 +43,6 @@ transferred to an electron acceptor
 redox - this type of reaction occurs at the reaction center in a photosystem
 reaction center - there are two types of this: photosystem I and photosystem
 II
-en
+enhancement effect - produced when two photosystem sowrk together (TODO:
+finish this definition)
+# TODO: missed 20 minutes of notes here
