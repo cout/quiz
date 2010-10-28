@@ -24,7 +24,14 @@ class Definitions
         end
       end
     end
+    self.ignore_todo(h)
     return self.new(h)
+  end
+
+  def self.ignore_todo(h)
+    h.delete_if do |key, definition|
+      definition =~ /\*TODO\*/
+    end
   end
 
   def to_a
