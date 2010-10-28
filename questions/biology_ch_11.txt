@@ -1,0 +1,97 @@
+meiosis - in animals, occurs prior to production of eggs and sperm
+meiosis - this type of cell division divides heriditary material in half
+mitosis - cell division responsible for growth
+mitosis - addition of somatic cells
+fertilization - restores the normal amount of hereditary material
+gametes - eggs and sperm
+mitosis - a division of the genetic material in the nucleus that produces
+daughter cells genetically identical to the parent cell
+mitosis - usually accompanied by cytokinesis
+mitosis - the basis of asexual reproduction
+mitosis - involved in the production of somatic (body) cells
+mitosis - can occur in eukaryotic organisms when they multiply without sexual
+reproduction (e.g. yeast)
+mitosis - occurs when the body repairs a wound
+chromosomes - contain a long double helix of DNA wrapped around proteins
+mitosis - its purpose is to distribute genetic material in chromosomes to
+daughter cells during cell division
+chromosomes - looks like paired "threads"
+chromosomes - their movement is the means by which cells get their genetic
+material into daughter cells
+unreplicated chromosome - consists of a single, long strand of DNA wrapped
+around proteins
+replicated chromosome - produced when chromosome is copied
+DNA - condenses around its associated proteins, resulting in a compact
+chromosome that is 10,000 times shorter than its original length
+cell cycle - the orderly sequence of events that occurs starting from the
+formation of a eukaryotic cell through the duplication of its chromosomes to
+the time it undergoes cell division
+condensed - genetic material is only visible in cells when it is this
+phases - parts of the cell cycle
+division phase - part of the cell cycle when it is dividing
+interphase - part of the cell cycle when it is not dividing
+G1 phase - originally appeared to be a gap in the cell activity
+24 hours - length of time it takes a human cell to complete one cell cycle
+S phase - DNA synthesis phase
+gap phases - ensure there is plenty of material/organelles available for cell
+division to occur
+G1 phase - when chromosomes are unreplicated
+S phase and G2 - when there are replicated chromosomes present
+sister chromatids - another name for a pair of duplicate chromosomes
+replicated chromosomes - condense at the start of mitosis
+interphase - after chromosome replication, each chromosome is composed of two
+sister chromatids
+mitosis - prior to this, centrosomes have replicated
+microtubules - large, hollow tubes made of tubulin dimers
+microtubles - originate from the centrosome and grow outword
+centrioles - two bundles of microtubules which compose the centrosome in
+animals
+mitosis - when sister chromatids separate and one chromosome copy goes to each
+daughter nucleus
+early mitotic spindle - form from the centriole during prophase
+prophase - chromsomes condense and mitotic spindle begins to form
+spindle fibers - fibers extending from the centrosomes
+prometaphase - nuclear envelope breaks down and spindle fibers contact
+chromosomes at kinetochore
+kinetochore - where spindle fibers contact chromosomes in prometaphase
+metaphase - chromosomes complete migration to the middle of the cell
+anaphase - sister chromatids separate and chromosomes are pulled to opposite
+poles of the cell
+telophase - the nuclear envelope re-forms and the spindle apparatus
+disintegrates
+cytokinesis - when the cytoplasm is divided
+cell division - part of mytosis when the actin-myosin ring causes the plasma
+membrane to begin pinching in
+cleavage furrow - row of actin filaments which tighten via motor proteins
+cell plate - produced in the process of rebuilding the cell wall in plants
+G1 phase - essentially eliminated in rapidly dividing cells
+nondividing cells - get permanently stuck in G1 phase
+G0 state - arrested stage in which nondividing cells get permanently stuck in
+G1 phase
+oocyte - *TODO*
+mitosis-promoting factor - induces mitosis in all eukaryotes
+MPF - composed of a cyclin and a protein kinase
+cyclin - in MPF, functions as a regulatory protein
+kinase - in MPF, catalyzes the transfer of a phosphate gropu from ATP to a
+target protein
+cyclin - its conceptration regulates MPF concentration
+MPF - activated by dephosphorylzation of MPF Cdk
+cdk - has constant concentration throughout mitosis
+cyclin - increases linearly throughout mitosis and then drops off
+activated MPF - cyclin + cdk with dephosphorylated, cyclin-dependent kinase
+subunit
+# activated MPF - causes:
+# 1. phosphorylate chromosomal proteins; initiate M phase
+# 2. phosphorylate nuclear lamins; initiate nuclear envelope breakdown
+# 3. phosphorylate microtubule-associated proteins; possibly activate mitotic spindle
+# 4. phosphorylate an enzyme that degrades cyclin; cyclin concentrations decline
+G2 checkpoint - passed if chromosome replication is successfully completed,
+there is no DNA damage, and activated MPF is present
+metaphase checkpoint - passed if all chromosomes are attached to the mitotic
+spindle
+G1 checkpoint - passed if there are sufficient nutrients, growth factors
+(signals from other cells) are present, cell size is adequate, and DNA is
+undamaged
+cancer - a complex family of diseases caused by cells that grow in an
+uncontrolled fashion, that invade nearby tissues, and that spread to other
+sites in the body

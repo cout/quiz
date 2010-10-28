@@ -34,4 +34,7 @@
 3.2 - pKa of F-H
 7.0 - pKa of H2S
 3.9 - pKa of H2Se
+25 - pKa of ethyne
+44 - pKa of ethene
+50 - pKa of ethane
 
