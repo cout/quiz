@@ -1,0 +1,31 @@
+-12 - pKa of KSbF6
+-10 - pKa of HI
+-9 - pKa of H2SO4
+-9 - pKa of Hbr
+-7 - pKa of HCl
+-6.5 - pKa of C6H5SO3H
+-3.8 - pKa of (CH3)2O+H
+-2.9 - pKa of (CH3)2C=O+H
+-2.5 - pKa of CH3OH2
+-1.74 - pKa of H3O+
+-1.4 - pKa of HNO3
+0.18 - pKa of CF3CO2H
+3.2 - pKa of HF
+4.21 - pKa of C6H5CO2H
+4.63 - pKa of C6H5NH3+
+4.75 - pKa of CH3CO2H
+6.35 - pKa of H2CO3
+9.0 - pKa of CH3COCH2COCH3
+9.2 - pKa of NH4+
+9.9 - pKa of C6H5OH
+10.2 - pKa of HCO3-
+10.6 - pKa of CH3NH3+
+15.7 - pKa of H2O
+16 - pKa of CH3CH2OH
+18 - pKa of (CH3)3COH
+19.2 - pKa of CH3COCH3
+25 - pKa of HC(triple bond)CH
+38 - pKa of NH3
+44 - pKa of CH2=CH2
+50 - pKa of CH3CH3
+

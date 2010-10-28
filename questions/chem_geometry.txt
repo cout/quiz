@@ -1,0 +1,52 @@
+alkynes - alkyls with at least one triple bonded carbon
+alkenes - alkyls with at least one double bonded carbon, no triple bonded
+carbons
+alkanes - alkyls with only single bonded carbons
+alkynes - alkyls with linear geometry
+alkenes - alkyls with trigonal planar geometry
+alkanes - alkyls with tetrahedral geometry
+linear - geometry with two groups of electrons
+trigonal planar - geometry with three groups of electrons
+tetrahedral - geometry with four groups of electrons
+2 - number of bonding pairs in sp hybridization
+3 - number of bonding pairs in sp2 hybridization
+4 - number of bonding pairs in sp3 hybridization
+3 - number of bonding pairs in ~sp3 trigonal pyramidal hybridization
+2 - number of bonding pairs in ~sp3 angular hybridization
+2 - number of bonding pairs in linear geometry
+3 - number of bonding pairs in trigonal planar geometry
+4 - number of bonding pairs in tetrahedral geometry
+3 - number of bonding pairs in trigonal pyramidal geometry
+2 - number of bonding pairs in angular geometry
+0 - number of nonbonding pairs in sp hybridization
+0 - number of nonbonding pairs in sp2 hybridization
+0 - number of nonbonding pairs in sp3 hybridization
+1 - number of nonbonding pairs in ~sp3 trigonal pyramidal hybridization
+2 - number of nonbonding pairs in ~sp3 angular hybridization
+0 - number of nonbonding pairs in linear geometry
+0 - number of nonbonding pairs in trigonal planar geometry
+0 - number of nonbonding pairs in tetrahedral geometry
+1 - number of nonbonding pairs in trigonal pyramidal geometry
+2 - number of nonbonding pairs in angular geometry
+2 - number of central atom electron pairs in sp hybridization
+3 - number of central atom electron pairs in sp2 hybridization
+4 - number of central atom electron pairs in sp3 hybridization
+4 - number of central atom electron pairs in ~sp3 trigonal pyramidal hybridization
+4 - number of central atom electron pairs in ~sp3 angular hybridization
+2 - number of central atom electron pairs in linear geometry
+3 - number of central atom electron pairs in trigonal planar geometry
+4 - number of central atom electron pairs in tetrahedral geometry
+4 - number of central atom electron pairs in trigonal pyramidal geometry
+4 - number of central atom electron pairs in angular geometry
+sp3 - hybridization with tetrahedral geometry
+sp2 - hybridization with trigonal planar geometry
+sp - hybridization with linear geometry
+~sp3 - hybridization with either trigonal pyramidal or angular geometry
+linear - geometry of sp hybridization
+trigonal planar - geometry of sp2 hybridization
+tetrahedral - geometry of sp3 hybridization
+trigonal planar - geometry of ~sp3 hybridization with 1 nonbonding pair on
+central atom
+angular - geometry of ~sp3 hybridization with 1 nonbonding pair on central
+atom
+

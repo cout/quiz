@@ -43,6 +43,73 @@ transferred to an electron acceptor
 redox - this type of reaction occurs at the reaction center in a photosystem
 reaction center - there are two types of this: photosystem I and photosystem
 II
-enhancement effect - produced when two photosystem sowrk together (TODO:
+enhancement effect - produced when two photosystem sowrk together (*TODO*:
 finish this definition)
 # TODO: missed 20 minutes of notes here
+z scheme - photosystems I and II working together
+ATP - produced via proton-motive force in electron transport chain
+plastoquinone - carries protons to the inside of thylakoids, creating a
+proton-motive force
+proton-motive force - created by carrying protons to the inside of thylakoids
+plastoquinone - passes electron to cytochrome complex
+photosystem II - generates ATP and molecular oxygen
+phyotosystem I - energy used to reduce 2NADP+ to 2NADPH
+calvin cycle - carbion dioxide reduced to glycose
+ATP and NADPH - used to produce sugar from CO2 in dark reactions
+dark reactions - producing sugar from CO2
+light reactions - produce ATP and NADPH
+CO2 - in calvin cycle, fixted to ribulose biphosphate (RuBP) to form 3-phosphoglycerate
+ATP and NADPH - in calvin cycle, convert 3-phosphoglycerate to
+glyceraldehyde-3-phosphate (G3P)
+RuBP - in calvin cycle, regenerated from G3P
+G3P - in calvin cycle, used to regenerate RuBP
+3 - number of turns of calvin cycle to produce one G3P
+3 - number of carbons in G3P sugar
+rubisco - most abundant enzyme on earth
+rubisco - rubulose-1,5-biphosphate carboxylase/oxygenase
+rubisco - enzyme which catalyzes the addition of CO2
+rubisco - enzyme found in every organism which utilizes the calvin cycle
+rubisco - non-specific enzyme which can catalyze the addition of O2 to RuBP
+O2 - competes with CO2 for rubisco enzyme
+CO2 - competes with O2 for rubisco enzyme
+photorespiration - occurs when O2 and RuBP are combined
+photorespiration - a reverse photosynthesis which uses up ATP and produces CO2
+photorespiration - when this occurs, rate of photosynthesis declines
+drastically
+carbon fixation - favored over photorespiration when a cell's CO2
+concentration is high and O2 concentration is low
+photorespiration - plants need to "find ways" to keep CO2 concentration high
+to avoid this
+cuticle - waxy lipid substance which cover plants
+cuticle - believed to help make transition possible for plants to live on land
+from living in water
+stomata - leaf structures where gas exchange occurs
+guard cells - two of these in stomata change shape to open or close
+stomata - open to allow atmosphereic CO2 to diffuse into the leaf and
+ultimately along a concentration gradient into its cells chloroplasts
+stomata - open when a leaf's CO2 concentration is low
+CO2 - diffuses into leaves through stomata
+C3 plants - RuBP + CO2 ---rubisco---> two 3-phosphoglycerate (3-carbon sugar)
+C4 plants - 3-carbon compound + CO2 ---PEP carboxylase---> 4-carbon organic
+acids
+PEP carboxylase - takes a 3-carbon compound and adds a CO2 to produce a
+4-carbon organic acid in C4 plants
+C4 pathway - a carbon pump
+C4 cycle - interacts with the calvin cycle
+bundle-sheath cells - surround the vascular tissue in C4 plants
+meophyll cells - where C4 cycle occurs
+bundle-sheath cells - where calvin cycle occurs
+bundle-sheath cells - where product of C4 cycle goes
+vascular tissue - where product of calvin cycle goes in C4 plants
+C4 pathway - common in plants that live in hot dry environments
+PEP carboxylase - enzyme which not catalyze the addition of CO2 (and thus
+still functions properly when stomata are closed)
+C4 pathway - minimizes photorespiration by ensuring a steady supply of CO2 to
+phtosynthesizing cells
+CAM - crassulacean acid metabolism
+crassulacea - genus name for a group of plants that are desert-type plants
+crassulacea - plants which live an a dry environment where opening stomata can
+be fatal as water would be lost
+CAM mesophyll cell - separate processes spatially instead of temporarally
+*TODO*
+
