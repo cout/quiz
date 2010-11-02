@@ -1,6 +1,7 @@
+# starting 20101028
 meiosis - in animals, occurs prior to production of eggs and sperm
-meiosis - this type of cell division divides heriditary material in half
-mitosis - cell division responsible for growth
+meiosis - this type of nuclear division divides heriditary material in half
+mitosis - nuclear division responsible for growth
 mitosis - addition of somatic cells
 fertilization - restores the normal amount of hereditary material
 gametes - eggs and sperm
@@ -60,7 +61,7 @@ poles of the cell
 telophase - the nuclear envelope re-forms and the spindle apparatus
 disintegrates
 cytokinesis - when the cytoplasm is divided
-cell division - part of mytosis when the actin-myosin ring causes the plasma
+cell division - part of mitosis when the actin-myosin ring causes the plasma
 membrane to begin pinching in
 cleavage furrow - row of actin filaments which tighten via motor proteins
 cell plate - produced in the process of rebuilding the cell wall in plants
@@ -95,3 +96,77 @@ undamaged
 cancer - a complex family of diseases caused by cells that grow in an
 uncontrolled fashion, that invade nearby tissues, and that spread to other
 sites in the body
+# starting 20101102
+exact copy of parent - result of mitosis
+mitosis - type of nuclear division that results in an exact copy of the parent
+G2 - stage of cell cycle in which most of the organelles are made
+brain cells - generally stop growing and dividing once mature
+G1 checkpoint - subject to social control
+G1 checkpoint - cancers are thought to arise from cells with defects in this
+social control - describes mechanism by which whole organism controls cell
+cycle
+meiosis - nuclear division that precedes the formation of gametes and results
+in halving of chromosome number
+gametes - egg and sperm
+meiosis - results in 4 daughter cells not identical to the parent
+alleles - different versions of a specific gene
+chromosomes - carry sections of DNA that influence one or more hereditary
+traits
+gene - a section of DNA that influences one or more hereditary traits
+homologous chromosomes - chromosomes of the same type
+homologs - chromosomes of the same type
+haploids - organisms that have one of each type of chromosome
+diploids - organisms that have two of each type of chromosome
+polyplods - organisms that have more than one of each type of chromosome
+haploid number - indicates the number of distinct types of chromosomes present
+in an organism's cells
+ploidy - indicates the number of each type of chromosomes present in a cell
+zygote - the cell that results from fertilization
+diploids - indicates the number of each type of chromosome in zygotes
+fertilization - when two haploid gametes fuse
+fertilization - restores the full complement of chromosomes after meiosis
+# TODO: fell asleep here
+prophase I - in this phase of meiosis, tetrads form by the senapse of homologs
+and crossing over occurs
+corssing over - *TODO*
+metaphase I - in this phase of meiosis, homologs align at the metaphase plate
+anaphase I and telophase I - in these phases of meiosis, diploid homologs
+separate and two haploid cells result
+meiosis II - in this phase of meiosis, sister chromatids separate
+sister chromatids - *TODO*
+sister chromatids - held together by proteins that span the entire link, plus
+at the centromere
+synaptonemal complexes - bind two pair of chromosomes together
+protein complexes - bind together non-sister chromatids
+# consequences of meiosis - independent shuffling of maternal and paternal
+chromosomes and crossing over during meiosis I result in four gametes whose
+composition is different from that of the parent cells
+sexual reproduction - results in offspring with unique characteristics through
+separation of homologous chromosomes, crossing over, and fertilization
+meiosis I - during this phase, tetrads can line up two different ways before
+the homologs separate
+tetrads - can line up two different ways before the homologs separate in
+meiosis I
+crossing over - produces novel combinations of alleles on the same chromosome
+corsisng over - increases genetic variability in gametes
+crossing over - through this, even self-fertilization leads to genetically
+variable offspring
+gametes - produced by meiosis II
+metaphase - during this phase of meiosis, chromosomes can line up in many
+different ways
+asexual reproduction - evolutionary reason given for existence of meiosis
+asexual reproduction - can produce 16 offspring in just 2 generations
+sexual reproduction - produces 4 offspring in 2 generations
+purifying selection hypothesis - in asexual reproduction, a damaged gene will
+be inherited by all of that individual's offspring.  over time, natural
+selection against deleterious alleles will nullify the numerical advantage of
+asexual reproduction
+changing environment hypothesis - offspring that are genetically different
+from their parents may be more likely to survive and produce offspring if the
+environment changes
+purifying selection hypothesis - explains sexual reproduction in that
+undesirable/harmful genes can be filtered out, whereas over time, these genes
+may multiply in asexual reproduction
+changing environment hypothesis - explains sexual reproduction in that it
+allows hosts to develop changes to combat viral infections
+
