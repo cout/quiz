@@ -1,0 +1,29 @@
+allele - different versions of the same gene
+karotype - number and type of chromosomes present
+autosomes - non-sex chromosomes
+ploidy - combination of the number of sets of chromosomes in a cell
+polyploid - species with three or more of each type of chromosome in each cell
+centromere - where sister chromatids are physically joined
+replicated chromosome - consists of two linear structures joined at the
+centromere
+gametogenesis - gamete-origin
+gametogenesis - process of forming egg or sperm cells
+metaphase plate - region in the middle of the cell where kinetochore
+microtubules move the pair of homologous chromosomes during metaphase I
+crossing over - process of chromosome exchange between paternal and maternal
+segments
+chiasma - X-shaped structure formed in early crossover
+tetrad - structure that results from synapsis
+synapsis - process of homologous chromosome pairs coming together
+cytokinesis - division of cytoplasm
+synaptonemal complex - network of proteins which hold together two-pairs of
+non-sister chromatids during prophase I
+genetic recombination - any change in the combination of alleles on a given
+chromosome
+outcrossing - alternative to self-fertilization in sexually reproducing
+species in which gametes form different individuals to form offspring
+trisomy - presence of an extra chromosome
+nondisjunction - when homologs fail to separate or disjoin
+monosomy - zygote with only one chromosome (which is too few)
+aneuploid - cells that have too many or too few chromosomes
+

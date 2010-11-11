@@ -1,0 +1,7 @@
+histone - globular protein with which DNA is associated in eukaryotic
+chromosomes
+apoptosis - controlled destruction of a cell
+p53 - activates genes to start apoptosis
+mitosis-promoting factor - induces mitosis in all eukaryotes
+cylicin-dependent kinase - protein kinase subunit of MPF
+

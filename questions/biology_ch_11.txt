@@ -128,7 +128,7 @@ fertilization - restores the full complement of chromosomes after meiosis
 # TODO: fell asleep here
 prophase I - in this phase of meiosis, tetrads form by the senapse of homologs
 and crossing over occurs
-corssing over - *TODO*
+crossing over - *TODO*
 metaphase I - in this phase of meiosis, homologs align at the metaphase plate
 anaphase I and telophase I - in these phases of meiosis, diploid homologs
 separate and two haploid cells result

@@ -1,0 +1,269 @@
+autotrophs - self-feeders
+autotrophs - make all of their own food from ions and simple molecules
+autotrophs - maples, mosses, and other photosynthetic organisms
+heterotrophs - different-feeders
+heterotrophs - have to obtain the sugars and many of the other macromolecules
+they need from other organisms
+photosynthesis - the use of sunlight to manufactore carbohydrate
+glycosis - possibly the most ancient set of energy-related chemical reactions
+from an evolutionary viewpoint
+photosynthesis - an endergonic suite of reactions that reduces carbon dioxide
+to glucose or other sugars
+cellular respiration - an exergonic suite of reactions that oxidizes glucose
+to carbon dioxide and results in the production of ATP
+Van Niel - found that the overall reaction for photosynthesis in purple sulfur
+bacteria was CO2 + 2H2S + light --> (CH2O)n + H2O + 2S
+calvin cycle - the reactions that reduce CO2 and produce sugar
+NADP+ - nicotinamide adenine dinucleotide phosphate
+NADP+ a phosphorylated version of NAD+
+NADPH - functions as an electron carrier
+NADPH - formed from NADP+ during light-capturing reactions
+ATP and NADPH - formed during light-capturing reactions
+mitochondria - wher eplants oxidize sugars and consume O2 in cellular
+respiration
+chloroplasts - organelles that are the site of photosynthesis
+thylakoids - vesicle-like structures that dominate the interior of the
+chloroplasts
+grana - interconnected statcks of thylakoids
+stroma - fluid-filled space between the thylakoids and the inner membrane
+pigments - molecules that absorb only certain wavelengths of light
+chlorophylls - pigments that reflect and transmit green light
+carotenoids - pigments that absorb in the blue and green parts of the visible
+spectrum
+carotenoids - pigments that appear yellow, orange, or red
+action spectrum - the wavelengths that drive the light-capturing reactions
+chlorophylls - pigments that absorb blue and red wavelengths
+carotenoids - absorb wavelengths of light that are not absorbed by chlorophyll
+carotenoids - extend the range of wavelengths that can drive photosynthesis
+carotenoids - "quench" free radicals by accepting or stabilizing unpaired
+electrons, thus protecting chlorophyll molecules from harm
+carotenoids - in plants, belong to two classes called carotenes and
+xanthophylls
+beta-carotene - carotenoid which gives carrots their orange color
+xanthophylls - with the carotenes, one of the two classes of carotenoids in
+plants
+carotenes - with the xanthophylls, one of the two classes of carotenoids in
+plants
+zeaxanthin - xanthophyll which gives corn kernels their bright orange color
+zeaxanthin - nearly identical to beta-carotene except that the ring structures
+on either end of the molecule contain a hydroxyl group
+flavonoids - accessory pigments which protect plants from high-energy
+radiation
+flavonoids - accessory pigments found in the vacuoles of leaf cells
+flavonoids - protects chlorophyll by absorbing ultraviolet light
+chlorophylls - pigments made up of a long tail of isoprene subunits and a head
+consisting of a large ring structure with a magnesium atom in the middle
+tail - keeps the chlorophyll molecule embedded in the thylakoid membrane
+head - part of chlorophyll where light is absorbed
+# chlorophyll does not absorb green light well, because there is no discrete
+# step that corresponds to the amount of energy in a green photon
+green - wavelengths in this spectrum are not absorbed well by chlorophyll,
+because there is no discrete step that corresponds to the amount of energy in
+a green photon
+ultraviolet - wavelengths in this spectrum have so much energy that they may
+actuall eject electrons from a chlorophyll molecule and create a free radical
+infrared - wavelengths in this spsctrum have so little energy that in most
+cases they merely increase the movement of atoms in chlorophyll, generating
+heat rather than exciting electrons
+fluorescence - when an excited electron falls back to its ground state,
+releasing some of its energy as heat and electromagnetic radiation
+photosystem - complexes, along with the proteins that capture and process
+excited electrons
+antenna complex - when a red or blue photon strikes a pigment here, the energy
+is absorbed and an electron is excited in response
+antenna complex - passes energy from electron excitement to a nearby
+chlorophyll molecule, where another electron is excited in response
+resonance - phenomenon in which energy is passed around in the antenna complex
+antenna complex - receives a specific wavelength of EM radiation and transfers
+it to a receiver
+reaction center - receiver of energy in a photosystem
+reaction center - excited electrons here are transferred to a specialized
+chlorophyll molecule that acts as an electron acceptor
+reaction center - when the chlorophyll molecule here becomes reduced, EM
+energy is transformed to chemical energy
+redox - type of reaction that occurs at the reaction center
+oxidized - in the absence of light, the electron acceptor in the reaction
+center stays in this state
+fluorescence - light interaction typical in isolated pigments
+resonance - light interaction typical in antenna complex pigments
+redox - light interaction which occurs in reaction center pigments
+enhancement effect - phenomenon in which cells exposed to a combination of
+far-red and red light increased rate of photosynthesis much more than the sum
+produced by each wavelength independently
+enhancement effect - occurs because photosynthesis is much more efficient when
+both photosystems operate together
+photosystem II - photosystem similar to the one found in purple sulfur
+bacteria
+pheophytin - indentical to chlorophyll except that pheophytin lacks a
+magnesium atom in its head region
+pheophytin - acts as electron acceptor instead of a pigment that promotes an
+electron
+pheophytin - electrons that reach here are passed to an electron transport
+chain in the thylakoid membrane
+photosystem II _ triggers chemiosmosis and ATP synthesis in the chloroplast
+plastoquinone - connects the excited electron in pheophytin with components of
+the ETC called the cytochrome complex
+quinones - small hydrophobic molecules
+platoquinones - when electrons are received from pheophytin, these carry them
+to the other side of the membrane and deliver them to more electronegative
+molecules in the chain, including a cytochrome
+plastoquinone - shuttles electrons from pheophytin to the cytochrome complex
+plastoquinone - protons transported by this result in a large concentration of
+protons in the thylakoid lumen
+thylakoid lumen - an increase in concentration of protons here results from
+protons transported by plastoquinone
+proton gradient - net effect of electron transport
+proton-motive force - drives the production of ATP
+exergonic - proton flow is this type of process
+photophosphorylation - phosphorylation of ADP in photosynthesis
+water - oxygen atoms in O2 product of photosynthesis come from this
+water - electrons that enter photosystem II come from this
+splitting - refers to the process of removing electons from water and
+oxidizing it to produce 4H+, 4e-, and O2
+splitting - supplies a steady stream of electrons for photosystem II
+splitting - results when excited electrons leave photosystem II and enter the
+ETC and the photosystem becomes electronegative
+endergonic - oxygen-generating reaction is classified as this
+oxygenic - oxygen-producing
+oxygenic - organisims with photosystem II perform this kind of photosynthesis
+anoxygenic - type of photosynthesis in organisms which cannot oxidize water
+heliobactera - sun bacteria
+heliobactera - use the energy in sunlight to promote electrons to a high
+energy state, then use these electrons to reduce NAD+
+NADH - produced in heliobacteria when NAD+ gains two electrons and a proton
+NADP+ - reduced in cyanobacteria, algae, and land plants
+ferredoxin - last molecule in the ETC in photosystem I before ferredoxin/NADP+
+oxidoreductase
+ferredoxin/NADP oxidoreductase - also called NADP+ reductase
+NADP+ reductase - transfers two electons and a proton to NADP+, forming NADPH
+thylakoid membrane - where photosystem I and NADP+ reductase are anchored
+protosystem I - produces NADPH
+NADPH - similar in function to the NADH and FADH2 produced by the citric acid
+cycle
+NADPH - an electron carrier that can donate electrons to other compounds and
+thus reduce them
+photosystem II - produces a proton gradient that drives the production of ATP
+Z scheme - model for how photosystems I and II interact
+plastocyanin - small diffusible protein at the end of photosystem II's ETC
+plastocyanin - forms a physical link between photosystem II and photosystem I
+plastocyanin - a single molecule can shuttle over 1000 electrons per second
+between photosystems
+plastocyanin - replaces electrons that are carried away from P700 in
+photosystem I
+ferredoxin - electrons that flow from photosystem II to P700 via plastocyanin
+are eventually transferred to this protein
+ferredoxin - passes electrons to an enzyme that catalyzes the reduction of
+NADP+ to NADPH
+z scheme - sometimes referred to as noncyclic electron flow
+z scheme - helps explain the enhancement effect
+cyclic photophosphorylation - an alternative electron path that occurs in
+green algae and plants
+cyclic photophosphorylation - photosystem I transfers electrons back to the
+electron transport chain in photosystem II, to augment ATP generation
+cyclic photophosphorylation - coexists with the z scheme and produces
+additional ATP
+photosystem II - abundant in the interior, stacked membranes of grana
+photosystem I - common in the exterior, unstacked membranes
+photosystem II - proton gradient that this establishes drives protons into the
+stroma
+stroma - the site of ATP production
+chloroplasts - use ATP and NADPH to reduce CO2 to sugar
+carbon fixation - the addition of CO2 to an organic compound
+carbon fixation - a redox reaction in which the carbon atom in CO2 is reduced
+3-phosphoglycerate - the initial product of carbon reduction
+RuBP - initial reactant in carbon reduction
+fixation - phase of calvin cycle which begins when CO2 reactions with RuBP
+fixation - phase of calvin cycle which produces two molecules of
+3-phosphoglycerate
+reduction - phase of calvin cycle in which 3-phosphoglycerate is
+phosphorylated by ATP and then reduced by electrons from NADPH
+reduction - phase of calvin cycle which produces the phosphorylated sugar
+glyceraldehyde-3-phosphate
+glyceraldehyde-3-phosphate - produced by the reduction phase of the calvin
+cycle
+regeneration phase - phase of the calvin cycle in which G3P serves as the
+subtrate for reactions that result in the regeneration of RuBP
+calvin cycle - takes place in the stroma of chloroplasts
+stroma - where the calvin cycle takes places
+RuBP - reaction between CO2 and this starts the transformation of CO2 from the
+atmosphere into sugars
+rubisco - ribulose-1,5-biphosphate carboxylase/oxygenase
+rubisco - found in all photosynthetic organisms that use the calvin cycle to
+fix carbon and is thought to be the most abundant enzyme on Earth
+rubisco - cube-shaped molecule with eight active sites where CO2 is fixed
+rubisco - a slow enzyme which catalyzes the incorporation of CO2 into RuBP to
+produce 3-phosphogylcerate
+rubisco - inefficient because in addition of catalzying CO2 into RuBP, it
+catalyzes O2 to RuBP as well
+maladaptive - a trait which reduces the fitness of individuals
+photorespiration - a reaction in photosynthesis which resembles respiration,
+because it consumes oxygen and produces carbon dioxide
+guard cells - paired cells on the surface of a leaf which border openings
+pore - opening between guard cells on the surface of a leaf
+stoma - structure composed of guard cells and a pore
+calvin cycle - maintains a strong concentration gradient favoring entry of CO2
+over O2 into pores
+3-phosphoglycerate - the normal product of carbon fiation by rubisco
+C3 photosynthesis - pathway which produces a three-carbon sugar
+C4 photosynthesis - pathway which produces a four-carbon sugar
+PEP carboxylase - in some plant species, CO2 can be added to RuBP by rubisco
+or to three-carbon compounds by this enzyme
+mesophyll cells - near the surface of the leaf, PEP carboxylase is common here
+bundle-sheath cells - surround the vasuclar tissue in the interior of the
+leaf, rubisco is common here
+vasuclar tissue - conducts water and nutrition in plants
+PEP carboxylase - fixes CO2 in mesophyll cells
+four-carbon organic acids - result from CO2 fixed in mesophyll cells by PEP
+carboxylase
+four-carbon organic acids - travel from mesophyll cells to bundle-sheath
+cells through plasmodesmata
+plasmodesmata - four-carboxylase organic acids travel from mesophyll cells to
+bundle-sheath cells through this
+four-carbon organic acids - release a CO2 molecule that rubisco uses as a
+substrate to form 3-phosphoglycerate, initiating the calvin cycle
+C4 pathway - acts as a CO2 concentrator
+mesophyll cells - reactions that take place here require energy in the form of
+ATP but increase CO2 concentratin in cells where rubisco is active
+C4 pathway - increases the ration of CO2 to O2 in photosynthesizing cells,
+resulting in less O2 binding to rubisco's active sites
+C4 pathway - limits damaging effects of photorespiration
+C4 pathway - an adaptation that keeps CO2 concentration in leaves high, making
+photosynthesis more eficient
+CAM - crassulacean acid metabolism
+CAM - photosynthetic pathway in Crassulaceae which limits the effects of
+photorespiration
+CAM - occurs in cacti and other species that routinely keep their stomata
+closed on hot, dry days
+C4 photosynthsis and CAM - function as CO2 pumps
+C4 photosynthsis and CAM - minimize photorespiration when stomata are closed
+and CO2 cannot diffuse in directly from the atmosphere
+C4 - in these plants, reactions catalyzed by PEP carboxylase and rubisco are
+separated in space
+CAM - in these plants, reactions catalyzed by PEP carboxylase and rubisco are
+separated in time
+light - triggers the production of proteins required for photosynthesis
+sugar - when supplies of this are high, production of proteins required for
+photosynthesis is inhibited, but production of proteins required to process
+and store sugars is stimulated
+rubisco - activated by regulatory molecules that are produced when light is
+available, but inhibited in conditions of low CO2 availability
+inorganic phospate - required by the light-capturing reactions, where it is
+incorporated into NADPH and released when the sugars produced by
+photosynthesis are processed
+inorganic phospate - P_i
+inorganic phospate - low levels of this stimulate the production of calvin
+cycle proteins; when the calvin cycle is more active and more sugar is
+produced and processed, it is no longer tied up in NADPH and can be reused in
+the light-capturing reactions
+sucrose - formed in the calvin cycle when glucose and fructose combine
+starch - polymerized from glucose molecules in an alternative pathway in the
+calvin cycle
+sucrose - almost all the glucose that is produced in the calvin cycle is used
+to produce this when photosynthesis is taking place slowly
+sucrose - converted to starch and stored for later use in the roots of the
+plant
+sucrose - broken down to fuel cellular respiration and growth, if delivered to
+rapidly growing parts of the plant
+starch - acts as a temporary sugar-storage product in photosynthesizing cells
+starch - broken down at night and used to manufacture sucrose molecules
+
