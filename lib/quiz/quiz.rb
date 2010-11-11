@@ -1,5 +1,5 @@
 class Quiz
-  def go
+  def go(file=$stdin)
     loop do
       question = ask()
       puts "================================="
@@ -7,7 +7,7 @@ class Quiz
       puts "================================="
       print "? "
       $stdout.flush
-      answer = gets
+      answer = file.gets
       answer.chomp!
       if answer == question.answer then
         puts "Correct"
