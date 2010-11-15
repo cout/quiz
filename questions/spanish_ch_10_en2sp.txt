@@ -70,3 +70,7 @@ quedar - to be remaining
 sacar una buena nota - to get a good grade
 sacar una mala nota - to get a bad grade
 
+estados de ánimo - states of mind
+reacciones - reactions
+para sentirse bien - to feel well
+
