@@ -17,7 +17,7 @@ enojado - angry
 nervioso - nervous
 tenso - tense
 contento - happy
-enfodado - angry
+enfadado - angry
 triste - sad
 alegre - happy
 avergonzado - ashamed
@@ -54,7 +54,7 @@ caminar - to walk
 cantar - to sing
 jugar al basquetbol - to play basketball
 jugar al béisbol - to play baseball
-jugar al tenis - to play teniss
+jugar al tenis - to play tennis
 jugar al boliche - to bowl
 levantar pesas - to lift weights
 pintar - to paint
@@ -72,5 +72,30 @@ sacar una mala nota - to get a bad grade
 
 estados de ánimo - states of mind
 reacciones - reactions
-para sentirse bien - to feel well
+para sentirse bien - in order to feel well
+
+faxear - to fax (Venezuela)
+clickear - to click (Venezuela)
+descremada - "light"
+me gusta tu look - I like your look (mexico)
+dame chance - give me a chance (mexico)
+globalización - has caused much change in the hispanic world
+carnicería - butcher
+mercado abierto - open market
+farmacia - pharmacy
+hemos tenido - we've had
+supermercado - supermarket
+almacén - warehouse
+además - besides
+cadenas - chains
+cambiar - to change
+comida rápida - fast food
+marca - brand
+conseguir - to obtain
+comida casera - homemade food
+mezclas en polvo - powdered mixes
+congelado - frozen
+microonda - microwave
+preparaban a mano - prepared from scratch
+aguas de fruta - fruit drinks
 

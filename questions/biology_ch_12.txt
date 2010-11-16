@@ -1,0 +1,20 @@
+# missed first 30 minutes of class
+heterozygous - *TODO*
+genotype - *TODO*
+phenotype - *TODO*
+gamete - *TODO*
+testcross - tool used by Mendel in which homozygous recessive parent is mated
+with a parent with dominant phenotype and unknown genotype
+testcross - tool used by Mendel to infer genotype of parent with dominant
+phenotype and unknown genotype
+chromosome theory of inheritance - explains Mendel's principle of segregation
+by independent alignment and separation of homologous chromosomes containing
+alleles for a gene at meiosis I
+principle of segregation - for genes located on the same chromosome, each
+gamete carries only one allele, because alleles have segregated during meiosis
+principle of independent assortment - genes located on different chromosomes
+assort independently
+karotype - *TODO*
+x-linked inheritance - *TODO*
+reciprocal cross - *TODO*
+

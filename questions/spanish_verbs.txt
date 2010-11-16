@@ -1,0 +1,12 @@
+hablo - hablar 1s present
+hablas - hablar 2s present
+habla - hablar 3s present
+hablamos - hablar 1s present
+hablan - habler 3s present
+
+hablaba - hablar 1s imperfect
+hablabas - hablar 1s imperfect
+hablaba - hablar 1s imperfect
+hablábamos - hablar 1p imperfect
+hablaban - hablar 3p imperfect
+
