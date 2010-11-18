@@ -2,8 +2,8 @@ acampar - to go camping
 andar en bicicleta - to ride a bicycle
 andar en monopatín - to ride a scooter
 andar en patineta - to ride a skateboard
-bañanarse - to bathe
-bañanarse en un jacuzzzi - to bathe in a jacuzzi
+bañarse - to bathe
+bañarse en un jacuzzzi - to bathe in a jacuzzi
 bucear - to scuba
 dibujar - to draw
 escalar montañas  - to mountain climb
