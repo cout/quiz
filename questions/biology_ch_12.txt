@@ -1,3 +1,4 @@
+# 20101110
 # missed first 30 minutes of class
 heterozygous - *TODO*
 genotype - *TODO*
@@ -17,4 +18,60 @@ assort independently
 karotype - *TODO*
 x-linked inheritance - *TODO*
 reciprocal cross - *TODO*
+
+# 20101116
+drosophila melanogaster - eye color of this organism can be easily followed in
+different generations
+sex-linked chromosome - eye color in drosophila melanogaster is an example
+karyotyping - determining how many individual chromosomes an individual
+organism has and how many copies it has
+# X any Y chromosomes are *different sizes*, so they cannot possibly carry the
+# same genes
+# However, the line up just like the other chromosomes as if they did contain
+# the same genes
+sex-linked inheritance - occurs when the gene being inherited is located on
+one of the sex chromosomes
+#    |  w    y
+# ---|-----------
+# w+ | w+w  w+y
+# w  | ww   wy
+autosomes - non-sex chromosomes
+autosomal inheritance - results from genes on autosomes
+autosomes - do not configmed to Mendel's rules
+reciprocal crosses - these crosses often give different results from Mendel's
+rules
+linked genes - inherited together unless crossing over occurs
+recombinant chromosomes - recombinant combinations of alleles
+greater physical distance - increases the chance that crossing over will occur
+linear arraay - genes on a chromosome are arranged this way
+physical distance - dictates the frequency of crossing over between genes
+location - can be mapped by analyzing a gene's frequency of recombination
+frequency of recombination - calculated as frequency of recombinant genotype /
+total # offspring)
+genetic map - diagram that shows the relative locations of specific genes on a
+certain chromosome
+centiMorgans - unit of distance between two genes on a genetic map
+centiMorgans - one map unit on a genetic map represents one of these
+centiMorgans - represents the physical distance that produces 1%... *TODO*
+independent assortment - occurs for genes more than 50 or more map units apart
+on the same chromosome
+multiple allelism - when a gene has more than two alleles
+polymorphic - a trait in which more than two distinct phenotypes are present
+in a population due to multiple allelism
+incomplete dominance - when heterozygotes have an intermediate phenotype
+incomplete dominance and codominance - when alleles of a gene are not clearly
+dominant or recessive
+codominance - a trait displayed in a heterozygous organism that displays the
+phenotype of both alleles of a single gene
+pleitropic - a gene that influences multiple traits
+Marfan syntrome - a good example in humans of a pleiotropic gene
+epistasis - when one gene affects the action of another gene
+blanks - when writing a genotype, mean that either allele can be present
+discrete - traits that are qualitatively different and no intermediate
+phenotypes exist
+quantitative - traits that fall into a continuum
+polygenic inheritance - each gene adds a small amount to the value of a
+phenotype
+# 1 6 15 20 15 6 1
+# summary table 13.2 - extensions to mendel's rules
 
