@@ -1,0 +1,16 @@
+hydrogenated alkyl - hydrogenation
+saturated alkane - hydrogenation
+alkyl halide - hydrohalogenation
+alkyl bromide - anti-markovnikov hydrobromation
+alcohol - acid-catalyzed hydration
+alcohol - sulfonation
+diol - dihydroxylation
+diol - syn-dihydroxylation
+alkyl dihalide - electrophilic halogenation
+halohydrin - halohydrin formation
+alcohol - hydroboration-oxidation
+hydrogenated alkyl - hydroboration-protonolysis
+saturated alkane - hydroboration-protonolysis
+alcohol - oxymercuration-demercuration
+ether - solvomercuration-demercuration
+

@@ -1,0 +1,16 @@
+H2+metal catalyst - hydrogenation
+H-X - hydrohalogenation
+H-Br/ROOR - anti-makovnikov hydrobromation
+dilute H3O+, cold - acid-catalyzed hydration
+1) H2SO4, cold 2) H20, heat - sulfonation
+1) MCBPA, 2) H3O+ - dihydroxylation
+1) RCO3H, 2) H3O+ - dihydroxylation
+1) dilute KMnO4, OH-, H2O, cold 2) OH-/H2O - syn-dihydroxylation
+1) OSO4/pyridine 2) NaHSO3/H2O - syn-dihydroxylation
+1) [Ox] 2) NaHSO3/H2O - syn-dihydroxylation
+H2, dark - electrophilic halogenation
+X2/H2O - halohydrin formation
+1) BH3:THF (3x) 2) H2O2, OH- (3x) - hydroboration-oxidation
+1) Hg(OAc)2/THF-H2O 2) NaBH4, OH- - oxymercuration-demercuration
+1) Hg(CCF3)2/THF-ROH 2) NaBH4, OH- - solvomercuration-demercuration
+
