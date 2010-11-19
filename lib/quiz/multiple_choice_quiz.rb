@@ -33,6 +33,7 @@ class MultipleChoiceQuiz < Quiz
   def format_choices(choices, n=4)
     str = ""
     for i in 0...n do
+      next if not choices[i]
       str << "#{multi(i)}. #{choices[i][0]}\n"
     end
     return str
