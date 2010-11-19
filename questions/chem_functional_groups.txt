@@ -1,0 +1,7 @@
+alkynes - alkyls with at least one triple bonded carbon
+alkenes - alkyls with at least one double bonded carbon, no triple bonded
+carbons
+alkanes - alkyls with only single bonded carbons
+alkynes - alkyls with linear geometry
+alkenes - alkyls with trigonal planar geometry
+alkanes - alkyls with tetrahedral geometry

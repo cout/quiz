@@ -1,0 +1,4 @@
+sp3 - hybridization with tetrahedral geometry
+sp2 - hybridization with trigonal planar geometry
+sp - hybridization with linear geometry
+~sp3 - hybridization with either trigonal pyramidal or angular geometry
