@@ -1,0 +1,17 @@
+weak nucleophile - no charge
+moderate nucleophile - stabilized negative charge
+strong nucleophile - unstabilized negative charge
+strong nucleophile - I¯
+strong nucleophile - SH¯
+strong nucleophile - S-R¯
+strong nucleophile - OH¯
+strong nucleophile - R-O¯
+strong nucleophile - R3N
+strong nucleophile - C===N¯ (triple bond)
+strong nucleophile - C¯===CR (triple bond)
+strong nucleophile - N3¯
+weak nucleophile - F¯
+weak nucleophile - ROO¯
+weak nucleophile - ROH
+weak nucleophile - HOH
+very weak nucleophile - carbonyl

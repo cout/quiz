@@ -1,0 +1,18 @@
+excellent leaving group - no negative charge
+good leaving group - stable negative charge
+bad leaving group - unstabilized negative charge
+good leaving gruop - able to accept C-LG e¯ pair
+better leaving group - more resonance
+better leaving group - weaker base
+better leaving group - more stable anion
+good leaving group - I¯ 
+good leaving group - Cl¯
+good leaving group - Br¯
+good leaving group - H2O¯
+good leaving group - ROH
+poor leaving group - F¯
+poor leaving group - NH2¯
+poor leaving group - OH¯
+poor leaving group - H¯
+poor leaving group - R¯
+

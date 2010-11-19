@@ -1,0 +1,9 @@
+faster - more stable leaving group
+faster - more stable products
+faster - lower activation energy
+faster - lower energy to reach transition state
+slower - less stable leaving group
+slower - less stable products
+slower - higher activation energy
+slower - higher energy to reach transition state
+
