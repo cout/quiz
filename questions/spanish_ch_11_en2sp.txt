@@ -15,7 +15,7 @@ hacer yoga - to do yoga
 ir al teatro - to go to the theater
 jugar - to play
 jugar a los naipes - to play cards
-jugar golf - to play golf
+jugar al golf - to play golf
 jugar al voleibol - to play volleyball
 meditar - to meditate
 navegar en un barco - to sail
@@ -23,6 +23,7 @@ patinar - to skate
 patinar en línea - to inline skate
 pescar - to fish
 saltar a la cuarda - to jump rope
+saltar - to jump
 tener un picnic - to have a picnic
 trabajar en el jardín - to garden
 utilizar la aromaterapia - to use aromatherapy
