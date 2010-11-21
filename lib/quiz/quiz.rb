@@ -1,14 +1,14 @@
 class Quiz
+  def initialize(frontend)
+    @frontend = frontend
+  end
+
   def go(file=$stdin)
     loop do
       question = ask()
-      puts "================================="
-      puts question
-      puts "================================="
-      print "? "
-      $stdout.flush
-      answer = file.gets
-      answer.chomp!
+      @frontend.show_question(question)
+
+      answer = @frontend.get_response()
       if answer == question.answer then
         puts "Correct"
       else
