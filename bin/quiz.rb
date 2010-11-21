@@ -6,12 +6,8 @@ if not ARGV[0] then
   exit 1
 end
 
-definitions = [ ]
-ARGV.each do |filename|
-  definitions << Definitions.load(filename)
-end
-
+set = Definitions.load_set(*ARGV)
 frontend = CuiFrontend.new
-quiz = MultipleChoiceQuiz.new(frontend, *definitions)
+quiz = MultipleChoiceQuiz.new(frontend, *set)
 quiz.go
 

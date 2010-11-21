@@ -4,6 +4,14 @@ class Definitions
     @a = h.to_a
   end
 
+  def self.load_set(*filenames)
+    set = [ ]
+    filenames.each do |filename|
+      set << Definitions.load(filename)
+    end
+    return set
+  end
+
   def self.load(filename)
     h = { }
     definition = nil
