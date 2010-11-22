@@ -6,6 +6,12 @@ class CuiFrontend
     @outfile = outfile
   end
 
+  def ask(question, quiz)
+    show_question(question)
+    answer = get_response()
+    quiz.got_response(question, answer)
+  end
+
   def show_question(question)
     @outfile.puts "================================="
     @outfile.puts question
