@@ -1,5 +1,5 @@
 require 'quiz'
-require 'quiz/frontend/cui'
+require 'quiz/frontend/wx'
 
 if __FILE__ == $0 then
 
@@ -9,9 +9,9 @@ if not ARGV[0] then
 end
 
 set = Quiz::Definitions.load_set(*ARGV)
-frontend = Quiz::CuiFrontend.new
+frontend = Quiz::WxFrontend.new
 quiz = Quiz::MultipleChoiceQuiz.new(frontend, *set)
-quiz.go
+frontend.main_loop
 
 end
 
