@@ -17,6 +17,7 @@ class WxFrontend < Wx::App
 
     @quiz = MultipleChoiceQuiz.new(self, *@set)
     next_question()
+
     return true
   end
 
