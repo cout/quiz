@@ -1,3 +1,5 @@
+module Quiz
+
 class Definitions
   def initialize(h)
     @h = h
@@ -47,3 +49,4 @@ class Definitions
   end
 end
 
+end

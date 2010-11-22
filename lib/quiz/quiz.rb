@@ -1,3 +1,5 @@
+module Quiz
+
 class Quiz
   def initialize(frontend)
     @frontend = frontend
@@ -9,13 +11,15 @@ class Quiz
       @frontend.show_question(question)
 
       answer = @frontend.get_response()
+
       if answer == question.answer then
-        puts "Correct"
+        @frontend.correct_answer(question)
       else
-        puts "No, the correct answer was #{question.answer}"
+        @frontend.incorrect_answer(question)
       end
-      puts
     end
   end
+end
+
 end
 

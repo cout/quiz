@@ -1,5 +1,7 @@
 require 'quiz/question'
 
+module Quiz
+
 class MultipleChoiceQuestion < Question
   def initialize(choices, correct_choice, n=4)
     question = self.format_question(choices, correct_choice)
@@ -24,4 +26,6 @@ class MultipleChoiceQuestion < Question
   def multi(i)
     return "abcdefghijklmnopqrstuvwxyz"[i].chr
   end
+end
+
 end

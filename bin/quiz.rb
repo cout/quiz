@@ -6,8 +6,8 @@ if not ARGV[0] then
   exit 1
 end
 
-set = Definitions.load_set(*ARGV)
-frontend = CuiFrontend.new
-quiz = MultipleChoiceQuiz.new(frontend, *set)
+set = Quiz::Definitions.load_set(*ARGV)
+frontend = Quiz::CuiFrontend.new
+quiz = Quiz::MultipleChoiceQuiz.new(frontend, *set)
 quiz.go
 

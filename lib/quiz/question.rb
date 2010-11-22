@@ -1,3 +1,5 @@
+module Quiz
+
 class Question
   attr_reader :question
   attr_reader :answer
@@ -10,5 +12,7 @@ class Question
   def to_s
     return question.to_s
   end
+end
+
 end
 

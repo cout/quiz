@@ -1,5 +1,7 @@
 require 'quiz/multiple_choice_question'
 
+module Quiz
+
 class MultipleChoiceQuiz < Quiz
   def initialize(frontend, *definitions)
     super(frontend)
@@ -29,5 +31,7 @@ class MultipleChoiceQuiz < Quiz
     definitions = @definitions[idx]
     return definitions
   end
+end
+
 end
 
