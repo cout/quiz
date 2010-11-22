@@ -1,7 +1,7 @@
 excellent leaving group - no negative charge
 good leaving group - stable negative charge
 bad leaving group - unstabilized negative charge
-good leaving gruop - able to accept C-LG e¯ pair
+good leaving group - able to accept C-LG e¯ pair
 better leaving group - more resonance
 better leaving group - weaker base
 better leaving group - more stable anion
