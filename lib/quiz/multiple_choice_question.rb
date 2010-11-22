@@ -3,9 +3,9 @@ require 'quiz/question'
 module Quiz
 
 class MultipleChoiceQuestion < Question
-  def initialize(choices, correct_choice, n=4)
+  def initialize(choices, correct_choice)
     question = self.format_question(choices, correct_choice)
-    question << self.format_choices(choices, n)
+    question << self.format_choices(choices)
 
     super(question, self.multi(correct_choice))
   end
@@ -14,11 +14,10 @@ class MultipleChoiceQuestion < Question
     return "* #{choices[correct_choice][1]}\n"
   end
 
-  def format_choices(choices, n=4)
+  def format_choices(choices)
     str = ""
-    for i in 0...n do
-      next if not choices[i]
-      str << "#{multi(i)}. #{choices[i][0]}\n"
+    choices.each_with_index do |choice, idx|
+      str << "#{multi(idx)}. #{choice[0]}\n"
     end
     return str
   end

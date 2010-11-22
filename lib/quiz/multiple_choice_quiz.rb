@@ -21,9 +21,9 @@ class MultipleChoiceQuiz < Quiz
 
     d = definitions.shuffle
     choices = d.take(n)
-    correct_choice = rand(n)
+    correct_choice = rand(choices.size)
 
-    return MultipleChoiceQuestion.new(choices, correct_choice, n)
+    return MultipleChoiceQuestion.new(choices, correct_choice)
   end
 
   def pick_definition_set

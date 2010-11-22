@@ -11,7 +11,7 @@ end
 set = Quiz::Definitions.load_set(*ARGV)
 frontend = Quiz::CuiFrontend.new
 quiz = Quiz::MultipleChoiceQuiz.new(frontend, *set)
-quiz.go
+frontend.main_loop(quiz)
 
 end
 

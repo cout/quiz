@@ -5,13 +5,6 @@ class Quiz
     @frontend = frontend
   end
 
-  def go
-    loop do
-      question = ask()
-      @frontend.ask(question, self)
-    end
-  end
-
   def got_response(question, answer)
     validate_response(question, answer)
   end

@@ -9,9 +9,8 @@ if not ARGV[0] then
 end
 
 set = Quiz::Definitions.load_set(*ARGV)
-frontend = Quiz::WxFrontend.new
-quiz = Quiz::MultipleChoiceQuiz.new(frontend, *set)
-frontend.main_loop
+frontend = Quiz::WxFrontend.new(*set)
+frontend.main_loop()
 
 end
 
