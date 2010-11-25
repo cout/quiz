@@ -36,7 +36,7 @@ class MultipleChoiceQuiz < Quiz
     defs.each do |term, defn|
       next if choices.find { |t, d| t == term or d == defn }
       break if choices.size == n
-      choices << [ term, defn ]
+      choices << defn
     end
     return choices
   end

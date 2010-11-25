@@ -1,3 +1,5 @@
+require 'quiz/definition'
+
 module Quiz
 
 class Definitions
@@ -32,7 +34,7 @@ class Definitions
           # definition
           term = $1
           definition = $2
-          h[term] = definition
+          h[term] = Definition.new(term, definition)
         when /^(.*)\s+\|/
           prev_line = $1 + "\n"
         else
