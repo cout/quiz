@@ -11,23 +11,26 @@ class MultipleChoiceQuestion < Question
   end
 
   def format_question(choices, correct_choice)
-    return "* #{choices[correct_choice].term}\n"
+    return "* #{choices[correct_choice].definition}\n"
   end
 
   def format_choices(choices)
     str = ""
     choices.each_with_index do |choice, idx|
-      str << format_choice(idx, choice)
+      str << format_choice(idx, choice) << "\n"
     end
     return str
   end
 
   def format_choice(idx, choice)
-    return "#{multi(idx)}. #{format_definition(choice.definition)}\n"
+    opt = "#{multi(idx)}. "
+    t = format_term(choice.term, opt.length)
+    return "#{opt}#{t}"
   end
 
-  def format_definition(definition)
-    return definition.gsub(/\n/m, "\n   ")
+  def format_term(term, l)
+    div = "\n" + (" " * l)
+    return term.gsub(/\n/m, div)
   end
 
   def multi(i)
