@@ -1,12 +1,12 @@
 irrelevant - hydrogenation
-markovnikov - hydrohalogenation
+markovnikov - hydrohalogenation with H-X
 anti-markovnikov - anti-markovnikov hydrobromation
 markovnikov - acid-catalyzed hydration
 markovnikov - sulfonation
 irrelevant - dihydroxylation
 irrelevant - syn-dihydroxylation
 irrelevant - electrophilic halogenation
-OH goes on more substituted C - halohydrin formation
+OH goes on more substituted C - halohydrin formation with X₂/H₂O
 anti-markovnikov - hydroboration-oxidation
 irrelevant - hydroboration-protonolysis
 markovnikov - oxymercuration-demercuration

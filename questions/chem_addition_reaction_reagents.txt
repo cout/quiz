@@ -1,16 +1,25 @@
-H₂+metal catalyst - hydrogenation
-H¯X - hydrohalogenation
-H-Br/ROOR - anti-makovnikov hydrobromation
-dilute H₂O⁺, cold - acid-catalyzed hydration
-① H₂SO4, cold ② H₂0, heat - sulfonation
-① MCBPA, ② H₃O⁺ - dihydroxylation
-① RCO₃H, ② H₃O⁺ - dihydroxylation
-① dilute KMnO4, OH¯, H₂O, cold ② OH¯/H₂O - syn-dihydroxylation
-① OSO₄/pyridine ② NaHSO₃/H₂O - syn-dihydroxylation
-① [Ox] ② NaHSO₃/H₂O - syn-dihydroxylation
-H₂, dark - electrophilic halogenation
-X₂/H₂O - halohydrin formation
-① BH3:THF (3x) ② H₂O₂, OH¯ (3x) - hydroboration-oxidation
-① Hg(OAc)₂/THF-H₂O ② NaBH₄, OH¯ - oxymercuration-demercuration
-① Hg(CCF₃)₂/THF-ROH ② NaBH₄, OH¯ - solvomercuration-demercuration
+H₂+metal catalyst - hydrogenation reagents
+H-X - hydrohalogenation reagents
+H-Br/ROOR - anti-makovnikov hydrobromation reagents
+dilute H₂O⁺, cold - acid-catalyzed hydration reagents
+① H₂SO4, cold |
+② H₂0, heat - sulfonation reagents
+① MCBPA, |
+② H₃O⁺ - dihydroxylation reagents
+① RCO₃H, |
+② H₃O⁺ - dihydroxylation reagents
+① dilute KMnO4, OH¯, H₂O, cold |
+② OH¯/H₂O - syn-dihydroxylation reagents
+① OSO₄/pyridine |
+② NaHSO₃/H₂O - syn-dihydroxylation reagents
+① [Ox] |
+② NaHSO₃/H₂O - syn-dihydroxylation reagents
+X₂, dark - electrophilic halogenation reagents
+X₂/H₂O - halohydrin formation reagents
+① BH3:THF (3x) |
+② H₂O₂, OH¯ (3x) - hydroboration-oxidation reagents
+① Hg(OAc)₂/THF-H₂O |
+② NaBH₄, OH¯ - oxymercuration-demercuration reagents
+① Hg(CCF₃)₂/THF-ROH |
+② NaBH₄, OH¯ - solvomercuration-demercuration reagents
 

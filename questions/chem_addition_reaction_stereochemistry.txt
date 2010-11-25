@@ -1,12 +1,12 @@
 syn - hydrogenation
-prone to rearrangements - hydrohalogenation
+prone to rearrangements - hydrohalogenation with H-X
 prone to rearrangements - anti-markovnikov hydrobromation
 prone to rearrangements - acid-catalyzed hydration
 prone to rearrangements - sulfonation
 anti - dihydroxylation
 syn - syn-dihydroxylation
 anti - electrophilic halogenation
-anti - halohydrin formation
+anti - halohydrin formation with X₂/H₂O
 syn - hydroboration-oxidation
 syn - hydroboration-protonolysis
 mixture of syn+anti - oxymercuration-demercuration
