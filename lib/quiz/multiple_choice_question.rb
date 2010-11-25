@@ -17,7 +17,8 @@ class MultipleChoiceQuestion < Question
   def format_choices(choices)
     str = ""
     choices.each_with_index do |choice, idx|
-      str << "#{multi(idx)}. #{choice[0]}\n"
+      s_choice = choice[0].gsub(/\n/m, "\n   ")
+      str << "#{multi(idx)}. #{s_choice}\n"
     end
     return str
   end
