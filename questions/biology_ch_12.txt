@@ -75,3 +75,27 @@ phenotype
 # 1 6 15 20 15 6 1
 # summary table 13.2 - extensions to mendel's rules
 
+# 20101123
+pedigree - used to analyze human crosses that already exist
+family trees - used to analyze human crosses that already exist
+autosomal recessive - individuals with the trait must be heterozygous
+recessive *TODO*
+autosomal dominant - individuals who are homozygous or heterozygous for the
+trait will display the dominant phenotype
+autosomal dominant - the child will never show the trait if neither of the
+parents do
+x-linked - most sex-linked traits will be this
+x chromosome - if males display the treait much more commonly than females, it
+is probably found here
+recessive - this type of x-linked trait will show up almost exclusively in
+males
+recessive - this type of x-linked trait will often skip a generation
+recessive - with this type of x-linked trait females will almost always get a
+dominant allele from their mothers
+virulences - ability to cause disease
+# Questions - how does the simple primary and secondary structure of DNA hold
+# the information required to make life possible?
+# How is DNA copied so that genetic information is failthfully passed from one
+# cell to another during growth and from parents to offspring during
+# reproduction?
+
