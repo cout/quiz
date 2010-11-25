@@ -2,17 +2,17 @@ H₂/metal catalyst - syn H-H addition
 H-X - markovnikov H-X addition
 H-Br/ROOR - anti-markovnikov H-Br addition
 dilute H₃O⁺, cold - alcohol, markovnikov addition
-1) H₂SO₄, cold 2) H₂O, heat - alcohol, markovnikov addition
-1) MCBPA 2) H₃O⁺ - diol, anti addition
-1) RCO₃H 2) H₃O⁺ - diol, anti addition
-1) dilute KMnO₄, OH¯, H₂O, cold 2) OH¯/H₂O - diol, syn addition
-1) OSO₄/pyridine 2) NaHSO₃/H₂O - diol, syn addition
-1) [Ox] 2) NaHSO₃/H₂O - diol, syn addition
+① H₂SO₄, cold ② H₂O, heat - alcohol, markovnikov addition
+① MCBPA ② H₃O⁺ - diol, anti addition
+① RCO₃H ② H₃O⁺ - diol, anti addition
+① dilute KMnO₄, OH¯, H₂O, cold ② OH¯/H₂O - diol, syn addition
+① OSO₄/pyridine ② NaHSO₃/H₂O - diol, syn addition
+① [Ox] ② NaHSO₃/H₂O - diol, syn addition
 X₂, dark - alkyl dihalide, anti addition
 X₂/H₂O - halohydrin
-1) BH₃:THF (3x) 2) H₂O₂, OH¯ (3x) - alcohol, syn anti-markovnikov addition
-1) BH₃:THF (3x) 2) CH₃COOH, heat (3x) - syn H-H addition
-1) Hg(OAc)₂/THF-H₂O 2) NaBH₄, OH¯ - alcohol, markovnikov addition, mixture of
+① BH₃:THF (3x) ② H₂O₂, OH¯ (3x) - alcohol, syn anti-markovnikov addition
+① BH₃:THF (3x) ② CH₃COOH, heat (3x) - syn H-H addition
+① Hg(OAc)₂/THF-H₂O ② NaBH₄, OH¯ - alcohol, markovnikov addition, mixture of
 syn+anti
-1) Hg(CCF₃)₂/THF-ROH 2) NaBH₄, OH¯ - ether, markovnikov addition, mixture of syn+anti
+① Hg(CCF₃)₂/THF-ROH ② NaBH₄, OH¯ - ether, markovnikov addition, mixture of syn+anti
 
