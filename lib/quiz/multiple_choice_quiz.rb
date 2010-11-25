@@ -18,9 +18,7 @@ class MultipleChoiceQuiz < Quiz
 
   def ask(n=4)
     definitions = self.pick_definition_set()
-
-    d = definitions.shuffle
-    choices = d.take(n)
+    choices = self.pick_choices(definitions, n)
     correct_choice = rand(choices.size)
 
     return MultipleChoiceQuestion.new(choices, correct_choice)
@@ -30,6 +28,17 @@ class MultipleChoiceQuiz < Quiz
     idx = rand(@definitions.length)
     definitions = @definitions[idx]
     return definitions
+  end
+
+  def pick_choices(definitions, n=4)
+    choices = []
+    defs = definitions.shuffle
+    defs.each do |term, defn|
+      next if choices.find { |t, d| t == term or d == defn }
+      break if choices.size == n
+      choices << [ term, defn ]
+    end
+    return choices
   end
 end
 
