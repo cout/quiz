@@ -17,17 +17,24 @@ class Definitions
   def self.load(filename)
     h = { }
     definition = nil
+    prev_line = ''
+
     File.open(filename) do |file|
       file.each_line do |line|
         line.chomp!
+        line = prev_line + line
+        prev_line = ''
+
         case line
         when /^\s*$/, /^#/
           # comment
-        when /^(.*?)\s+-\s+(.*)/
+        when /^(.*?)\s+-\s+(.*)/m
           # definition
           term = $1
           definition = $2
           h[term] = definition
+        when /^(.*)\s+\|/
+          prev_line = $1 + "\n"
         else
           definition << ' ' if definition[-1] == ?.
           definition << ' ' << line
