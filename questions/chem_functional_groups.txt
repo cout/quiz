@@ -5,3 +5,26 @@ alkanes - alkyls with only single bonded carbons
 alkynes - alkyls with linear geometry
 alkenes - alkyls with trigonal planar geometry
 alkanes - alkyls with tetrahedral geometry
+phenyl - ⌬-⌇
+benzyl - ⌬-Me-⌇
+alkyl halides - R-X
+1° alkyl halide - R-CH₂-X
+2° alkyl halide - R-CH-X
+3° alkyl halide - R-C-X
+alcohol - R-OH
+symmetric ether - R-O-R
+ether - R-O-R'
+1° amine - R-NH2
+2° amine - R-NH-R'
+3° amine - R-NR'-R"
+carbonyl - R-(C=O)
+aldehyde - R-(C=O)-H
+ketone - R-(C=O)-R'
+ester - R-(C=O)-OR'
+carboxylic acid - R-(C=O)-OH
+amide - R-(C=O)-(amine)
+unsubstituted amide - R-(C=O)-NH2
+N-substituted amide - R-(C=O)-NH-R'
+N,N-substituted amide - R=(C=O)-NR'-R"
+nitrile - R-C≡N
+

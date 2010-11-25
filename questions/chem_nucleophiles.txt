@@ -7,8 +7,8 @@ strong nucleophile - S-R¯
 strong nucleophile - OH¯
 strong nucleophile - R-O¯
 strong nucleophile - R₃N
-strong nucleophile - C===N¯ (triple bond)
-strong nucleophile - C¯===CR (triple bond)
+strong nucleophile - C≡N¯
+strong nucleophile - C¯≡CR
 strong nucleophile - N₃¯
 weak nucleophile - F¯
 weak nucleophile - ROO¯

@@ -24,7 +24,7 @@
 16 - pKa of CH₃CH₂OH
 18 - pKa of (CH₃)₃COH
 19.2 - pKa of CH₃COCH₃
-25 - pKa of HC(triple bond)CH
+25 - pKa of HC≡CH
 38 - pKa of NH₃
 44 - pKa of CH₂=CH₂
 50 - pKa of CH₃CH₃
