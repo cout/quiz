@@ -2,10 +2,10 @@ linear - geometry with two groups of electrons
 trigonal planar - geometry with three groups of electrons
 tetrahedral - geometry with four groups of electrons
 linear - geometry of sp hybridization
-trigonal planar - geometry of sp2 hybridization
-tetrahedral - geometry of sp3 hybridization
-trigonal planar - geometry of ~sp3 hybridization with 1 nonbonding pair on
+trigonal planar - geometry of sp² hybridization
+tetrahedral - geometry of sp³ hybridization
+trigonal planar - geometry of ~sp³ hybridization with 1 nonbonding pair on
 central atom
-angular - geometry of ~sp3 hybridization with 1 nonbonding pair on central
+angular - geometry of ~sp³ hybridization with 1 nonbonding pair on central
 atom
 
