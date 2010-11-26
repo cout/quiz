@@ -26,7 +26,7 @@ class Definition
   end
 
   def =~(rhs)
-    return term == rhs.term || definition == rhs.definition
+    return (term == rhs.term) || (definition == rhs.definition)
   end
 end
 
