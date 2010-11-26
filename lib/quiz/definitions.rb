@@ -66,6 +66,10 @@ class Definitions
   def to_h
     return @h
   end
+
+  def each(&block)
+    @a.each(&block)
+  end
 end
 
 end

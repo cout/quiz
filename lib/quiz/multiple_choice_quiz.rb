@@ -5,20 +5,50 @@ require 'set'
 
 module Quiz
 
+class MultipleChoiceQuestionGenerator
+  def initialize(choice)
+    @choice = choice
+    @definitions = choice.definitions.to_a
+  end
+
+  def generate_question(n=4)
+    choices = self.pick_choices(@definitions, n)
+    correct_choice = choices.index(@choice)
+
+    return MultipleChoiceQuestion.new(self, choices, correct_choice)
+  end
+
+  def pick_choices(definitions, n)
+    choices = [ @choice ]
+
+    defs = @definitions.shuffle
+    defs.each do |defn|
+      next if choices.find { |d| d =~ defn }
+      break if choices.size == n
+      choices << defn
+    end
+
+    return choices.shuffle
+  end
+
+end
+
 class MultipleChoiceQuiz < Quiz
   def initialize(frontend, *definitions)
     super(frontend)
 
-    @definitions = []
+    @generators = []
     @ask_more = Set.new
     @stats = {}
 
     load_definitions(*definitions)
   end
 
-  def load_definitions(*definitions)
-    definitions.each do |d|
-      @definitions << d.to_a
+  def load_definitions(*definitions_set)
+    definitions_set.each do |definitions|
+      definitions.each do |definition|
+        @generators << MultipleChoiceQuestionGenerator.new(definition)
+      end
     end
   end
 
@@ -27,55 +57,33 @@ class MultipleChoiceQuiz < Quiz
     # will be presented more often than those from sets with more
     # questions
 
-    definitions = self.pick_definition_set()
-    choices = self.pick_choices(definitions, n)
-    correct_choice = rand(choices.size)
+    generator = self.pick_question_generator()
+    question = generator.generate_question(n)
 
-    return MultipleChoiceQuestion.new(choices, correct_choice)
+    return question
   end
 
-  def pick_definition_set
-    idx = rand(@definitions.length)
-    definitions = @definitions[idx]
-    return definitions
-  end
-
-  def pick_choices(definitions, n=4)
-    choices = []
-
+  def pick_question_generator()
     if rand(2) == 0 and @ask_more.length > 0 then
       ask_more = @ask_more.to_a.shuffle
-      choice = ask_more[0]
-      choices << choice
-      definitions = choice.definitions.to_a
-      # TODO: this will get the definition into the list, but it won't
-      # necessarily be the one that is picked to be the right answer
+      return ask_more[0]
+    else
+      idx = rand(@generators.length)
+      return @generators[idx]
     end
-
-    defs = definitions.shuffle
-    defs.each do |defn|
-      next if choices.find { |d| d =~ defn }
-      break if choices.size == n
-      choices << defn
-    end
-
-    return choices
   end
 
   def record_response(question, answer, was_correct)
     choice = question.correct_choice
-    stats = (@stats[choice] ||= Stats.new(choice))
+    generator = question.generator
 
-    if was_correct then
-      stats.record_correct_response()
-    else
-      stats.record_incorrect_response()
-    end
+    stats = (@stats[choice] ||= Stats.new(choice))
+    stats.record_response(was_correct)
 
     if stats.percent_correct > 0.50 then
-      @ask_more.delete(choice)
+      @ask_more.delete(generator)
     else
-      @ask_more.add(choice)
+      @ask_more.add(generator)
     end
 
     # puts "You've gotten this correct #{stats.correct}/#{stats.total} times (#{stats.percent_correct * 100}%)"

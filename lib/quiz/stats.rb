@@ -12,14 +12,9 @@ class Stats
     @correct = 0
   end
 
-  def record_correct_response
+  def record_response(was_correct)
     @total += 1
-    @correct += 1
-  end
-
-  def record_incorrect_response
-    @total += 1
-    @correct += 0
+    @correct += was_correct ? 1 : 0
   end
 
   def percent_correct

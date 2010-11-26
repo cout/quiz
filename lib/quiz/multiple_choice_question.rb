@@ -3,12 +3,13 @@ require 'quiz/question'
 module Quiz
 
 class MultipleChoiceQuestion < Question
-  attr_reader :definitions
+  attr_reader :generator
   attr_reader :choices
   attr_reader :correct_choice
   attr_reader :correct_choice_idx
 
-  def initialize(choices, correct_choice_idx)
+  def initialize(generator, choices, correct_choice_idx)
+    @generator = generator
     @choices = choices
     @correct_choice_idx = correct_choice_idx
     @correct_choice = choices[correct_choice_idx]
