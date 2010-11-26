@@ -6,4 +6,10 @@ slower - less stable leaving group
 slower - less stable products
 slower - higher activation energy
 slower - higher energy to reach transition state
-
+faster - using an appropriate catalyst
+faster - higher temperature
+slower - lower temperature
+faster - increase concentration
+slower - decrease concentration
+faster - using light in a radical reaction
+slower - decreasing light in a radical reaction

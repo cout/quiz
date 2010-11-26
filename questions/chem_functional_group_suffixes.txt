@@ -1,0 +1,6 @@
+-oic acid - carboxylic acid suffix
+-oate - ester suffix
+-al - aldehyde suffix
+-one - ketone suffix
+-ol - alcohol suffix
+-amine - amine suffix

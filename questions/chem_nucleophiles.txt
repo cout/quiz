@@ -10,8 +10,13 @@ strong nucleophile - R₃N
 strong nucleophile - C≡N¯
 strong nucleophile - C¯≡CR
 strong nucleophile - N₃¯
-weak nucleophile - F¯
-weak nucleophile - ROO¯
+moderate nucleophile - F¯
+moderate nucleophile - ROO¯
 weak nucleophile - ROH
 weak nucleophile - HOH
+weak nucleophile - NH₃
+weak nucleophile - RNH₂
+weak nucleophile - RR'NH
 very weak nucleophile - carbonyl
+moderate nucleophile - resonance-stabilized anion
+moderate nucleophile - ⌬-(O=S=O)-O¯

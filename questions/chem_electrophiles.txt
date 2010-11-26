@@ -1,0 +1,13 @@
+electron-donating - R-⌇
+electron-donating - ⌬-⌇
+electron-donating - CH₃-O-⌇
+electron-donating - H-O-⌇
+electron-donating - CH3-(C=O)-NH-⌇
+electron-donating - NH₂-⌇
+electron-withdrawing - X-⌇
+electron-withdrawing - ⌇-(C=O)-⌇
+electron-withdrawing - N≡C-⌇
+electron-withdrawing - CF₃-⌇
+electron-withdrawing - O=(N⁺O)-⌇
+electron-withdrawing - RR'R"N⁺-⌇
+electron-donating - alkyl groups

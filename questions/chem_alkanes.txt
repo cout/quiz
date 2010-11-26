@@ -1,0 +1,12 @@
+methane - alkane with one carbon
+ethane - alkane with two carbons
+protane - alkane with three carbons
+butane - alkane with four carbons
+pentane - alkane with five carbons
+hexane - alkane with six carbons
+heptane - alkane with seven carbons
+octane - alkane with eight carbons
+nonane - alkane with nine carbons
+decane - alkane with ten carbons
+undecane - alkane with eleven carbons
+dodecane - alkane with twelve carbons

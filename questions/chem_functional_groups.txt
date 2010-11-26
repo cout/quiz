@@ -1,30 +1,62 @@
-alkynes - alkyls with at least one triple bonded carbon
-alkenes - alkyls with at least one double bonded carbon, no triple bonded
+alkyne - alkyl with at least one triple bonded carbon
+alkyne - C_n H_(2n+2-4t)
+alkene - alkyl with at least one double bonded carbon, no triple bonded
 carbons
-alkanes - alkyls with only single bonded carbons
-alkynes - alkyls with linear geometry
-alkenes - alkyls with trigonal planar geometry
-alkanes - alkyls with tetrahedral geometry
+alkane - alkyl with only single bonded carbons
+alkyne - alkyl with linear geometry
+alkene - alkyl with trigonal planar geometry
+alkane - alkyl with tetrahedral geometry
 phenyl - ⌬-⌇
 benzyl - ⌬-Me-⌇
-alkyl halides - R-X
+alkyl halide - R-X
+alkyl halide - one or more halogen atoms bonded to alkyl groups
 1° alkyl halide - R-CH₂-X
 2° alkyl halide - R-CH-X
 3° alkyl halide - R-C-X
 alcohol - R-OH
+alcohol - one or more hydroxyl groups bonded to alkyl groups
 symmetric ether - R-O-R
 ether - R-O-R'
+ether - two alkyl groups bonded to the same oxygen atom
+epoxide - ether containing an oxygen atom bonded to two other carbon atoms in
+a three-membered ring
+amine - one or more nitrogen atoms bonded to alkyl groups
 1° amine - R-NH2
 2° amine - R-NH-R'
 3° amine - R-NR'-R"
 carbonyl - R-(C=O)
+carbonyl - contains one or more carbonyl group
 aldehyde - R-(C=O)-H
+aldehyde - contains a carbonyl group bonded to a hydrogen atom and an alkyl
+group
 ketone - R-(C=O)-R'
+ketone - contains a carbonyl group bonded to two alkyl groups
 ester - R-(C=O)-OR'
+ester - contains a carbonyl group bonded to an alkoxy group and an alkyl group
 carboxylic acid - R-(C=O)-OH
+carboxylic acid - contains a carbonyl group bonded to a hydroxyl group and an
+alkyl group
+amide - contains a carbonyl group bonded to an amino group and an alkyl group
 amide - R-(C=O)-(amine)
 unsubstituted amide - R-(C=O)-NH2
 N-substituted amide - R-(C=O)-NH-R'
 N,N-substituted amide - R=(C=O)-NR'-R"
 nitrile - R-C≡N
-
+cycloalkane - unsaturated hydrocarbon containing one or more rings of bonded
+carbon atoms
+cycloalkane - C_n H_(2n+2-2r)
+conjugated hydrocarbon - hydrocarbon containing a series of three or more
+overlapping p orbitals
+aromatic hydrocarbon - conjugated molecule containing a benzing ring or other
+aromatic system
+benzene - parent compound of the aromatic hydrocarbon family
+acid chloride - contains a carbonyl group bonded to a chloride group and an
+alkyl group
+acid chloride - R-(C=O)-Cl
+arene - benzene derivative in which one or more H atoms from benzene are
+replaced by other functional groups
+hydrocarbon - molecule that contains only carbon and hydrogen
+aliphatic hydrocarbon - molecule that contains only carbon and hydrogen but
+does not contains a benzene ring or any other aromatic system
+aliphatic hydrocarbon - non-aromatic hydrocarbon
+alkane - saturated hydrocarbon

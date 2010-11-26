@@ -1,0 +1,11 @@
+favors SN2 over SN1 - strong nucleophile
+favors SN1 over SN2 - weak nucleophile
+makes a difference for SN2 but not SN1 - nucleophile
+favors SN1 and SN2, but favors SN1 more than SN2 - excellent leaving group
+disfavors both SN2 and SN1 - poor leaving group
+favors SN2 over SN1 - 1° substrate
+favors SN1 over SN2 - 3° substrate
+favors neither SN1 nor SN2 - 2° substrate
+disfavors both SN2 and SN1 - nonpolar solvent
+disfavors SN2 - polar aprotic
+favors SN2 - polar protic

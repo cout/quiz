@@ -1,0 +1,16 @@
+nonpolar bond - atoms share valence electrons equally
+polar bond - atoms share valence electrons unequally
+lattice structures - opposite-charged ions bounded to each other
+bond order - half the number of electrons shared in a covalent bond
+bond polarity - occurs in bonds between atoms of unqueal electronegativities
+fluorine - most electronegative element
+oxygen - second-most electronegative element
+covalent bond - a bond that is formed when two elements share valence
+electrons
+electronegativity - ability of an atom in a molecule to attract electrons
+bond strength - the energy required to break a chemical bond
+valence electrons - electrons in the outermost occupied electron shell
+octet rule - an atom is most stable when its valence shell is completely full
+ionic bond - bond formed when the electronegativities of bonded atoms are
+significantly different
+

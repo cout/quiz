@@ -1,0 +1,4 @@
+increases ability to stabilize a charge - going down a column on the periodic table
+decreases ability to stabilize a charge - going up a column on the periodic table
+increases ability to stabilize a charge - going from left to right on a row of the periodic table
+decreases ability to stabilize a charge - going from right to left on a row of the periodic table
