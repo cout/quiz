@@ -11,10 +11,23 @@ class Quiz
 
   def validate_response(question, answer)
     if answer == question.answer then
-      @frontend.correct_answer(question)
+      correct_response(question, answer)
     else
-      @frontend.incorrect_answer(question)
+      incorrect_response(question, answer)
     end
+  end
+
+  def correct_response(question, answer)
+    @frontend.correct_answer(question)
+    record_response(question, answer, true)
+  end
+
+  def incorrect_response(question, answer)
+    @frontend.incorrect_answer(question)
+    record_response(question, answer, false)
+  end
+
+  def record_response(question, answer, was_correct)
   end
 
   def ask

@@ -3,9 +3,15 @@ require 'quiz/definition'
 module Quiz
 
 class Definitions
-  def initialize(h)
-    @h = h
-    @a = h.to_a
+  def initialize(h={})
+    @h = h if h
+    @a = h.values
+  end
+
+  def add_definition(term, definition)
+    d = Definition.new(term, definition, self)
+    @h[term] = d
+    @a << d
   end
 
   def self.load_set(*filenames)
@@ -17,7 +23,7 @@ class Definitions
   end
 
   def self.load(filename)
-    h = { }
+    definitions = self.new
     definition = nil
     prev_line = ''
 
@@ -34,7 +40,9 @@ class Definitions
           # definition
           term = $1
           definition = $2
-          h[term] = Definition.new(term, definition)
+          if not self.is_todo(definition) then
+            definitions.add_definition(term, definition)
+          end
         when /^(.*)\s+\|/
           prev_line = $1 + "\n"
         else
@@ -43,18 +51,20 @@ class Definitions
         end
       end
     end
-    self.ignore_todo(h)
-    return self.new(h)
+
+    return definitions
   end
 
-  def self.ignore_todo(h)
-    h.delete_if do |key, definition|
-      definition =~ /\*TODO\*/
-    end
+  def self.is_todo(definition)
+    return definition =~ /\*TODO\*/
   end
 
   def to_a
     return @a
+  end
+
+  def to_h
+    return @h
   end
 end
 

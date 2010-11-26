@@ -3,11 +3,21 @@ require 'quiz/question'
 module Quiz
 
 class MultipleChoiceQuestion < Question
-  def initialize(choices, correct_choice)
-    question = self.format_question(choices, correct_choice)
-    question << self.format_choices(choices)
+  attr_reader :definitions
+  attr_reader :choices
+  attr_reader :correct_choice
+  attr_reader :correct_choice_idx
 
-    super(question, self.multi(correct_choice))
+  def initialize(choices, correct_choice_idx)
+    @choices = choices
+    @correct_choice_idx = correct_choice_idx
+    @correct_choice = choices[correct_choice_idx]
+
+    question = self.format_question(choices, correct_choice_idx)
+    question << self.format_choices(choices)
+    correct_response = self.multi(correct_choice_idx)
+
+    super(question, correct_response)
   end
 
   def format_question(choices, correct_choice)
