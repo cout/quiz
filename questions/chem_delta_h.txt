@@ -1,0 +1,4 @@
+𝛥𝘏° = -436 kJ/mol - H⋅ + H⋅ → H-H
+𝛥𝘏° = -243 kJ/mol - Cl⋅ + Cl⋅ → Cl-Cl
+𝛥𝘏° = +436 kJ/mol - H-H → H⋅ + H⋅
+𝛥𝘏° = +243 kJ/mol - Cl-Cl → Cl⋅ + Cl⋅

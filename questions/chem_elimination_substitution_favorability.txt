@@ -1,0 +1,18 @@
+favors SN1/E1 - solvolysis
+favors SN2 - 2° substrate, strong nucleophile
+favors SN1 - 2° substrate, weak nucleophile
+favors SN1 - 2° substrate, moderate nucleophile, excellent leaving group
+no reaction - 2° substrate, moderate nucleophile, bad leaving group
+check solvent - 2° substrate, moderate nucleophile, good leaving group
+check nucleophile - 2° substrate
+check leaving group - 2° substrate, moderate nucleophile
+# TODO: I need to figure this out
+# E2 - strong base
+# E2 - 1° substrate with strong, hindered base
+# SN2 - 1° substrate without strong, hindered base
+# - polar protic solvent
+# - polar aprotic solvent
+favors elimination - heat (generally)
+favors substitution - cold (generally)
+no reaction - cold, nonpolar solvent
+

@@ -60,3 +60,4 @@ aliphatic hydrocarbon - molecule that contains only carbon and hydrogen but
 does not contains a benzene ring or any other aromatic system
 aliphatic hydrocarbon - non-aromatic hydrocarbon
 alkane - saturated hydrocarbon
+peroxide - compounds with an oxygen-oxygen single bond

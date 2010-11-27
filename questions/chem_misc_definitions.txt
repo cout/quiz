@@ -3,7 +3,7 @@ electronegativity - measures the affinity of an atom for electrons
 induction - "pulling" of electron density
 ARIO - Atom Resonance Induction Orbital (four factors for stabilizing charges)
 conformations - different positions that a molecule can twist into
-configuration - right-handedness (R) or left-handedness
+configuration - right-handedness (R) or left-handedness (S)
 stereocenters - regions that can be R or S
 stereoisomers - compounds that differ in configuration
 enantiomers - compounds that are non-superimposable mirror images
@@ -15,3 +15,10 @@ nucleophile - a compound that uses its electrons to attack another compound
 electrophile - a compound that is attacked by a nucleophile
 nucleophilicity - measures how quickly a reagent will attack another compound
 basicity - measures base strength by position of equilibrium
+radical - an intermeidate possessing one or more unpaired electrons
+homolytic bond dissociation energy - energy required to break bonds
+homolytically
+energy - must be supplied to break covalent bonds
+homolytic bond dissociation energy - 𝘋𝘏°
+enthalphy change - 𝛥𝘏°
+

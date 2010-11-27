@@ -1,0 +1,6 @@
+nonpolar bond - atoms share valence electrons equally
+polar bond - atoms share valence electrons unequally
+ionic bond - bond formed when the electronegativities of bonded atoms are
+covalent bond - a bond that is formed when two elements share valence
+electrons
+

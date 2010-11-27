@@ -1,9 +1,9 @@
-adding functionality - radical bromation
+add functionality - radical bromation
 convert OH to good leaving group - tosylate conversion from OH
-aldehyde/ketone - ozonolysis
-carbene - diazomethane decomposition
-ring - carbene addition
-trans alkene - dissolving metal reduction of an alkyne
-alkyne - double dehydrohalogenation of dibromides
-alkene - dehydrohalogenation of alkanes
-alkene - alcohol dehydration
+form aldehyde/ketone - ozonolysis
+form carbene - diazomethane decomposition
+form ring - carbene addition
+form trans alkene - dissolving metal reduction of an alkyne
+form alkyne - double dehydrohalogenation of dibromides
+form alkene - dehydrohalogenation of alkanes
+form alkene - alcohol dehydration
