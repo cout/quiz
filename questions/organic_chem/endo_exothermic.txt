@@ -1,4 +1,4 @@
 endothermic - bond breaking
 exothermic - bond formation
 endothermic - reactions in which only bond breaking occurs
-
+highly endothermic - chain-initiating step in fluorination

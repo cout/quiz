@@ -1,4 +1,25 @@
-𝛥𝘏° = -436 kJ/mol - H⋅ + H⋅ → H-H
-𝛥𝘏° = -243 kJ/mol - Cl⋅ + Cl⋅ → Cl-Cl
-𝛥𝘏° = +436 kJ/mol - H-H → H⋅ + H⋅
-𝛥𝘏° = +243 kJ/mol - Cl-Cl → Cl⋅ + Cl⋅
+𝛥𝘏° = -436 kJ/mol - 2H⋅ → H₂
+𝛥𝘏° = +436 kJ/mol - H₂ → 2H⋅
+
+𝛥𝘏° = -243 kJ/mol - 2Cl⋅ → Cl₂
+# 𝛥𝘏° = +243 kJ/mol - Cl₂ → 2Cl⋅
+
+𝛥𝘏° = +159 kJ/mol - F₂ → 2F⋅
+𝛥𝘏° = -130 kJ/mol - F⋅ + CH₄ → HF + CH₃⋅
+𝛥𝘏° = -302 kJ/mol - CH₃⋅ + F₂ → CH₃F + F⋅
+𝛥𝘏° = -432 kJ/mol - overall 𝛥𝘏° for fluorination
+
+𝛥𝘏° = +243 kJ/mol - Cl₂ → 2Cl⋅
+𝛥𝘏° = +8 kJ/mol - Cl⋅ + CH₄ → HCl + CH₃⋅
+𝛥𝘏° = -109 kJ/mol - CH₃⋅ + Cl₂ → CH₃Cl + Cl⋅
+𝛥𝘏° = -101 kJ/mol - overall 𝛥𝘏° for chlorination
+
+𝛥𝘏° = +193 kJ/mol - Br₂ → 2Br⋅
+𝛥𝘏° = +74 kJ/mol - Br⋅ + CH₄ → HBr + CH₃⋅
+𝛥𝘏° = -100 kJ/mol - CH₃⋅ + Br₂ → CH₃Br + Br⋅
+𝛥𝘏° = -26 kJ/mol - overall 𝛥𝘏° for bromination
+
+𝛥𝘏° = +151 kJ/mol - I₂ → 2I⋅
+𝛥𝘏° = +142 kJ/mol - I⋅ + CH₄ → HI + CH₃⋅
+𝛥𝘏° = -89 kJ/mol - CH₃⋅ + I₂ → CH₃I + I⋅
+𝛥𝘏° = +53 kJ/mol - overall 𝛥𝘏° for iodination

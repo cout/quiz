@@ -1,6 +1,6 @@
 H₂+metal catalyst - hydrogenation reagents
 H-X - hydrohalogenation reagents
-H-Br/ROOR - anti-makovnikov hydrobromation reagents
+H-Br/ROOR - anti-markovnikov hydrobromation reagents
 dilute H₂O⁺, cold - acid-catalyzed hydration reagents
 ① H₂SO4, cold |
 ② H₂0, heat - sulfonation reagents
@@ -22,4 +22,5 @@ X₂/H₂O - halohydrin formation reagents
 ② NaBH₄, OH¯ - oxymercuration-demercuration reagents
 ① Hg(CCF₃)₂/THF-ROH |
 ② NaBH₄, OH¯ - solvomercuration-demercuration reagents
-
+ROOR - reagent which causes H-Br to add anti-markovnikov
+ROOR - reagent which causes H-Br to add using a radical mechanism

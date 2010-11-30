@@ -21,4 +21,5 @@ homolytically
 energy - must be supplied to break covalent bonds
 homolytic bond dissociation energy - 𝘋𝘏°
 enthalphy change - 𝛥𝘏°
+overall heat of reaction - 𝛥𝘏°
 
