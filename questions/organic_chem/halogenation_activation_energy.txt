@@ -1,0 +1,7 @@
+high activation energy - chain-initiating step in fluorination
+low activation energy - chain-propogating step in fluorination
+higher activation energy than fluorination - first chain-propogation step in
+chlorination
+higher activation energy than chlorination - first chain-propogation step in
+bromination
+activation energy high enough to make reaction unfeasible - first chain-propogation step in iodination

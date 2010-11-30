@@ -1,0 +1,15 @@
+E_act = +159 kJ/mol - F₂ → 2F⋅
+E_act = +5 kJ/mol - F⋅ + CH₄ → HF + CH₃⋅
+E_act = small - CH₃⋅ + F₂ → CH₃F + F⋅
+
+E_act = +243 kJ/mol - Cl₂ → 2Cl⋅
+E_act = +16 kJ/mol - Cl⋅ + CH₄ → HCl + CH₃⋅
+E_act = small - CH₃⋅ + Cl₂ → CH₃Cl + Cl⋅
+
+E_act = +193 kJ/mol - Br₂ → 2Br⋅
+E_act = +78 kJ/mol - Br⋅ + CH₄ → HBr + CH₃⋅
+E_act = small - CH₃⋅ + Br₂ → CH₃Br + Br⋅
+
+E_act = +151 kJ/mol - I₂ → 2I⋅
+E_act = +140 kJ/mol - I⋅ + CH₄ → HI + CH₃⋅
+E_act = small - CH₃⋅ + I₂ → CH₃I + I⋅
