@@ -22,7 +22,7 @@ class WxFrontend < Wx::App
   end
 
   def next_question
-    question = @quiz.ask()
+    question = @quiz.next_question()
     show_question(question)
   end
 

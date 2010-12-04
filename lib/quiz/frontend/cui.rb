@@ -8,7 +8,7 @@ class CuiFrontend
 
   def main_loop(quiz)
     loop do
-      question = quiz.ask()
+      question = quiz.next_question()
       show_question(question)
       response = get_response()
       quiz.got_response(question, response)

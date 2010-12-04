@@ -29,14 +29,8 @@ class Quiz
     record_response(question, response, false)
   end
 
-  def ask
-    # TODO: if a particular set has fewer questions, those questions
-    # will be presented more often than those from sets with more
-    # questions
-
-    generator = @question_picker.pick_question_generator()
-    question = generator.generate_question()
-
+  def next_question
+    question = @question_picker.pick_question()
     return question
   end
 
