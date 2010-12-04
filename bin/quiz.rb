@@ -1,4 +1,6 @@
-require 'quiz'
+require 'quiz/definitions'
+require 'quiz/multiple_choice_question'
+require 'quiz/quiz'
 require 'quiz/frontend/cui'
 
 if __FILE__ == $0 then
@@ -9,8 +11,9 @@ if not ARGV[0] then
 end
 
 set = Quiz::Definitions.load_set(*ARGV)
+generators = Quiz::MultipleChoiceQuestion::Generator.create_generators(*set)
 frontend = Quiz::CuiFrontend.new
-quiz = Quiz::MultipleChoiceQuiz.new(frontend, *set)
+quiz = Quiz::Quiz.new(frontend, *generators)
 frontend.main_loop(quiz)
 
 end

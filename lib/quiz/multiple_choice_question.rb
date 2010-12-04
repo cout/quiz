@@ -72,6 +72,16 @@ class MultipleChoiceQuestion::Generator
 
     return choices.shuffle
   end
+
+  def self.create_generators(*definitions_set)
+    generators = []
+    definitions_set.each do |definitions|
+      definitions.each do |definition|
+        generators << MultipleChoiceQuestion::Generator.new(definition)
+      end
+    end
+    return generators
+  end
 end
 
 end
