@@ -3,25 +3,26 @@ require 'quiz/multiple_choice_question'
 module Quiz
 
 class MultipleChoiceQuestionGenerator
-  def initialize(choice)
+  def initialize(choice, n=4)
     @choice = choice
+    @n = n
     @definitions = choice.definitions.to_a
   end
 
-  def generate_question(n=4)
-    choices = self.pick_choices(@definitions, n)
+  def generate_question
+    choices = self.pick_choices(@definitions)
     idx = choices.index(@choice)
 
     return MultipleChoiceQuestion.new(self, choices, idx)
   end
 
-  def pick_choices(definitions, n)
+  def pick_choices(definitions)
     choices = [ @choice ]
 
     defs = @definitions.shuffle
     defs.each do |defn|
       next if choices.find { |d| d =~ defn }
-      break if choices.size == n
+      break if choices.size == @n
       choices << defn
     end
 
