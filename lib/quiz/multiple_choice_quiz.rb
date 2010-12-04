@@ -1,5 +1,6 @@
 require 'quiz/multiple_choice_question'
 require 'quiz/stats'
+require 'quiz/encouragement'
 
 require 'set'
 
@@ -86,8 +87,8 @@ class MultipleChoiceQuiz < Quiz
       @ask_more.add(generator)
     end
 
-    # puts "You've gotten this correct #{stats.correct}/#{stats.total} times (#{stats.percent_correct * 100}%)"
-    # puts
+    encouragement = Encouragement.after_response(stats, was_correct)
+    puts encouragement
   end
 end
 
