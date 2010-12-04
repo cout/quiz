@@ -1,15 +1,13 @@
-require 'quiz/stats'
 require 'quiz/encouragement'
-
-require 'set'
+require 'quiz/stats'
+require 'quiz/question_picker'
 
 module Quiz
 
 class Quiz
   def initialize(frontend, *generators)
     @frontend = frontend
-    @generators = generators
-    @ask_more = Set.new
+    @question_picker = QuestionPicker.new(*generators)
     @stats = {}
   end
 
@@ -36,36 +34,20 @@ class Quiz
     # will be presented more often than those from sets with more
     # questions
 
-    generator = self.pick_question_generator()
+    generator = @question_picker.pick_question_generator()
     question = generator.generate_question()
 
     return question
   end
 
-  def pick_question_generator()
-    if rand(2) == 0 and @ask_more.length > 0 then
-      ask_more = @ask_more.to_a.shuffle
-      return ask_more[0]
-    else
-      idx = rand(@generators.length)
-      return @generators[idx]
-    end
-  end
-
   def record_response(question, response, was_correct)
-    generator = question.generator
-
     stats = (@stats[question.correct_response] ||= Stats.new(question.correct_response))
     stats.record_response(was_correct)
 
-    if stats.percent_correct > 0.50 then
-      @ask_more.delete(generator)
-    else
-      @ask_more.add(generator)
-    end
+    @question_picker.record_response(question, response, stats, was_correct)
 
     encouragement = Encouragement.after_response(stats, was_correct)
-    puts encouragement
+    @frontend.encourage(encouragement)
   end
 end
 

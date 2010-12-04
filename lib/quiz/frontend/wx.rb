@@ -47,6 +47,10 @@ class WxFrontend < Wx::App
     puts "No, the correct response was #{question.correct_response}"
     puts
   end
+
+  def encourage(encouragement)
+    puts encouragement
+  end
 end
 
 end
