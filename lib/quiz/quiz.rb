@@ -38,13 +38,13 @@ class Quiz
   def record_response(question, response, was_correct)
   end
 
-  def ask(n=4)
+  def ask
     # TODO: if a particular set has fewer questions, those questions
     # will be presented more often than those from sets with more
     # questions
 
     generator = self.pick_question_generator()
-    question = generator.generate_question(n)
+    question = generator.generate_question()
 
     return question
   end
