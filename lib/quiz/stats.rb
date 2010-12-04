@@ -2,7 +2,6 @@ module Quiz
 
 class Stats
   attr_reader :choice
-  attr_reader :definitions
   attr_reader :total
   attr_reader :correct
 
