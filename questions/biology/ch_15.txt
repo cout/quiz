@@ -1,0 +1,40 @@
+# 20101202
+knock-out mutant - *TODO*
+gene - a particular stretch of dna
+messenger RNA - transcribed from DNA
+transcription - DNA -> mRNA
+protein - translated from mRNA *TODO*
+translation - mRNA -> protein *TODO*
+# Q: tRNA?
+one-gene, one-enzyme hypothesis - proposes that genes contain the information
+needed to make proteins, many of which function as enzymes
+# how did researchers figure out that genes code for proteins?
+# information encoded in the bas sequence of DNA cannot by directly translated
+# into the amino acid sequence of proteins because DNA and ribosomes (which
+# make proteins) are physically separated
+Crick - proposed the model in which mRNA is the middleman
+nucleus - where DNA is found
+cytoplasm - where protein is synthesized
+RNA polymerase synthesizes RNA according to the information provided by DNA
+# experiment: role of mRNA in transcribing DNA so that its information can be
+# carried to the cytoplasm
+central dogma of molecular biology - DNA -> RNA -> proteins
+sequence of bases in a particular stretch of DNA - specifies the sequence of
+bases in an RNA molecule, which specifies the sequence of amino acids in a
+protein
+DNA - information storage molecule
+mRNA - information carrier molecule
+proteins - active cell machinery
+transcription - nucleic acid to nucleic acid
+translation - nucleic acid to amino acid
+codon - word in the genetic code
+# George Gamow - proposed that each codon contains three bases (there are 20
+# amino acids: if a codon consisted of only 2 bases, there are only 16
+# possible combinations)
+# Q: this suggests that there are 12 more possible amino acids
+# A: there is some /redundancy/ in this code
+# genetic code is unambiguous, as one codon never codes for more than one
+# amino acid
+# Reminder: final exam tuesday dec 14 12-3pm in regular classroom
+# come by office to look at old exams
+

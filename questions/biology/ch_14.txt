@@ -1,0 +1,113 @@
+# 20101130
+# - How does the simple primary and secondary structure of DNA hold the
+#   information required to make life possible? (ch 15)
+# - How is DNA copied so that genetic information is faithfully passed from
+#   one cell to another during growth and from parents to offspring during
+#   reproduction?
+deoxyribonucleotide - phosphate group, OH on 3' carbon, base
+DNA base - adenine, thymine, guanine, cytosine
+primary structure of DNA - phosphodiester linkages between phosphate groups,
+nitrogenous bases form backbone
+nitrogenous bases - form H-bonds to each other
+complementary base pairs - joined by hydrogen bonding
+sugar-phosphate - "backbone" of DNA
+semiconservative replication - each old DNA strand is copied to generate a new
+strand; each new chromosome is composed of one strand of old DNA and one
+strand of newly synthesized DNA
+conservative replication - original chromosome is copied but remains
+unchanged; one chromosome is composed of old strands and the other of new
+strands
+dispersive replication - replication process generates two new chromosomes,
+with new and old sections of DNA mixed together randomly
+# experiment:
+# - e-coli grown in broth of N¹⁵
+# - transfer to medium containing N¹⁴
+# - sample each generation to find out where "light" nitrogen ends up
+# - after generation 2:
+#   - semiconservative: hybrid, ¹⁴N, hybrid, ¹⁴N
+#   - conservative: ¹⁵N, ¹⁴N, ¹⁴N, ¹⁴N
+#   - dispersive: hybrid, hybrid, hybrid, hybrid
+# - conclusion: semiconservative replication is how it happens
+replication bubble - *TODO*
+replication fork - Y-shaped region where the DNA is split into two separate
+strands for copying
+helicase - opens double helix
+single-strand DNA-binding proteins (SSBP) - stabilize single strands to keep
+them apart during replication
+topoisomerase - relieves twisting forces on unsplit DNA to keep it from
+keeting bound up
+polymerase II - catalyzes reaction *TODO*
+primase - synthesizes an RNA primer so that polymerase has a 3' end to work
+with; is removed later
+RNA primer - synthesizes a little bit of RNA; gives polymerase III something
+to work with
+template DNA - where DNA nucleotides will be inserted
+sliding clamp - holds DNA polymerase in place
+DNA polymease III - works in 5' -> 3' direction, synthesizing leading strand
+lagging strand - synthesized discontinuously in the direction away from the
+replication fork (and thus lags beind the fork)
+DNA synthesis - must proceed in the 5' -> 3' direction
+okazaki fragments - short discontinuous fragments used to synthesize lagging
+strand
+topoisomerase - *TODO*
+# synthesis of lagging strand:
+# 1. ?
+# 2. DNA polymerase III works in 5' -> 3' direction, synthesizing first
+# okazaki frament of lagging strand
+# 3. primase and DNA polymerase III synthesize another okazaki fragment
+DNA polymerase I - removes the RNA primer at the beginning of each okazaki
+fragment and fills the gap
+# 4. DNA polymerase I removes ribonucleotides of primer, replaes then with
+# deoxyribonucleotides in 5' -> 3' direction
+# 5. dna ligase - closes gap in sugar-phosphate backbone
+DNA ligase - closes gap in sugar-phosphate backbone
+DNA ligase - joins the okazaki fragments to form a continuous DNA strand
+circular - shape of bacterial chromosomes
+linear - shape of eukaryotic chromosomes
+bacterial chromosomes - continue replication in both directions around the
+circle until a complete copy is made
+telomeres - regions at the end of linear chromosomes
+# as the replication fork reaches the end of a linear chromosome, there is no
+# way to replace the RNA primer from the lagging strand with DNA, because
+# there is no available primer for DNA synthesis
+# chromosome shortening during normal dna replicatoin:
+# 3. DNA polymerase synthesizes last okazaki fragment in lagging strand
+# 4. no DNA synthesis occurs after primer is removed (no free 3' end for DNA
+# polymerase); chromosome is shortened
+telomeres - contain short repetitive sequences of "nonsense" DNA
+telomeres - replicated by telomerase
+telomerase - catalyzes the synthesis of DNA from an RNA template (by base
+pairing) and carries its own RNA template
+telomerase - adds more repeating bases to the end of the lagging strand,
+catalyzing the synthesis of DNA from an RNA template that it carries with it
+# 1. when the RNA primer is removed from the 5' end of the lagging strand, a
+# strand of parent DNA remains unreplicated
+# 2. telomerase binds to the "overhanging" section of single-stranded DNA;
+# telomerase adds deoxyribonucleotides to the end of the parent DNA, extending
+# it
+# 3. telomerase moves down the DNA strand and adds additional repeats
+# 4. primase, DNA polymerase, and ligase then synthesisze the lagging strand
+# in the 5' -> 3' direction, restoring the original length of the chromosome
+telomerase - only active within cells of reproductive organs (those that
+divide by meiosis / producing gametes)
+chromosomes of somatic cells - gradually shorten with each cell division
+shortening of telomeres - influences the cell cycle (G0 phase)
+non-dividing cells - get permanently stuck in G1 (G0 phase)
+< 1 mistake per million bases - DNA replication error rate in terms of
+mismatched bases
+DNA polymerase III - can repair mismatches
+< 1 mistake per ten billion bases - DNA replication error rate taking repaired
+mismatches into account
+UV light - can cause thymine dimers to form, causing a kink in the DNA strand
+nucleotide excision repair - system by which cells fix damaged DNA
+thymine dimer - created when two adjacant thymines bond to each other, instead
+of to the proper base on the other strand
+xeroderma pigmentosum - rare autorecessive defect that causes humans to be
+exceptionally sensitive to UV light
+# end of ch 14
+# final exam - tues dec 14 12pm-3pm
+# exam week office hours (to see old exams):
+# - thurs 12/2 8-12
+# - monday 12/6 10-1
+# - wednesday 12/8 11-3
+
