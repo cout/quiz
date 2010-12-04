@@ -5,14 +5,11 @@ module Quiz
 class MultipleChoiceQuestion < Question
   attr_reader :generator
   attr_reader :choices
-  attr_reader :correct_choice
-  attr_reader :correct_choice_idx
 
   def initialize(generator, choices, correct_choice_idx)
     @generator = generator
     @choices = choices
     @correct_choice_idx = correct_choice_idx
-    @correct_choice = choices[correct_choice_idx]
 
     question = self.format_question(choices, correct_choice_idx)
     question << self.format_choices(choices)
@@ -21,8 +18,8 @@ class MultipleChoiceQuestion < Question
     super(question, correct_response)
   end
 
-  def format_question(choices, correct_choice)
-    return "* #{choices[correct_choice].definition}\n"
+  def format_question(choices, correct_choice_idx)
+    return "* #{choices[correct_choice_idx].definition}\n"
   end
 
   def format_choices(choices)

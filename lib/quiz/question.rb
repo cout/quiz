@@ -2,11 +2,11 @@ module Quiz
 
 class Question
   attr_reader :question
-  attr_reader :answer
+  attr_reader :correct_response
 
-  def initialize(question, answer)
+  def initialize(question, correct_response)
     @question = question
-    @answer = answer
+    @correct_response = correct_response
   end
 
   def to_s

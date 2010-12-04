@@ -14,9 +14,9 @@ class MultipleChoiceQuestionGenerator
 
   def generate_question(n=4)
     choices = self.pick_choices(@definitions, n)
-    correct_choice = choices.index(@choice)
+    idx = choices.index(@choice)
 
-    return MultipleChoiceQuestion.new(self, choices, correct_choice)
+    return MultipleChoiceQuestion.new(self, choices, idx)
   end
 
   def pick_choices(definitions, n)
@@ -74,11 +74,10 @@ class MultipleChoiceQuiz < Quiz
     end
   end
 
-  def record_response(question, answer, was_correct)
-    choice = question.correct_choice
+  def record_response(question, response, was_correct)
     generator = question.generator
 
-    stats = (@stats[choice] ||= Stats.new(choice))
+    stats = (@stats[question.correct_response] ||= Stats.new(question.correct_response))
     stats.record_response(was_correct)
 
     if stats.percent_correct > 0.50 then

@@ -33,18 +33,18 @@ class WxFrontend < Wx::App
   def get_response
     # @outfile.print "? "
     # @outfile.flush
-    # answer = @infile.gets
-    # answer.chomp!
-    # return answer
+    # response = @infile.gets
+    # response.chomp!
+    # return response
   end
 
-  def correct_answer(question)
+  def correct_response(question)
     puts "!!! Correct !!!"
     puts
   end
 
-  def incorrect_answer(question)
-    puts "No, the correct answer was #{question.answer}"
+  def incorrect_response(question)
+    puts "No, the correct response was #{question.correct_response}"
     puts
   end
 end
