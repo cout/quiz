@@ -24,8 +24,8 @@ class QuestionPicker
     end
   end
 
-  def record_response(question, response, stats, was_correct)
-    if stats.percent_correct > 0.50 then
+  def record_response(question, response, response_stats, was_correct)
+    if response_stats.percent_correct > 0.50 then
       @ask_more.delete(question.generator)
     else
       @ask_more.add(question.generator)

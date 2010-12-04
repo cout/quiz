@@ -8,7 +8,7 @@ class Quiz
   def initialize(frontend, *generators)
     @frontend = frontend
     @question_picker = QuestionPicker.new(*generators)
-    @stats = {}
+    @response_stats = Hash.new { |h,response| Stats.new(response) }
   end
 
   def got_response(question, response)
@@ -35,12 +35,12 @@ class Quiz
   end
 
   def record_response(question, response, was_correct)
-    stats = (@stats[question.correct_response] ||= Stats.new(question.correct_response))
-    stats.record_response(was_correct)
+    response_stats = @response_stats[question.correct_response]
+    response_stats.record_response(was_correct)
 
-    @question_picker.record_response(question, response, stats, was_correct)
+    @question_picker.record_response(question, response, response_stats, was_correct)
 
-    encouragement = Encouragement.after_response(stats, was_correct)
+    encouragement = Encouragement.after_response(response_stats, was_correct)
     @frontend.encourage(encouragement)
   end
 end
