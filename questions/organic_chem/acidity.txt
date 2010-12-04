@@ -11,10 +11,12 @@
 -1.4 - pKa of HNO₃
 0.18 - pKa of CF₃CO₂H
 3.2 - pKa of HF
+3.9 - pKa of H₂Se
 4.21 - pKa of C₆H₅CO₂H
 4.63 - pKa of C₆H₅NH₃⁺
 4.75 - pKa of CH₃CO₂H
 6.35 - pKa of H₂CO₃
+7.0 - pKa of H₂S
 9.0 - pKa of CH₃COCH₂COCH₃
 9.2 - pKa of NH₄⁺
 9.9 - pKa of C₆H₅OH
@@ -24,17 +26,9 @@
 16 - pKa of CH₃CH₂OH
 18 - pKa of (CH₃)₃COH
 19.2 - pKa of CH₃COCH₃
-25 - pKa of HC≡CH
-38 - pKa of NH₃
-44 - pKa of CH₂=CH₂
-50 - pKa of CH₃CH₃
-48 - pKa of H₃C-H
-38 - pKa of H₂N-H
-15.7 - HO-H
-3.2 - pKa of F-H
-7.0 - pKa of H₂S
-3.9 - pKa of H₂Se
-25 - pKa of ethyne
-44 - pKa of ethene
-50 - pKa of ethane
+38 - pKa of NH₃ (H₂N-H)
+48 - pKa of CH₄ (H₃C-H)
+25 - pKa of ethyne (HC≡CH)
+44 - pKa of ethene (CH₂=CH₂)
+50 - pKa of ethane (CH₃CH₃)
 

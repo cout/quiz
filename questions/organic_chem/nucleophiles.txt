@@ -15,7 +15,7 @@ moderate nucleophile - ROO¯
 weak nucleophile - ROH
 weak nucleophile - HOH
 weak nucleophile - NH₃
-weak nucleophile - RNH₂
+weak nucleophile - RNH₂ - TODO: notes say this is a fair nucleophile
 weak nucleophile - RR'NH
 very weak nucleophile - carbonyl
 moderate nucleophile - resonance-stabilized anion
