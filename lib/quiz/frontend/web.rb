@@ -7,6 +7,23 @@ require 'quiz/multiple_choice_question'
 
 module Quiz
 
+class MultipleChoiceQuestion < Question
+  def to_json
+    choices = { }
+    self.choices.each_with_index do |choice, idx|
+      choices[multi(idx)] = choice
+    end
+
+    h = { 
+      :choices => choices,
+      :correct_choice => self.correct_response,
+    }
+
+    encoder = Yajl::Encoder.new
+    return encoder.encode(h)
+  end
+end
+
 class WebServer < WEBrick::HTTPServer
   attr_reader :set
 
