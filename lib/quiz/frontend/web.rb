@@ -26,6 +26,8 @@ end
 
 class WebServer < WEBrick::HTTPServer
   attr_reader :set
+  attr_reader :quiz
+  attr_reader :generators
 
   def self.run(config)
     config[:Port] ||= 7819 # "QUIZ"
@@ -39,7 +41,10 @@ class WebServer < WEBrick::HTTPServer
 
   def initialize(config)
     super(config)
-    @set = config[:set]
+
+    @set = Definitions.load_set(*config[:set])
+    @generators = MultipleChoiceQuestion::Generator.create_generators(*set)
+    @quiz = Quiz.new(self, *generators)
   end
 
   def mount_all
@@ -47,24 +52,41 @@ class WebServer < WEBrick::HTTPServer
   end
 end
 
-class QuestionServlet < WEBrick::HTTPServlet::AbstractServlet
-  def initialize(server)
-    super(server)
-    set = Definitions.load_set(*server.set)
-    generators = MultipleChoiceQuestion::Generator.create_generators(*set)
-    @quiz = Quiz.new(self, *generators)
-  end
-
-  def do_GET(request, response)
-    question = @quiz.next_question()
-
+class Servlet < WEBrick::HTTPServlet::AbstractServlet
+  def json_response(response, obj)
     encoder = Yajl::Encoder.new
-    json = encoder.encode(question)
+    json = encoder.encode(obj)
 
     response['content-type'] = 'text/plain'
     response.body = json
   end
+end
 
+class QuestionServlet < Servlet
+  def initialize(server)
+    super(server)
+    @quiz = server.quiz
+  end
+
+  def do_GET(request, response)
+    question = @quiz.next_question()
+    json_response(response, question)
+  end
+end
+
+class ResponseServlet < Servlet
+  def initialize(server)
+    super(server)
+    @quiz = server.quiz
+  end
+
+  def do_GET(request, response)
+    question = @quiz.next_question()
+    json_response(question)
+  end
+end
+
+=begin
   def get_response
     # @outfile.print "? "
     # @outfile.flush
@@ -89,6 +111,8 @@ class QuestionServlet < WEBrick::HTTPServlet::AbstractServlet
     # TODO
   end
 end
+
+=end
 
 end
 
