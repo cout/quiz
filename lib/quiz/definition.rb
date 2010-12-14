@@ -1,6 +1,8 @@
+require 'quiz/choice'
+
 module Quiz
 
-class Definition
+class Definition < Choice
   include Comparable
 
   attr_reader :term
@@ -11,6 +13,14 @@ class Definition
     @term = term
     @definition = definition
     @definitions = definitions
+  end
+
+  def as_question
+    return @definition
+  end
+
+  def as_answer
+    return @term
   end
 
   def to_s

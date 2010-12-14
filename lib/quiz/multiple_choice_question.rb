@@ -19,7 +19,7 @@ class MultipleChoiceQuestion < Question
   end
 
   def format_question(choices, correct_choice_idx)
-    return "* #{choices[correct_choice_idx].definition}\n"
+    return "* #{choices[correct_choice_idx].as_question}\n"
   end
 
   def format_choices(choices)
@@ -32,7 +32,7 @@ class MultipleChoiceQuestion < Question
 
   def format_choice(idx, choice)
     opt = "#{multi(idx)}. "
-    t = format_term(choice.term, opt.length)
+    t = format_term(choice.as_choice, opt.length)
     return "#{opt}#{t}"
   end
 
@@ -47,6 +47,8 @@ class MultipleChoiceQuestion < Question
 end
 
 class MultipleChoiceQuestion::Generator
+  Question = MultipleChoiceQuestion
+
   def initialize(choice, n=4)
     @choice = choice
     @n = n
@@ -54,30 +56,34 @@ class MultipleChoiceQuestion::Generator
   end
 
   def generate_question
-    choices = self.pick_choices(@definitions)
+    choices = self.pick_choices()
     idx = choices.index(@choice)
 
-    return MultipleChoiceQuestion.new(self, choices, idx)
+    return self.class::Question.new(self, choices, idx)
   end
 
-  def pick_choices(definitions)
+  def pick_choices
+    return pick_choices_from(@definitions)
+  end
+
+  def pick_choices_from(all_choices)
     choices = [ @choice ]
 
-    defs = @definitions.shuffle
-    defs.each do |defn|
-      next if choices.find { |d| d =~ defn }
+    rand_choices = all_choices.shuffle
+    rand_choices.each do |choice|
+      next if choices.find { |c| c =~ choice }
       break if choices.size == @n
-      choices << defn
+      choices << choice
     end
 
     return choices.shuffle
   end
 
-  def self.create_generators(*definitions_set)
+  def self.create_generators(*choices_set)
     generators = []
-    definitions_set.each do |definitions|
-      definitions.each do |definition|
-        generators << MultipleChoiceQuestion::Generator.new(definition)
+    choices_set.each do |choices|
+      choices.each do |choice|
+        generators << self.new(choice)
       end
     end
     return generators

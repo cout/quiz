@@ -17,7 +17,7 @@ class Definitions
   def self.load_set(*filenames)
     set = [ ]
     filenames.each do |filename|
-      set << Definitions.load(filename)
+      set << self.load(filename)
     end
     return set
   end
