@@ -19,7 +19,7 @@ class Definition < Choice
     return @definition
   end
 
-  def as_answer
+  def as_choice
     return @term
   end
 

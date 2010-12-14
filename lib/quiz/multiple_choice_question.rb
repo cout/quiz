@@ -49,12 +49,6 @@ end
 class MultipleChoiceQuestion::Generator
   Question = MultipleChoiceQuestion
 
-  def initialize(choice, n=4)
-    @choice = choice
-    @n = n
-    @definitions = choice.definitions.to_a
-  end
-
   def generate_question
     choices = self.pick_choices()
     idx = choices.index(@choice)
@@ -63,7 +57,7 @@ class MultipleChoiceQuestion::Generator
   end
 
   def pick_choices
-    return pick_choices_from(@definitions)
+    raise NotImplementedError
   end
 
   def pick_choices_from(all_choices)

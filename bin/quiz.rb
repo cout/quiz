@@ -1,5 +1,5 @@
 require 'quiz/definitions'
-require 'quiz/multiple_choice_question'
+require 'quiz/definition_question'
 require 'quiz/quiz'
 require 'quiz/frontend/cui'
 
@@ -11,7 +11,7 @@ if not ARGV[0] then
 end
 
 set = Quiz::Definitions.load_set(*ARGV)
-generators = Quiz::MultipleChoiceQuestion::Generator.create_generators(*set)
+generators = Quiz::DefinitionQuestion::Generator.create_generators(*set)
 frontend = Quiz::CuiFrontend.new
 quiz = Quiz::Quiz.new(frontend, *generators)
 frontend.main_loop(quiz)
