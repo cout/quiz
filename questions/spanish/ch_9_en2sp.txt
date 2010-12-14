@@ -1,0 +1,34 @@
+la bebida alcohólica - alcoholic beverage
+el café - coffee
+el café descafeinado - decaf coffee
+la cerveza - beer
+el jugo - juice
+el jugo de manzana - apple juice
+el jugo de naranja - orange juice
+el jugo de tomato - tomato juice
+la leche - milk
+el licor fuerte - hard alcohol
+el refresco - soft drink
+el té - tea
+el "té" de hierbas - herbal "tea"
+el té helado - iced tea
+el vino - wine
+el vino blanco - white wine
+el vino tinto - red wine
+la cafeína - caffeine
+frío - cold
+bien frío - very cold
+caliente - hot
+bien caliente - very hot
+con hielo - with ice
+sin hielo - without ice
+beber - to drink
+tener sed - to be thirsty
+tener mucha sed - to be very thirsty
+castigar - to punish
+fumar - to smoke
+permitir - to permit
+permitir - to allow
+prohibir - to prohibit
+
+

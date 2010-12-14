@@ -1,0 +1,143 @@
+los productos lácteos - dairy products
+el helado - ice cream
+la leche - milk
+el queso - cheese
+el yogur - yougurt
+las carnes - meats
+la carne de res - beef
+la chuleta de cerdo - pork chop
+la hamburguesa - hamburger
+el jamón - ham
+las aves - poultry
+el huevo - egg
+el pollo - chicken
+los pescados - fish
+los mariscos - shellfish
+el atún - tuna
+los camarones - shrimp
+los frijoles - beans
+la mantequilla de cacahueta - peanut butter
+las nueces - nuts
+las frutas - fruits
+el aguacate - avocado
+la banana - banana
+la fresa - strawberry
+el limón - limon
+la manzana - apple
+la naranja - orange
+el tomate - tomato
+la toronja - grapefruit
+la uva - grape
+las verduras - vegetables
+las espinacas - spinach
+las guisantes - peas
+las judías verdes - green beans
+la lechuga - lettuce
+el maíz - corn
+la papa - potato (lat am)
+la patata - potato (sp)
+la zanahoria - carrot
+el arroz - rice
+los cereales - cereals, grains
+los espaguetis - spaghetti
+el pan blanco - white bread
+el pan integral - whole wheat bread
+las pastas alimenticias - pasta
+el aceite - de maíz - corn oil
+el aceite de oliva - olive oil
+la mantequilla - butter
+agrio - sour
+amargo - bitter
+asado - roasted
+cocinado - cooked
+crudo - raw
+dulce - sweet
+fresco - fresh
+pasado - spoiled, old
+al horno - baked
+al vapor - steamed
+el gusto - taste (preference)
+el hábito de comer - eating habit
+el sabor - taste (flavor)
+sabe a ... - it tastes like ...
+la bollería - assorted breads and rolls
+el bollo - roll
+el huevo frito - fried (scrambled) egg
+el jugo - juice
+la mermelada - jam, marmelade
+el panqueque - pancake
+el pan tostado - toast
+la salchicha - sausage
+el tocino - bacon
+la tostada - toast
+desayunar - to have breakfast
+el emperador - swordfish
+la ensalada - sald
+el flan - baked custard
+las lentejas - lentils
+medio pollo asado - half a roast chicken
+pollo asado - roast chicken
+el postre - dessert
+el puré de papas - mashed potatoes
+el sandwich - sandwich
+la tarta - pie
+la ternera - veal
+la tortilla - omelette (sp)
+almorzar(ue) - to have lunch
+cenar - to have dinner
+el menú del día - daily menu
+el primar plato - first course
+el segundo plato - second course
+el tercer plato - third course
+el almuerzo - lunch
+la cena - dinner
+el desayuno - breakfast
+los dulces - candy
+la galleta - cookie
+las palomitas - popcorn
+las papas fritas - potato chips
+las papas fritas - french fries (lat am)
+los pasteles - pastries
+las patatas fritas - potato chips
+las patatas fritas - french fries (sp)
+la máquina vendedora - vending machine
+la merienda - snack
+merendar(ie) - to snack (on)
+el agua - water
+el café - coffee
+café con leche - coffee with milk
+la cerveza - beer
+el refresco - soft drink
+el té - tea
+el vino - wine
+el azúcar - sugar
+la mayonesa - mayonnaise
+la mostaza - mustard
+la pimienta - pepper
+la sal - salt
+la salsa de tomate - ketchup
+amarillo - yellow
+blanco - white
+marrón - dark brown
+negro - black
+rojo - red
+rosado - pink
+verde - green
+agradar - to please
+apetecer - to be appetizing
+apetecer - to apeal (food)
+apetecer - to be appealing (food)
+caer bien - to make a good impression
+caer bien - to agree with (food)
+caer mal - to make a bad impression
+caer mal - to disagree with (food)
+encantar - to delight
+encantar - to be extremely pleasing
+importar - to be important
+importar - to matter
+interesar - to be interesting
+poner (irreg) - to put, place
+quitar - to remove, take away
+tener hambre - to be hungry
+tener mucha hambre - to be very hungry
+
