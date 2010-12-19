@@ -5,6 +5,7 @@ module Quiz
 class MultipleChoiceQuestion < Question
   attr_reader :generator
   attr_reader :choices
+  attr_reader :correct_choice_idx
 
   def initialize(generator, choices, correct_choice_idx)
     @generator = generator
@@ -46,12 +47,18 @@ class MultipleChoiceQuestion < Question
   end
 end
 
-class MultipleChoiceQuestion::Generator
+class MultipleChoiceQuestion::Generator < Question::Generator
   Question = MultipleChoiceQuestion
 
+  def initialize(n=4)
+    @n = n
+  end
+
   def generate_question
-    choices = self.pick_choices()
-    idx = choices.index(@choice)
+    correct_choice, choices = self.pick_choices()
+    choices << correct_choice
+    choices.shuffle!
+    idx = choices.index(correct_choice)
 
     return self.class::Question.new(self, choices, idx)
   end
@@ -60,13 +67,12 @@ class MultipleChoiceQuestion::Generator
     raise NotImplementedError
   end
 
-  def pick_choices_from(all_choices)
-    choices = [ @choice ]
-
+  def pick_choices_from(all_choices, n=@n)
+    choices = [ ]
     rand_choices = all_choices.shuffle
     rand_choices.each do |choice|
       next if choices.find { |c| c =~ choice }
-      break if choices.size == @n
+      break if choices.size == n
       choices << choice
     end
 

@@ -1,5 +1,7 @@
-require 'quiz/definitions'
-require 'quiz/definition_question'
+#!/usr/bin/env ruby
+
+require 'quiz/values'
+require 'quiz/order_question'
 require 'quiz/quiz'
 require 'quiz/frontend/cui'
 
@@ -10,8 +12,8 @@ if not ARGV[0] then
   exit 1
 end
 
-set = Quiz::Definitions.load_set(*ARGV)
-generators = Quiz::DefinitionQuestion::Generator.create_generators(*set)
+set = Quiz::Values.load_set(*ARGV)
+generators = Quiz::OrderQuestion::Generator.create_generators(*set)
 frontend = Quiz::CuiFrontend.new
 quiz = Quiz::Quiz.new(frontend, *generators)
 frontend.main_loop(quiz)

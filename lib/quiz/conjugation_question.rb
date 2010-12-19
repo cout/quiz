@@ -1,4 +1,3 @@
-require 'quiz/question'
 require 'quiz/multiple_choice_question'
 
 module Quiz
@@ -10,13 +9,13 @@ class ConjugationQuestion::Generator < MultipleChoiceQuestion::Generator
   Question = ConjugationQuestion
 
   def initialize(choice, n=4)
+    super(n)
     @choice = choice
-    @n = n
     @conjugations = choice.conjugations
   end
 
   def pick_choices
-    return pick_choices_from(@conjugations.by_verb(@choice.verb))
+    return @choice, pick_choices_from(@conjugations.by_verb(@choice.verb))
   end
 end
 

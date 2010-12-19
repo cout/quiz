@@ -7,13 +7,13 @@ end
 
 class DefinitionQuestion::Generator < MultipleChoiceQuestion::Generator
   def initialize(choice, n=4)
+    super(n)
     @choice = choice
-    @n = n
     @definitions = choice.definitions.to_a
   end
 
   def pick_choices
-    return pick_choices_from(@definitions)
+    return @choice, pick_choices_from(@definitions)
   end
 end
 
