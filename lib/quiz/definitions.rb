@@ -36,6 +36,9 @@ class Definitions
         case line
         when /^\s*$/, /^#/
           # comment
+        when /^\s*-\s/
+          # notes that were taken
+          # TODO: what about line continuations?
         when /^(.*?)\s+-\s+(.*)/m
           # definition
           term = $1
