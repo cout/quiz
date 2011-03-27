@@ -1,0 +1,69 @@
+- Macroevolution: larger-scale changes in organisms
+  - Also contributes to speciation
+  - small, population-scale changes can accumulate:
+    - can have small-scale changes that 
+  - exaptations - traits that emerged in response to one selective pressure
+    become beneficial in another way
+    - birds gained feathers because they made them warmer, but then they were
+      also useful for flying
+  - large phenotypic changes can result from small changes in regulatory
+    genes (i.e. genes that turn traits on/off)
+
+- somatic mutations (occur in body tissues, e.g. cancers) - are not passed on,
+  because they are not in the gamete
+
+- critical thinking: was the evolution of the modern horse a series of
+  directed events?
+  - directed = only one possible path
+
+- preview of the taxonomic hierarchy
+  - (covered again in 211)
+  - all organisms can be classified in this way
+  - humans are:
+    - _chordates_ (in the chordate phylum)
+    - vertebrate sub-phylum
+    - mammal class
+    - primate order
+    - one of several families: hominids
+
+- two key things happened in the evolutions of humans/primates:
+  - bi-pedalism
+    - 
+  - large brain
+
+- Extra credit question: what do we know about humans from > 30K regarding
+  use of language?
+
+- Fossil record - shows changes in our species over time
+  - rituals, etc.
+  - path of human evolution is not ladder-like
+  - we can see dead ends in the fossil record
+  - we are cirrently mono-____ (all but one lineage of hominids are extinct)
+     - evidence of mating between humans and neanderthals?
+
+- evidence that humans migrated out of afica into the rest of the world
+  - multiregional hypothesis vs. "out of africa" hypothesis
+
+- extra credit: why does inbreeding cause unfavorable traits in humans (but
+  not in other animals)?
+  - answer (scratch the extra credit): recessive alleles
+
+- evolution is a constant process on this planet
+  - we have a constant supply of random variation
+    - shuffling of alleles
+    - genetic mutation
+  - constant supply of selection pressure
+    - vary over time
+    - vary over habitats
+  - result:
+    - constant divergence of population
+    - constatnt extinction
+
+- Key concepts:
+  - species
+  - development of reproductive isolation
+  - patterns of speciation
+  - macroevolution
+  - human evolution
+  - evolution continues
+

@@ -1,0 +1,79 @@
+- essential fatty acids
+  - phospholipid membranes
+  - energy storage
+  - cushioning and insulation
+  - steroids and some hormones
+- vitamins
+  - organic molecules typically used in small quantities
+  - coenzymes or enzyme cofactors
+  - some are fat soluble instead of water soluble
+- minerals
+  - calcium - bones, nerve and muscle fibers
+  - phosphorus - phospholipid bilayer, bones, ATP
+  - sulfur - some proteins
+  - potassium, chlorine, sodium - nerve function
+  - magnesium - enzyme cofactor
+  - iron - hemoglobin, e¯ carrier, enzyme cofactor
+
+- food processing
+  - ingestion
+  - digestion
+  - absorption
+  - elimination
+
+EC: is there some other food that pandas can eat as a substitute for bamboo?
+
+- evolution of compartmentalization
+  - food digestion must be contained
+  - sponges do this by containing digestion structures in vacuoles (completely
+    inside the cell)
+  - most animals digest at least partly outside the cell
+    - simplest/earliest which do this are jellyfish and flatworms ("one hole
+      sac body plan")
+      - single opening for incoming food and outgoing waste (inefficient)
+      - partly digest their food in the gastrovascular (?) cavity and then (?)
+    - bilateral symmetry ("two hole tube plan")
+      - food processed sequentially (no mixing of incoming food and outgoing
+        waste)
+      - allows for _specialization_ along the digestive tract
+        - both _divergent_ and _convergent_ patterns have emerged
+          - all mammals have a cecum
+            - vestigial in some mammals
+          - both earthworms and birds have developed crops
+            - crop - soft, stretchy chamber that allows the storage of food
+            - gizzard - musclar organ w/ bony protuberances; muscular motion
+              working w/ grit can work seed coat off
+
+
+- human digestive system
+  - relatively straightforward apdaptations to an omnivorous diet
+  - tube running from mouth to anus w/ specialized regions for
+    - food processing
+    - absorption
+    - elimination of waste
+  - oral cavity, pharynx, and esophagus allows for chewing and swalling food
+    - teeth cut and grind
+    - tongue mixes and pushes _bolus_ to back
+    - saliva
+      - lubricates food
+      - protects the mouth lining
+      - buffers pH
+      - kills bacteria
+      - begins digestion
+    - epiglottis - tips down to direct food from pharynx to esophagus
+    - peristaltic contractions in esophagus push food to stomach
+    - sphincter (ring) muscles also control passage of food
+  - somach
+    - stores food (very folded and stretchy)
+    - muscle contractions _mix_ food
+    - lining secretes gastric guice
+      - HCl
+        - dissolves cell matrices 
+        - denatures proteins in swallowed food
+        - also kills many ingested bacteria
+      - pepsin - begins protein hydrolysis
+        - produced as a precursor of pepsinogen
+          - pepsinogen produced in the lumen of the cells
+      - stomach lining protected from self-digestion by thick mucus and
+        secretion of inactive pepsin precursor
+

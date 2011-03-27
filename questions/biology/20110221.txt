@@ -1,0 +1,91 @@
+=== Soil ===
+
+- Living organisms
+  - micro-organisms
+    - decompose organic material, cycle nutrients, add organic material
+    - trillions/kg of soil (double handful of soil...)
+    - n-fixing bacteria - supply virtually all N for plant growth, either free
+      living or in nodule
+      - nitrogen paradox
+        - bacteria convert atmospheric N to forms suitable for plant uptake
+        - bacteria feed plant nitrogen
+        - plant feeds bacteria carbohydrates
+        - Q: why is this a paradox?
+        - (lightning also provides a source of nitrogen)
+    - miycorrhizae - mutual symbiotic association between fungi and and roots
+      - present in most plants (80-90% of all plant species)
+      - _required_ in some plants (e.g. orchids)
+      - dramatically increases surface area of roots
+
+- Human impact
+
+- Topography - shape of the land
+  - determines the movement of water, thus affecting erosion and leaching
+    rates
+  - determines where water accumulates, which affects soil moisture, which
+    affacts organismal activity, which affects soils...
+  - aspect affects the amount of solar radiation at the surface, and thus soil
+    temperature
+  - large topographic features influence precipitaiton patterns
+  - event micro-topography affects plant distribution
+  - hills - shade the north/east sides (northern hemisphere)
+  - orographic lifting - causes cooling and precipitation, rain shadow to the
+    leeward side
+    - leeward - opposite of windward?
+
+- Time
+
+=== More on nutrients ===
+
+- rhizosphere
+  - zone where nutrience are acumulated by the plant
+  - plant affects soil through compounds secreted by the plant's roots
+  - relative proportions of nutrience in the soil solution can affect uptake
+    of all nutrience
+  - different species have different nutrient requirements
+  - control zone for plant/soil interaction
+  - big volume of soil, narrow zone around each root
+
+- some plants use alternate methods to absorb some nutrients
+  - parasites
+  - saprophytes
+  - carnivores
+
+- important: what to organisms use nitrogen and phosphorous for
+  - phospho-lipid membrane!
+
+=== Lecture #7 - angiosperm reproduction ===
+
+- Key concepts:
+  - life cycles- alternation of generations
+  - structure of a flower
+  - development of the male gametophte
+  - pollination in all its glories
+  - development fothe female gametophyte
+  - fertilization
+  - empryos, seeds and fruit
+  - asexual reproduction
+
+- life cycle:
+  - haploid gametophyte -> [ mitosis ] -> [ fertilization ] -> [ mitosis ] -> diploid
+    sporophyte -> [ meiosis ] -> spores or mitosis; [ mitosis ] -> haploid gametophyte
+  - all modern plants alternate between multicellular 1n and 2n generations
+  - our focus is on the most derived group of plants - the angiosperms
+  - evolution of reproductive strategies in the other divisions will be
+    covered in 211
+ 
+- angiosperms - the flowering plants
+  - by far the most important phylum of pants in the modern flora
+  - ~90% of all extant plant species
+  - dominate _most_ ecosystems (even gymnosperm-dominated ecosystems have a
+    significant angiosperm population)
+  - primary ecological importance - base of terrestrial food chain + many
+    other ecosystem resources
+  - primary economic importance - food, building materials, parmaceuticals,
+    horticulture, floriculture
+
+- angiosperms produce 2 different kinds of spores (thus two places in the
+  plant where meiosis takes place):
+  - microsphore -> male gemetophyte (pollen, released to the air) -> sperm
+  - megaspore -> female gametophyte (retained in sporangia) -> egg
+

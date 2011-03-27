@@ -1,0 +1,48 @@
+=== Soil ===
+
+- parent paterial - substrate from which soil forms
+  - may be bedrock or some deposited material (sediments, organic material)
+  - determines soil texture, mineral content
+  - influences soil structure and pH
+- rocks
+  - sedimentary
+  - igneous
+  - metamorphic
+- clay
+  - protons displace cations on the surface of the clay
+  - importance of texture
+  - clay texture holds onto more water
+- parent materials are weathered by other soil forming factors to form soil
+  - horizons: O, A (topsoil), B (subsoil), C (parent material)
+- climate
+  - primarily temperature and precipitation patterns
+  - temperature controls freeze-thaw cycles that contribute to physical
+    weathering
+  - temperature also affects the rate of biochemical reactions
+  - temperature also affects the rate of decomposition by fungi, bacteria, and
+    other living organisms
+  - precipitation contributes to soil moisture, which affects plant growth and
+    the activity of decomposing organisms
+  - precipitation affects erosion (the physical loss of soil particles) and
+    leaching (chemical losses from the soil solution as water pases through
+    the soil -- this contributes to profile formation)
+  - major biomes are determined by climate
+    - but _named_ by plant communities
+  - microclimate also important in soil development
+- living organisms
+  - macro-organisms
+  - plants
+    - contribute organic material - both above (shoots) and below (roots), and
+      both sources affect horizonation
+    - help to mix the soil -- root channels, wind throws
+    - cycle nutrients from soil to plant and back (sometimes through animals,
+      always through decomposers)
+    - help prevent soil erosion by breaking the force of rain (dissipated when
+      it hits the leaves instead of the soil), providing a litter layer
+    - some parent material will develop into a different soil under different
+      plant communities
+  - animals
+    - help to mix the soil by burrowing
+    - contribute oraganic material when they die
+
+

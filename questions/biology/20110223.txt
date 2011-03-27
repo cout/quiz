@@ -1,0 +1,56 @@
+- life cycle
+  - in the plant kingdom, meiosis _always_ produces spores
+    - only occurs once in the life cyle
+  - gametes are produced by _mitosis_
+  - with angiosperms, meiosis occurs in two different places (microspore,
+    megaspore)
+  - advantages to retaining the female gametophyte in the sporophyte:
+    - nutrients/resources
+    - protection (seed)
+  - life cycle takes place in the flower in angiosperms:
+    - pine trees do not have flowers/fruit (they have cones)
+  - parts of a flower:
+    - sepals
+      - typically green and protect the flower/bud
+      - below petals
+    - petals
+      - typically colored and larger than the sepals
+      - the "sterile" part of the flower
+    - stamens
+      - anther (microsporangium)
+      - filament - strand that supports the anther
+    - carpels - innermost part of the flower
+      - stigma - usually adapted to hang on to pollen
+      - style - connects the stigma to the ovary
+      - ovary
+        - swollen basal portion of the carpel
+        - contains _at least_ one ovule (some contain hundreds or thousands,
+          e.g. orchids)
+
+- classes of angiosperms:
+  - paleoherbs
+  - magnoliids
+  - eudicots - 70% of all angiosperms (broadleaf trees, shrubs,
+    fruit/vegetable crops)
+  - monocots - grasses, sedges, iris, orchids
+
+- monocots
+  - flower parts in multiples of 3
+  - parallel leaf venation
+  - single cotyledon
+  - vascular bundles in complex arrangements
+  - 90K varieties
+  - sepals almost always alternate with petals
+
+- dicots
+  - flower parts -
+  - leaf venation -
+  - cotyledon -
+  - vascular bundles -
+  - varieties -
+
+- in angiosperms, pollen never directly contacts the egg cell (it does
+  however in the gymnosperms)
+
+- corn husk is the _style_
+

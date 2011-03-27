@@ -1,0 +1,96 @@
+- Critical thinking: can you think of a real0life example of an adaptive
+  phenotype???
+  - A: everything!
+  - remember: natural selection is not random
+
+- Preservation of natural variation
+  - diploidy - 2 alleles for every gene
+    - recessive alleles retained in heterozygotes
+      - not expressed
+      - not eliminated, even if the recessive trait is eliminated
+      - aa may be eliminated, while Aa is preserved in the population
+    - recessive alleles function as latent variation that may prove helpful if
+      environment changes
+  - balanced polymorphism - promotes heterozyogous individuals
+    - heterozygous advantage
+    - frequency-dependent selection
+      - a predator might not focus in on the polymorphic trait - if the
+        predator is present, it is finding its prey item based on
+        characteristics that aren't necessarily polymorphic
+        - e.g. color variation on a snail
+          - color form that is _most common_ is also most likely to be _eaten_
+          - when the less common variation becomes the most common variation,
+            the predator will adapt, resulting in a rebound effect
+    - phenotypic variation
+    - example: single base-supstitution in the gene that codes for hemoglobin;
+      single base change causes the hemoglobin to crystalize and form a
+      rod-shape instead of typical shape
+      - heterozygous dominant not adaptive (sickle-cell enemia)
+      - homozygous dominant not adaptive (no resistance to malaria)
+      - extra credit: why is the heterozyogous gene resistant to malaria
+  - neutral variation
+    - genetic variation that has no apparent effect on fitness
+    - not affected by natural selection
+
+- Key contepts:
+  - the modern synthesis
+  - populations and the gene pool
+  - hardy-weignberg equilibrium
+  - micro-evolution
+  - sources of genetic variation
+  - natural selection
+  - preservation of genetic variation
+
+==== Lecture #3 - origin of species ====
+
+- Key concepts
+  - different ways we define species
+    - basic definition: to be reproductively isolated from other species
+  - common patterns of speciation
+  - macroevolution - gradual accumulation of changes or major changes?
+  - human evolution 
+
+- pet peeve: _species_ is both singular and plural
+
+- _community_ vs _population_ vs _ecosystem_
+
+- major species concepts
+  - biological
+    - standard way that we have to separate species
+      - if two individuals can produce _successful_ offspring, then they are
+        the same species
+      - if they cannot, then theyt are not
+    - species are defined by _natural reproductive isolation_
+    - two cases where this doesn't work:
+      - certain kinds of fungi cannot be classified because of inability to
+        observe reproductin
+      - divergence of species is a slow process with fuzzy boundaries during
+        divergence; can be difficult to use reproductive isolation to classify
+        species
+      - can't use this definition to classify _extinct_ species, because we
+        can't observe reproduction
+  - morphological - the first way to separate species (Linnaeus, ~1750 &
+    others)
+    - species are defined by differences in form - individuals with the same
+      morphology and/or anatomy are considered the same species
+    - Linnaeus "had it right" in most cases - his classification is still used
+      today
+    - problemes:
+      - some species have a lot of natural phenotypic variation
+    - advantages:
+      - the only way to classify extinct species and species that lack sexual
+        reproduction
+      - important in describing _new_ species
+  - phylogenetic species
+    - relatively new, becoming "new standard" for separating species
+    - species are defined by evolutionary history
+      - species = "smallest monophyletic group" ("monophyletic tip") in an evolutionary tree
+      - monophyletic = lineage is derived from a common ancestor
+    - problems:
+      - we don't have good phylogenies for all species or groups
+      - not perfect agreement/interpretation of data
+
+- pre-zygotic barriers
+  - if zygotes cannot form, then evolution stops
+
+

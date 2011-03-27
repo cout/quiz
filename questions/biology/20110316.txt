@@ -1,0 +1,64 @@
+- Most animals have body cavities
+- All organ systems are interdependent
+- Most animals have 11 major organ systems:
+  - digestive
+  - circulatory
+    - open vs closed
+  - respiratory
+    - not all animals have internal respiratory systems (e.g. lungs, etc.) but
+      all have some way to exchange gases
+  - immune and lymphatic
+    - two components: one at birth, one that we acquire over our lifetimes
+  - excretory
+  - endocrine
+  - reproductive
+  - nervous
+  - skeletal and integumentary
+    - endo vs exoskeleton
+    - integumentary - hair
+      - hair is a shaft surrounded by epithelial cells
+      - nails also contain layers of dead cells
+  - muscular
+  - ...
+- Bioenergetic principals - regulate organism activity
+  - bioenergetics - flow of energy through an animal
+  - animals are all heterotrophic - fuel in / energy out
+  - rate of metabolism is variable - based on:
+    - size
+      - evidence is clear; explanation is unclear (we don't understand why
+        there is an inverse relationship between size and metabolic rate per
+        unit mass)
+    - actvity levels
+    - homeostasis strategy
+    - thermoregulation strategy
+- Homeostasis
+  - most control systems rely on _negative_ feedback loops
+    - (positive feedback loops do not turn themselves off)
+  - dynamic
+    - all feedback loops constantly montiroed and levels are fluctuating
+      within a fairly narrow range
+    - not all animals maintaine stable internal conditions / regulate every
+      component of their internal conditions (because this takes energy)
+      - regulators - expend metabolic energy to maintain stability
+      - conformers - internal values vary with external conditions
+      - some animals regulate some conditions and conform to others
+- Thermoregulation
+  - all biochemical processes are sensitive to temperature
+    - high temp can denature enzymes (change their shape so they no longer
+      function properly)
+    - extreme temperatures can also alter membrane behavior
+  - ectothermic animals gain heat from the surrounding environment
+    - most invertebrates, fishes, amphibians, reptipes
+  - endothermic animals - use energy to maintain a constant body temperature
+    - primarily mammals and birds
+    - most endotherms are terrestrial
+      - moving on land requires more energy than moving in water
+      - land temp fluctuates more than water temp
+      - few aquatic animals are endothermic
+- dirnation - active at night / dormantu during the day
+- estivation - opposite of hibernation
+  - desert environments
+EC: if an animal is in the dormant condition and it is completely disturbed /
+woken up, how easy is it to go back into hibernation and what is the long-term
+outcome?
+

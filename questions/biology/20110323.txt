@@ -1,0 +1,52 @@
+- Ulcers
+  - Risk factors: bacteria, tobacco, caffeine, alcohol, aspirin, chocolate
+
+- Small intestine
+  - where most digestion occurs
+  - absorption of monomers
+  - folding - increases surface area
+  - most digestion occurs in the first 25cm
+    - pancreas secretes enzymes and bicarbonate
+    - liver secretes bile (helps digest fat)
+  - most absorption occurs in the latter 5.75m
+    - high concentration of monomers in the fluid in the intestinal tract
+    - many pathways to move monomers cross eipthelium into interstitial fluid
+      and then into capillary bed
+    - some transport is facilitated; some is active
+  - fat digestion
+    - bile salts _emulsify_ large fat droplets into smaller droplets
+      (increases surface area)
+    - lipase digestion produces fatty acids and monoglycerides
+    - these monomers form into micelles
+    - transported out of cells by exocytosis
+
+- large intestine / colon
+  - small intestine connected to large intestine and cecum at a tee
+    - appendix extends off cecum
+    - cecum functions as fermentation chamber in many animals, especially
+      herbivores
+    - human cecum is very small
+  - main function is to absorb water
+  - houses both commensal and mutualistic bacteria
+
+EC: Is the gall bladder derived from the liver?
+  - is it common for the gall bladder to regenerate?
+
+EC: what adaptation causes fats to go into the lymph notes instead of the
+blood?
+  - lymph system is directly connected to the circulatory system
+  - when there is too much pressure, the lymph flows into the blood vessels
+    (and this can happen in the reverse direction as well)
+
+EC: if methane is odorless, then why do freshwater marshes have such a
+distinctive smell?
+
+EC: how did dentition jaw structure / muscular arrangement emerge and change
+over evolutionary time in different lineages / based on different diets
+
+Q: pKa vs pH
+
+Recommendation:
+  - upper-level evolution course
+  - departmental seminars
+

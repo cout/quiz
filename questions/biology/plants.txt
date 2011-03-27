@@ -1,0 +1,274 @@
+- Key concepts:
+  - what is a kingdom?
+  - why study plants
+  - what makes a plant a plant
+  - hierarchy of structure:
+    - cells
+    - tissues
+    - organs
+  - growth
+    - plants grow in a way that is very different from how animals grow
+    - all plants can expand their roots
+    - some plants can expand their _diameter_
+  - ____genesis
+
+- Carolus Linnaeus
+  - gave us the system of modern taxonomy
+  - prior, we had no good way to name/classify organisms
+    - Linaeus gave us an _efficient_ way to name organisms (genus+species)
+      - e.g. plantanthere ciliaris - ciliaris could apply to _any_ genus
+  - Linaeus' taxonomic hierarchy:
+    - kingdom, division (phylum), class, order, family, genus, specific
+      name/epithet
+
+- Kingdoms
+  - Linnaeus recognized only two kingdoms:
+    - animals - move
+    - plants - do not move
+      - fungi considered plants
+    - microscopic world largely unknown (microscopes were not efficient enough
+      to recognize single-cell organisms)
+  - 5-kingdom system
+    - developed in the 1960's and used until recently
+  - molecular data supports 3-domain classification scheme:
+    - bacteria
+    - archaea
+    - eukarya
+    - new _level_ added to classification system - the _domain_
+  - viruses not classified this way, not considered to be living organisms
+    - ask classmate about extra credit about viruses
+
+- classification is dynamic
+  - as we get more information, we reorganize our classification scheme
+  - classification is not the goal; organization of the information that we
+    have is the goal
+
+- _chemosynthetic_ bacteria - live off the energy/minerals that spew out of
+  deep-sea vents
+
+... (missing 20110131 - see notes)
+
+- Plant growth
+  - monocots
+    - do not have wood (palm "trees" do not produce wood - parenchyma tissue)
+    - leaves:
+      - epidermis
+      - cortex-palisde mesophyll
+    - stomata - pores to allow for gas exchange and transpiration
+
+  - plants _adjust to_ their environment (as they cannot leave or take
+    advantage of changes in their environment)
+
+  - meristem tissues
+    - actively dividing cells that enerate other cells in the plant body
+    - cause indeterminate groth
+      - stems and roots are enlongating throughout time
+      - trees continually expand diamter
+      - branches form in roots and stems
+
+  - some plans do have a genetically predetermined lifespan
+    - annuals, perinnials
+    - trees will grow until some environmental factor knocks them out
+      - some trees are very susceptible to rot - these will tend to die sooner
+
+  - plant growth patterns
+    - indeterminate - roots and stems
+      - primary growth
+      - allows the plant to explore, take advantage of new resources
+    - determinate - leaves, flowers, fruit
+
+  - every plant cell carries the whole genetic code for the organism
+    - some mature cells can de-differentiate to become meristemic again
+    - some cells _cannot_ differntiate
+      - once the cells is _lignified_ it can no longer expand or divide
+
+  - plant cells can divide in multiple planes
+    - determines the number of dimensions in which the tissue develops
+    - 1D - files - vascular tissue
+    - 2D - sheets - epiderminal tissue
+    - 3D - bulky - ground tissue
+
+  - auxin-mediated cell expansion (hormone)
+    - auxin attaches to cell membrane and stimulates proton pump which moves
+      protons from cytoplasm into cell wall
+    - loosens cell wall, nearly guarantees that the cell will absorb water and
+      expand
+
+  - direction of cell expansion depends on cellulose orientation and
+    contributes to morphogenesis
+    - wrapping of cellulose around the cell is not a random process; it is
+      under genetic control
+    - direction which wrapping occurs determines which direction the cell is
+      capable of expanding
+
+  - expansion and differentiation occur in an overlapping zone in al plants
+    - zone of maturation
+    - zone of elongation
+    - zone of cell division (apical and primary meristems)
+
+  - review - growth:
+    - an irriversable increase in size
+    - very different in plants than in animals
+    - ...
+
+- location of the meristems determines the pattern of plant growth
+  - most common meristems:
+    - apical - buds
+    - axillary - roots
+    - lateral - cylinders that run up and down the entire circumference of the
+      plant
+
+  - root cap
+    - protects the meristem
+    - determines geotropism
+      - able to sense gravity and grow _down_
+    - secretes mucigel (gelatinous material)
+      - eases movement of roots through soil
+      - secretes chemicals that enhance nutrient uptake
+      - soil chemical environment is _altered_ by the roots
+    - constantly shedding cells
+      - mechanical abrasion as roots grow through soil
+    - constantly being replinished by meristem
+
+  - root hairs
+    - forms as the epidermis fuly differentiates
+    - extensions off epidermal cells
+      - not files/chains of cells
+      - part of an epidermal cell
+    - hugely increase the surface area of the epidermis
+    - almost invisible to the naked eye
+    - increase surface area for the absorption of water/nutrients
+
+  - more than 80% of all plant species form a symbiotic relationship with
+    _fungi_ which enables them to expand their surface area even more than
+    with root hairs alone
+
+  - apical meristem - no "shoot cap"
+    - no friction through the air
+
+  - primary growth
+    - apical meristem
+    - leaf primordia
+    - axillary buds
+
+  - primary growth in shoots - elongation
+    - elongation from the tip (plants grow from the _tip_, not the _base_)
+
+  - secondary growth - diameter expansion
+    - does not occur in all plants (primarily in woody plants, significant
+      mainly in _trees_)
+    - occurs because a laterial meristem (cylindrical) "connects the dots"
+      between the vscular bundles
+    - makes the xylem and phloem as time goes by
+    - roots also expand in diameter but this is different and more complex
+    - laterial meristem = cambium
+    - produces wood: causes wood to accumulate on the interior of the tree
+    - cannot occur in monocots
+    - vascular cambium forms in the space between the xylem and phloem
+      - from that point on, the cylinder which is formed is what is producing
+        the xylem and phloem
+    - secondary xylem accumulates in cylinders
+      - tissues (particularly xylem) will remain present, but "squished into
+        oblivion"
+      - sexoncary xylem == wood
+    - impossible to say with any certainty whether a particular stem has
+      switched over from primary to secondary growth
+      - most trees elongate within the first few weeks of the growing season
+        and the enter secondary growth
+    - cambium - "straw" made out of single layer of cells (simplification)
+      - divides to the inside to make xylem
+      - to the outside to make phloem
+      - in one plane to expand in diameter, in another plane to expand in
+        length
+      - only one layer of vascular cambium
+        - tree does not make new vascular cambium each year; one cylinder of
+          vascular cambium gets larger over time
+
+  - key difference between primary/secondary growth
+    - primary growth - elongation; form in blundles from apical meristem
+    - secondary growth - cylinder forms, and from that point on once vascular
+      meristem is formed, tree is engaged in secondary growth
+
+  - my comment: live indefinitely != live forever
+
+  - rays go across the tree - complicated
+
+  - bark
+    - all tissues external to / outside of the vascular cambium
+      - everything from the vascular cambium to the outside of the tree is
+        considered bark
+    - diameter expansion splits original epidermis
+      - epidermis is "eroded away" as tree expands
+      - bark structurally and functionally replaces epidermis
+    - inner bark
+      - living/functional secondary phloem
+    - outer bark
+      - composition varies as tree matures
+    - cork cambium
+      - meristematic tissue
+      - forms during secondary growth as a cylinder
+      - divides (in both directions) to produce cork cells
+        - new cells get filled with suberin (waxy, waterproof/hydrophobic)
+          material
+        - cells die and become "cork"
+      - eventually cork cambium itself gets filled with suberin and becomes
+        cork
+      - development
+        - first layer forms from cortex - de-differentiation
+        - second layer forms from cortex - same process
+        - this layer forms from cortex...
+        - cortex eventually runs out (plant does not make more cortex)
+        - once cortex runs out, secondary phloem begins to get used to form
+          fork
+          - result: accumulation of xylem, but no accumulation of secondary
+            phloem
+          - depth of the bark varies, but it is never as big as the xylem
+    - almost all trees can be identified by their _bark alone_
+
+  - very little living tissue in a tree -> easy to strangle a tree
+
+  - step derivations and fates (diagram from book):
+    - apical meristem
+      |-> protoderm (primary meristem)
+      |  +-> epidermis (primary tissue)
+      |
+      |-> procambium (primary meristem)
+      |  |-> primary phloem (primary tissue)
+      |  |-> primary xylem (primary tissue)
+      |  |
+      |  +-> vascular cambium (lateral meristem)
+      |     |-> secondary xylem (secondary tissue)
+      |     +-> secondary phloem (secondary tissue)
+      |
+      +-> ground meristem (primary meristem)
+         +-> ground tissue / pith cortex (primary tissue)
+            +-> cork camium (laterial meristem)
+               +-> cork (also produced from secondary phloem)
+
+- Plant Transport
+  - Key concepts:
+    - importance of water
+    - water potential - phi = P - s
+    - how water moves
+      - gradients
+      - mechamisms
+      - pathways
+    - transpiration - water movement from soil to plant to atmosphere
+    - the pressure flow model of phloem transport
+
+  - why water?
+    - required for metabolism and cytoplasm
+    - nutrients are taken up and transported in water-based solution
+    - metabolic products are transported in water-based solution
+    - water movement through the plant affects gas exchange and leaf
+      transpiration
+
+  - water potential (phi)
+    - controls the movement of water
+    - a measure of _potential entergy_
+    - wter always moves from an area of high potential to an area of low
+      potential
+    - controled by phtsical pressure, ...
+    - measured in megaPascals
+      - can be negative (tension)
+

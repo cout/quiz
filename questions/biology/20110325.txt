@@ -1,0 +1,57 @@
+- Cows - extra compartments house symbiotic microorganisms
+  - food is often _regurgitated_ and/or _reconsumed_
+  - regugitation comes from the _rumen_
+
+- diet is a selection pressure
+  - some anumals store partially digested food in their caecum
+
+- Review: Key concepts
+  - animals are heterotrophic
+  - nutritional needs
+    - energy
+    - carbon skeletons
+    - essential nutrients
+  - food processing
+  - the human digestive system
+  - diet as a selection pressure
+
+EC: is there a bird that can consume a walnut and crack it in the gizzard?
+  - turkeys?
+  - is the gizzard actually strong enough to do this?
+  - does this actually occur?
+  - was the book talking about english walnuts?
+
+== Lecture #10 - circulation and gas exchange systems ==
+
+- exam will cover though as far as the other section gets on Tuesday
+
+- Key concepts:
+  - circulation and gas exchange - why?
+  - circulation - spanning diversity
+  - hearts - the evolution of double circulation
+  - blood circulation and capillary exchange
+    - exchange surface is the capillary bed
+  - blood structure and function
+  - gas exchange - spanning diversity
+  - breathing - spanning diversity
+  - respiratory pigments
+
+- _almost_ all animals are aerobic
+  - last year researchers found small animals in the mediterranean that are
+    anaerobic
+     - biomedcentral.com/...
+  - circulation systems move gases and other essential resources throughout
+    the animal's body
+  - respiratory systems exchange gasses with the environment
+  - muscle tissue can survive temporarily in an anaerobic environment (this
+    happens during exercizing; result is glycolysis and product is lactic
+    acid)
+
+- circulation systems have evolved over time
+  - the most primitive animals exchange gasses and circulate resources
+    sentirely by diffusion
+  - process is slow and cannot support large 3D structures
+    - small surface area / volume ratio
+    - plants have small amounts of living tissue; parts of the plants that are
+      alive (leaves and roots) have large amounts of surface area
+

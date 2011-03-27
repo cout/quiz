@@ -1,0 +1,50 @@
+- Pressure Flow Model for Phloem Transport
+  - high solute at source end decreases phi
+  - water moves into the source end of the phloem
+  - increases the pressure
+  - increased pressure at source end causes phloem sap to move to any area of
+    lower phi = sinks
+  - sugar/sap: _source_ (leaf cell) -> companion cell -> phloem / sieve-tube
+    elements -> companion cell -> SINK (root cell)
+  - water: flows up through xylem, back and forth from phloem to/from xylem
+    - from xylem to phloem to build pressure
+    - back to xylem as a result of gradient
+  - at sink end sugars removed by metabolism, by conversion to starch or by
+    active transport
+  - phloem sap constantly moving from source to sink
+  - water almost never flows backwards in the xylem
+  - fairly recently developed model (1970s?)
+
+=== Lecture #6 - plant nutrition and soils ===
+- resource requirements for plant growth
+  - solar energy, CO₂, O₂, water, mineral nutrients
+- plant tissue composition by weight
+  - most living organisms are mostly water - plants are no exception
+  - fresh herbaeous tissue is 80-805% water
+  - little water is incorporated into plant tissue
+    - water suplies all the H to carbohydrates; electrons and protons for
+      photosynthesis
+    - most water is in the cell solution, in the vacuoles, or passing through
+      in the transpiration stream
+- macromolecules
+  - cellulose
+  - pectin
+  - lignin
+  -
+  -
+- essential elements for metabolic processes
+  - chloroophyll
+  - nucleic acids
+  - ATP
+  - enzymes
+  - enzyme cofactors - many _micronutrients_
+  - elemenets that control water, charge, and solute balances - K, Cl, P, Ca,
+    others
+- macro nutrients vs micro nutrients
+  - macro: nitroge, potassium, calcium, magnesium, phosphorus, sulfur
+  - micro: chloroine, iron, boron, manganese, zinc, copper, and molybdenum
+    - some plants also require nickel, sodium, silicon, selenium, or others
+  - see study table in book
+    - KNOW all macronutrients
+    - be able to DISTINGUISH all micronutrients
+

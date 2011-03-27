@@ -1,0 +1,88 @@
+Email: re homeostasis
+Email: re poll4.com
+
+- Strategies to regulate body temperature:
+  - insulation
+  - adjusting rate of heat exchange w/ environment
+    - constriction or dilation of surface blood vessels
+    - fluffing - warms
+    - fat
+    - countercurrent exchange
+      - arterial blood is warmer (comes from body core); warms adjacent venous
+        blood in extremeties
+      - some ectotherm fishes maintain higher temps in their deep swimming
+        muscles with a heat exchanging pattern of blood flow
+- insulation
+- adjusting rate of heat exchange w/ environment
+- evaporative cooling
+- behavior
+- adjusting metabolic rate
+  - evaporative cooling
+    - sweating, panting (e.g. dogs), licking, spraying
+  - behavior
+    - moving into shade/sun
+    - moving into/out of water
+    - restricting activity to night/day
+    - regulating body posture to manage solar exposure
+    - migrating
+      - whooping cranes
+      - even some ectothermic animals migrate (e.g. butterflies)
+    - social behavior to share heat
+  - adjusting metabolic rate
+    - shivering, active motion
+    - acclimation - altering lipids to keep membranes fluid
+    - torpor (e.g. hibernation)
+      - likely triggered by day length
+
+EC: were dinosaurs endotherms or ectotherms
+  - how would we know this?  (no living dinosaurs)
+  - fins were used for mating (attraction); were they also used for warming?
+EC: do bats ever sleep?
+  - also, what is the difference b/t sleep and torpor?
+
+== Lecture #9 - Animal nutrition and digestion ==
+
+- Key concepts:
+  - animals are heterotriphic
+  - nutritional needs - what animals get from food
+  - food processing
+  - human digestive system
+
+- Animals are always consumers
+  - cannot do photosynthesis (and tehrefore cannot convert solar energy to
+    usable chemical energy)
+  - plants store chemical energy
+  - animals eat plants (or other animals)
+  - no animals are autotrophic
+  - Q: why did my parents tell me that I need to spend time in the sum?
+  - Q: metabolic significance of melatonin
+
+- what animals get from food:
+  - energy
+    - animals generate ATP by aerobic respiration
+    - main substrate is carbohydrates
+      - fats are also used
+      - proteins are used as a last restort
+    - digestion converts consumed polymers to the monomers used in respiration
+  - essential vitamins and minerals
+    - molecules that animals cannot make at all
+    - essential aminso acids - used to make proteins
+      - most animals can only syntehsize about half of the amino acids that
+        they need; remaining amino acids must be consumed
+      - all animal proteins are complete (contain all the essential amino
+        acids)
+      - all plant proteins are incomplete (missing some of the essential amino
+        acids)
+      - vegetarians must eat a variety of plants so they can get all the amino
+        acids that they need (e.g. grains and legumes)
+  - carbon skeletons - animals cannot take CO₂ from the atmosphere, so they
+    must take carbon from their food
+    - animals need organic carbon scaffolds to build our own organic molecules
+      (e.g. carbohydrates, lipids, proteins, nucleic acids)
+
+- remember bioenergetics
+  - managing the energy budget is essential to maintaining animal function
+  - ATP powers:
+    - basal metabolism, other activities
+    - maintain homeostasis
+

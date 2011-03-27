@@ -1,0 +1,36 @@
+- test will cover:
+  - secondary growth
+  - angiosperm
+  - nothing on animals
+
+=== Animals ===
+
+- Key concepts:
+  - what separates animals from other organisms?
+  - introduction to structure and function relationships -- the impications of
+    being multicellular
+    - structure and function are related
+  - hierarchical organization in animslas
+  - tissues
+  - organ systems
+  - bioenergetics and metabolism
+
+- homeostasis - maintains constant conditions around the cells
+
+- what do organisms have to do to make a living?
+  - acquire resources (food, water)
+  - eliminate waste products
+  - exchange metabolic gases
+  - control internal conditions (homeostasis)
+  - control function
+  - control development
+  - reproduce (optional for individuals, essential for evolutionary success)
+
+- what makes an animal an animal?
+  - multicellular
+  - no cell wall
+  - heterotrophic
+  - cells are mobile during embryonic development
+  - store energy in glycogen and fat (vs starch in plants)
+
+

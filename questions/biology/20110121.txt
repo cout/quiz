@@ -1,0 +1,87 @@
+- Hardy-Weinberg theorem
+  - Meiosis and fertilization randomly shuffle alleles, but they don't change
+    proportions
+
+- Conditions for Hardy-Weinberg equilibrium
+  - no natural selection, large population size, isolated population, random
+    mating, no mutation
+  - does NOT occur in nature
+
+- So what is the value of H-W?
+  - gives us a no-change point of view (null hypothesis) to help explain
+    what does happen in nature
+
+- Limitations of H-W theorem:
+  - considers only one gene at a time, assuming one-to-one correlation
+    between genes/traits
+    - reality is much more complex
+
+- _Populations_ are what evolve, not individuals
+  - individuals _vary_, but populations _evolve_
+  - "The environment is the wall; natural selection is the gate"
+    - only individuals that are adapted to the environment "pass through the
+      wall"
+
+- micro-evolution
+  - natural selection
+    - "differential reproductive success" is the cornerstone of darwin's
+      success and the only way to account for:
+      - accumulation of favorable traits
+      - "weeding out" of unfavorable traits
+
+  - genetic drift - random changes in allele frequency from generation to
+    generation
+    - if < 100% of the population reproduces (almost always true), then there is
+      not an appropriate representation of the population in the sample
+    - bottleneck effect
+      - when only a small pct of individuals reproduce
+      - caused when some event causes only a small percentage of the population
+        to survive
+      - bottleneck -> mass extinction -> diversification follows
+      - examples of bottlenecked species: cheetahs
+        - most cheetahs killed after last ice age
+        - genetic code for kinked tail passed to most cheetahs
+        - species being bottlenecked again post-industrialization
+    - founder effect
+      - occurs when a single individual (or small group of individuals) breaks
+        off from a larger population to colonize a new habitat
+        - single individual could be a pregnant female
+      - long-distance dispersal events can lead to the founder effect (e.g.
+        seeds stuck to a very mobile animal)
+      - _adaptive radiation_ - frequently leads to many new, closely related
+        species (as the organisms adapt to new habitat zones in their new home)
+
+  - gene flow - reverse of genetic drift
+    - alleles being moved into and out of a population
+    - most populations are not completely isolated
+    - will tend to preserve species by shuffling alleles between all
+      sub-population (thus tends to _reduce_ speciation)
+
+  - selective mating
+    - H-W assumes completely random mating - does not happen in nature
+    - proximity is important [even] in species that do not have mating
+      behaviors
+      - mating is therefore more probable among individuals with greater
+        proximity
+
+  - mutations
+    - mechanisms exist to "fix" errors
+    - nevertheless, mutations can and do occur
+    - with mutations we get completely new trates
+
+  - summary: evoulations = random events * "the gate"
+    - mutations/variations are random
+    - selection is not random
+
+- meiosis - key source of variation
+  - independent assortment - random, independent events
+  - recombination - increases potential variation
+  - only _mutations_ can produce _completely new_ traits (_meiosis_ cannot)
+
+- natural selection makes a population more "fit"
+  - fitness = likelihood of reproductive success
+  - selection acts on the phenotype
+    - and the phenotype is a complex result
+    - each generation has the genotype of the previous generation behind it
+      - (unless there is a major mutation with every generation)
+
