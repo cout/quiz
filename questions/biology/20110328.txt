@@ -1,0 +1,98 @@
+- circulation systems have evolved over time
+  - most primitive animals exchange gases and circulate resources by diffusion
+  - only remaining animals that do this are the sponges and jellies
+  - sponges have no muscle tissue; only flagella
+  - jellies have contractile fibers but not muscles
+  - flatworms are truly bilaterally symmetrical; they do develop muscles
+  - most invertebrates have an open circulatory system
+    - heart pumps fluid (helolymph) through blood vessels into the body cavity
+    - fluid is sucked back into the heart as it contracts
+    - vessels are not connected to each other
+    - hemolymph is returned to vessels via ostia pores
+    - requires less metabolic energy than a closed system
+  - closed circulatory systems
+    - separate blood from interstitial fluid
+    - completely separate blood from hemolymph
+    - most large animals that use a large of energy have a closed circulatory
+      system (insects remain small b/c of open circulatory system and
+      exoskeleton)
+    - only place where blood and interstitial fluid is in the capillary beds
+    - can supply more oxygen more rapidly
+    - all closed circulatory systems have a chambered heart
+      - atria - take blood in from the body
+      - ventricles - pump blood out
+      - one-way valves direct blood flow
+      - recommendation: sketch this out, but as a schematic rather than a
+        photorealistic image
+    - vessels contain the blood
+      - veins carry blood to atria
+      - artieries carry blood from ventricles
+      - pulmonary artery is low oxygen (i.e. it is not the oxygen content
+        which determines whether it is an artery or vein)
+    - capillary beds facilitate exchange
+      - capillary beds separate arteries from veins
+      - highly branched and very tiny
+      - completely infiltrate all parts / every tissue in the body
+      - this is the only place where resource exchange happens (zero resource
+        exchange in the arteries and veins)
+    - not all animals have a 4-chambered heart
+      - fish - 2-chambered heart (one atrium, one ventricle)
+        - single pump of the heart has to pump through 2 capillary beds in a
+          single circuit
+        - blood pressure drops as blood enters the capillaries
+        - blood flow is very slow
+    - all other animals have a two-circuit system:
+      - two circuits in creases the efficiency of gas exchange (double
+        circulation)
+      - one circuit goes to the exchange surface
+      - one circuit goes to body systems
+      - both circuits under high pressure (increases flow rate)
+      - amphibians have a 3-chambered heart
+        - two atria, one ventricle
+        - ventricle pumps to 2 circuits
+          - one to lungs and skin to release CO2 and acquire O2
+          - other circuit circulates through body tissue
+        - oxygen rich and oxyghen poor blood mix in the ventricle (a ridge
+          helps to direct flow)
+      - most reptiles also have a 3-chambered heart
+        - increasation sepatation rel. to amphibians
+        - partial septum further separates blood flow and decreases mixing (up
+          to 3 partial lower chambers)
+        - crocodiles have a 4-chambered heart
+      - mammals and birds have 4-chambered hearts
+        - endothemeric, so need more metabolic energy to support their heat
+          generation
+        - mammals and birds are not monophyletic (they do not share a common
+          ancestral lineage)
+          - split was probably from a fairly reptilian ancestor (amniote -
+            terrestrial, producing adapted eggs)
+          - convergent evolution of the 4-chambered heart
+
+- blood circulation
+  - blood vessels are organs
+    - outer layer is elastic connective tissue that changes diameter as blood
+      move under pressure
+    - middle layer is smooth muscle and elastic fibers
+    - inner layer is endothelial tissue
+  - arteries have thicker walls
+  - capillars have only an endothelium and basement membrane
+  - small pressure drop as arteries branch
+  - blood pressure drops significantly as it moves through the capillary beds
+    - cross sectional area increases dramatically b/c of increase in the
+      number of vessels
+  - velocity drops as pressure drops
+  - velocity drops to near 0 at capillary beds but goes back up as muscle
+    contractions help to push blood back to the heart
+    - fluid can accumulate in appendages
+
+- capillary exchange
+  - gas exchange and other transfers occur in the capillary beds
+  - muscle contractions determine which beds are "open" (one-way valve
+    controls flow)
+    - brain, heart, kidkeys, and liver are generaally fluuy open
+    - digestive system capillaries open avter a meal
+    - skeletal muscle capillaries open during exercising
+
+EC: is there a vacuum effect in the atria?
+  - as as the ventricles pump does it suck blood into the atria
+

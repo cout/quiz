@@ -1,0 +1,21 @@
+- Bulk flow in capillary beds
+  - Remember: phi = P - s
+
+- "one-circuit" diagram not completely accurate for fish
+  - two sets of gills, therefore two arteries
+  - but the blood must still flow through the gills without getting pumped a
+    second time by the heart
+  - double arch is the ancestral condition for the vertebrate circulatory
+    system
+  - later vertebrates lost one of those arches (we kept the left arch and lost
+    the right arch)
+  - birds lost the left arch and kept the right arch
+
+- Capillary transport process
+  - endocytosis -> exocytosis across membrane
+  - diffusion based on concentration gradients
+  - bulk flow between endothelial cells
+    - water potential gradient forces solution out at arterial end
+    - redution in pressure draws most (85%) fluid back in at venous end
+    - remaining fluid is absorbed into lymph, returned at shoulder ducts
+
