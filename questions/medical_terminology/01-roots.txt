@@ -1,0 +1,68 @@
+abdomin/o - abdomen
+lapar/o - abdomen
+acr/o - extemity, topmost
+aden/o - gland
+aer/o - air, gas
+angi/o - vessel
+vas/o - vessel
+vasul/o - vessel
+arthr/o - joint
+carin/o - cancer
+cardi/o - heart
+cephal/o - head
+col/o - colon
+colon/o - colon
+crin/o - screte
+cyan/o - blue
+cyt/o - cell
+derm/o - skin
+darmat/o - skin
+cutane/o - skn
+enter/o - small intestine
+erythr/o - red
+esophag/o - esophagus
+esthesi/o - sensation
+fibr/o - fiber
+gastr/o - stomach
+gen/o - origin, production
+gynec/o - woman
+hem/o - blood
+hemat/o - blood
+hist/o - tissue
+hydr/o - water
+leuk/o - white
+lip/o - fat
+lith/o - stone
+melan/o - black
+morph/o - form
+my/o - muscle
+muscul/o - muscle
+nas/o - nose
+rhin/o - nose
+necr/o - death
+nephr/o - kidney
+ren/o - kidney
+neur/o - nerve
+onc/o - tumor, mass
+or/o - mouth
+orth/o - straight, normal, correct
+oste/o - bone
+path/o - disease
+ped/o - child, foot
+phag/o - eat, swallow
+phas/o - speech
+phob/o - fear
+plas/o - formation
+pneum/o - air, lung
+penumon/o - air, lung
+psych/o - mind
+py/o - pus
+scler/o - hard
+son/o - sound
+sten/o - narrow
+therm/o - heat
+tox/o - poison
+toxic/o - poison
+troph/o - nourishment, development
+ur/o - urine
+urin/o - urine
