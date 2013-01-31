@@ -1,0 +1,33 @@
+A - assessment
+A & W - alive and well
+CC - chief complaint
+c/o - complains of
+Dx - diagnosis
+FH - family history
+HEENT - head, eyes, ear, nose, throat
+H & P - history and physical
+Hx - history
+HPI - history of present illness
+PI - present illness
+IMP - impression
+L & W - living and well
+NAD - no acute distress
+NKA - no known allergies
+NKDA - no known drug allergies
+O - objective information
+OH - occupational history
+P - plan/recommendation/disposition
+PE - physical examination
+Px - phsyical examination
+PERRLA - pupiles equal, round, and reative to light and accommodation
+PH - past history
+PMH - past medical history
+ROS - review of symptoms
+SR - systems review
+R/O - rule out
+S - subjective information
+SH - social history
+Sx - symptom
+UCHD - usual childhood diseases
+WNL - within normal limits
+

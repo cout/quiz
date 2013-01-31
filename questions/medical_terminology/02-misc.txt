@@ -1,0 +1,40 @@
+AD - right ear
+AS - left ear
+AU - both ears
+ad lib - as desired
+amt - amount
+sq- water
+ _
+/B\
+\-/ - bilateral
+C - celsius/centigrade
+_
+c - with
+F - fahrenheit
+ _
+/m\
+\-/ - murmur
+NPO - nothing by mouth
+OD - right eye
+OS - left eye
+OU - both eyes
+per - by or through
+po - per os (by mouth)
+PR - through rectum
+PV - through vagina
+qns - quantity not sufficient
+qs - quantity sufficient
+℞ - recipe/prescription
+Sig - label, instruction to patient
+_
+s - without
+__
+ss - one half
+wa - while awake
+x - times or for
+> - greater than
+< - less than
+i - one
+ii - two
+iii - three
+iv - four

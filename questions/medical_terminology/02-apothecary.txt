@@ -1,0 +1,9 @@
+fl oz - fluid ounce
+gr - grain
+gt - drop
+gtt - drops
+dr - dram
+oz - ounce
+lb - pound
+# - pound
+qt - quart

@@ -1,0 +1,24 @@
+ā - before
+ac - before meals
+am - before noon
+d - day
+h - hour
+hs - at hour of sleep
+noc - night
+_
+p - after
+pp - after meals
+pc - after meals
+pm - after noon
+prn - as needed
+q - every
+qd - every day
+qh - every hour
+q2h - every 2 hours
+bid - twice a day
+qid - four times a day
+qod - every other day
+tid - three times a day
+STAT - immediately
+wk - week
+yr - year

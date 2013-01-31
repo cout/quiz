@@ -1,0 +1,12 @@
+CCU - coronary (cardiac) care unit
+ECU - emergency care unit
+ER - emergency room
+ICU - intensive care unit
+IP - inpatient
+OP - outpatient
+OR - operating room
+PAR - post anesthetic recovery
+post-op - after surgery
+pre-op - before surgery
+RTC - return to clinic
+RTO - return to office

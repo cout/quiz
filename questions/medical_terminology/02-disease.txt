@@ -1,0 +1,28 @@
+acute - sharp, having severe symptoms and a short course
+chronic - a condition developing slowly and persisting over a period of time
+benign - mild or noncancerous
+malignant - harmful or cancerous
+degneration - gradual deterioration of normal cells and body function
+degenerative disease - any disease in which there is deterioration of structure or function of tissue
+diagnosis - determination of the presence of a disease based on an evaluation of symptoms, signs, and test findings (result
+etiology - study of the cause of a disease
+exacerbation - increase in severity of a disease with aggravation of symptoms
+remission - a period in which symptoms and signs stop or abate
+febrile - relating to a fever (elevated temperature)
+idiopathic - a condition occurring without a clearly identified cause
+localized - limited to a definite area or part
+systemic - relating to the whole body rather than only a part
+malaise - a feeling of unwellness, often the first indication of illness
+marked - significant
+morbidity - sick; a diseased state
+mortality - the state of being subject to death
+prognosis - foreknowledge; prediction of the likely outcome of a disease baed on the general health status of the patient along with knowledge of the usual course of the disease
+progressive - peratining to the advance of a d=condtiion as signs and symptoms increase in severity
+prophylaxis - a process or measure that prevents disease
+recurrent - to occur again; describes a return of symptoms and signs after a period of quiescence
+sequela - a disorder or condition, usually resulting from a previous disease or injury
+sign - a mark; objective evidence of disease that can be seen or verified by an examiner
+syndrome - a running togther; combination of symptoms and signs that give a distinct clinical picture indicating a particular condition or disease
+noncontributory - not involved in bringing on the condition or result
+unremarkable - not significant or worthy of noting
+

@@ -1,0 +1,31 @@
+BRP - bathroom privileges
+CP - chest pain
+DC - discharge, discontinue
+ETOH - ethyl alcohol
+L - left
+R - right
+pt - patient
+RRR - regular rate and rhythm
+SOB - shortness of breath
+Tr - threatment
+Tx - treatment or traction
+VS - vital signs
+T - temperature
+P - pulse
+R - respiration
+BP - blood pressure
+Ht - height
+Wt - weight
+WDWN - well-developed and well-nourished
+y/o - year old
+# - number or pound
+♀ - female
+♂ - male
+° - degree or hour
+↑ - increased
+↓ - decreased
+ø - none or negative
+⚲ - standing
+⚲_ - sitting
+o— - lying
+

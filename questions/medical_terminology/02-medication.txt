@@ -1,0 +1,28 @@
+tab - tablet
+cap - capsule
+oral - by mouth
+per os - by mouth
+po - by mouth
+sublingual - under the tongue
+SL - under the tongue
+buccal - in the cheek
+vaginal - inserted in the vagina
+per vagina - inserted in the vagina
+PV - inserted in the vagina
+rectal - inserted in the rectum
+per rectum - inserted in the rectum
+PR - inserted in the rectum
+inhalation - inhaled through nose or mouth
+parenteral - by injection
+intradermal - within the skin
+ID - within the skin
+intramuscular - within the muscle
+IM - within the muscle
+intravenous - within the vein
+IV - within the vein
+subcutaneous - under the skin
+SC/SQ - undet the skin
+topical - applied to the surface of the skin
+transdermal - absorped through unbroken skin
+implant - a drug reservoir embedded in the body to provide continual infusion of a medication
+

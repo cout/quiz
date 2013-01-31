@@ -1,0 +1,18 @@
+AD - auris dextra
+AS - auris sinistra
+AU - aures unitas
+ad lib - ad libitum
+aq - aqua
+_
+c - cum
+NPO - non per os
+OD - oculus dexter
+OS - oculus sinister
+OU - oculi unitas
+po - per os
+PR - per rectum
+PV - per vagina
+Sig - signa
+_
+s - sine
+
