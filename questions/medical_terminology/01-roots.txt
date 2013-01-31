@@ -17,7 +17,7 @@ cyan/o - blue
 cyt/o - cell
 derm/o - skin
 darmat/o - skin
-cutane/o - skn
+cutane/o - skin
 enter/o - small intestine
 erythr/o - red
 esophag/o - esophagus
