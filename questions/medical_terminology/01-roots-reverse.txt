@@ -1,0 +1,68 @@
+abdomen - abdomin/o
+abdomen - lapar/o
+extremity, topmost - acr/o
+gland - aden/o
+air, gas - aer/o
+vessel - angi/o
+vessel - vas/o
+vessel - vascul/o
+joint - arthr/o
+cancer - carcin/o
+heart - cardi/o
+head - cephal/o
+colon - col/o
+colon - colon/o
+screte - crin/o
+blue - cyan/o
+cell - cyt/o
+skin - derm/o
+skin - darmat/o
+skin - cutane/o
+small intestine - enter/o
+red - erythr/o
+esophagus - esophag/o
+sensation - esthesi/o
+fiber - fibr/o
+stomach - gastr/o
+origin, production - gen/o
+woman - gynec/o
+blood - hem/o
+blood - hemat/o
+tissue - hist/o
+water - hydr/o
+white - leuk/o
+fat - lip/o
+stone - lith/o
+black - melan/o
+form - morph/o
+muscle - my/o
+muscle - muscul/o
+nose - nas/o
+nose - rhin/o
+death - necr/o
+kidney - nephr/o
+kidney - ren/o
+nerve - neur/o
+tumor, mass - onc/o
+mouth - or/o
+straight, normal, correct - orth/o
+bone - oste/o
+disease - path/o
+child, foot - ped/o
+eat, swallow - phag/o
+speech - phas/o
+fear - phob/o
+formation - plas/o
+air, lung - pneum/o
+air, lung - penumon/o
+mind - psych/o
+pus - py/o
+hard - scler/o
+sound - son/o
+narrow - sten/o
+heat - therm/o
+poison - tox/o
+poison - toxic/o
+nourishment, development - troph/o
+urine - ur/o
+urine - urin/o

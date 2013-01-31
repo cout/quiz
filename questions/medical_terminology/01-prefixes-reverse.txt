@@ -1,0 +1,61 @@
+without - a-
+without - an-
+away from - ab-
+to, toward, near - ad-
+before - ante-
+before - pre-
+before - pro-
+against or opposed to - anti-
+against or opposed to - contra-
+two, both - bi-
+slow - brady-
+around - circum-
+around - peri-
+together, with - con-
+together, with - syn-
+together, with - sym-
+from, down, or not - de-
+across, through - dia-
+across, through - trans-
+painful, difficult, faulty - dys-
+out or away - e-
+out or away - ec-
+out or away - ex-
+outside - ecto-
+outside - exo-
+outside - extra-
+within - en-
+within - endo-
+within - intra-
+upon - epi-
+good, normal - eu-
+half - hemi-
+half - semi-
+above, excessive - hyper-
+below, deficient - hypo-
+between - inter-
+large, long - macro-
+middle - meso-
+beyond, after, change - meta-
+small - micro-
+one - mono-
+one - uni-
+new - neo-
+few, deficient - oligo-
+all - pan-
+alongside of, abormal - para-
+around - peri-
+many - poly-
+many - multi-
+after, behind - post-
+four - quadri-
+again, back - re-
+backward or behind - retro-
+below or under - sub-
+below or under - infra-
+above, excessive - super-
+above, excessive - supra-
+fast - tachy-
+three - tri-
+beyone, excessive - ultra-
+
