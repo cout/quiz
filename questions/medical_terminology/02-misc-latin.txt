@@ -1,7 +1,7 @@
 auris dextra - AD
 auris sinistra - AS
 aures unitas - AU
-ad ad libitum - lib
+ad libitum - ad lib
 aqua - aq
 cum - c
 non per os - NPO
