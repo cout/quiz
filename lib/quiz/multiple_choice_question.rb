@@ -56,6 +56,7 @@ class MultipleChoiceQuestion::Generator < Question::Generator
 
   def generate_question
     correct_choice, choices = self.pick_choices()
+    choices.delete_if { |c| c =~ correct_choice }
     choices << correct_choice
     choices.shuffle!
     idx = choices.index(correct_choice)
