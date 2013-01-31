@@ -1,40 +1,33 @@
-AD - right ear
-AS - left ear
-AU - both ears
-ad lib - as desired
-amt - amount
-sq- water
- _
-/B\
-\-/ - bilateral
-C - celsius/centigrade
-_
-c - with
-F - fahrenheit
- _
-/m\
-\-/ - murmur
-NPO - nothing by mouth
-OD - right eye
-OS - left eye
-OU - both eyes
-per - by or through
-po - per os (by mouth)
-PR - through rectum
-PV - through vagina
-qns - quantity not sufficient
-qs - quantity sufficient
-℞ - recipe/prescription
-Sig - label, instruction to patient
-_
-s - without
-__
-ss - one half
-wa - while awake
-x - times or for
-> - greater than
-< - less than
-i - one
-ii - two
-iii - three
-iv - four
+right ear - AD
+left ear - AS
+both ears - AU
+ad as desired - lib
+amount - amt
+water - sq
+bilateral - B with a circle around it
+celsius/centigrade - C
+with - c with a line over it
+fahrenheit - F
+murmur - m with a circle around it
+nothing by mouth - NPO
+right eye - OD
+left eye - OS
+both eyes - OU
+by or through - per
+per os (by mouth) - po
+through rectum - PR
+through vagina - PV
+quantity not sufficient - qns
+quantity sufficient - qs
+recipe/prescription - ℞
+label, instruction to patient - Sig
+without - s with a line over it
+one half - ss with a line over it
+while awake - wa
+times or for - x
+greater than - >
+less than - <
+one - i
+two - ii
+three - iii
+four - iv

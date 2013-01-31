@@ -7,7 +7,7 @@ right - R
 patient - pt
 regular rate and rhythm - RRR
 shortness of breath - SOB
-threatment - Tr
+treatment - Tr
 treatment or traction - Tx
 vital signs - VS
 temperature - T
