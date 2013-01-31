@@ -16,7 +16,7 @@ secrete - crin/o
 blue - cyan/o
 cell - cyt/o
 skin - derm/o
-skin - darmat/o
+skin - dermat/o
 skin - cutane/o
 small intestine - enter/o
 red - erythr/o
