@@ -5,7 +5,7 @@ aden/o - gland
 aer/o - air, gas
 angi/o - vessel
 vas/o - vessel
-vasul/o - vessel
+vascul/o - vessel
 arthr/o - joint
 carcin/o - cancer
 cardi/o - heart
