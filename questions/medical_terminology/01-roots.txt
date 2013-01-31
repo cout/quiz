@@ -12,7 +12,7 @@ cardi/o - heart
 cephal/o - head
 col/o - colon
 colon/o - colon
-crin/o - screte
+crin/o - secrete
 cyan/o - blue
 cyt/o - cell
 derm/o - skin
