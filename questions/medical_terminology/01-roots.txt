@@ -54,7 +54,7 @@ phas/o - speech
 phob/o - fear
 plas/o - formation
 pneum/o - air, lung
-penumon/o - air, lung
+pneumon/o - air, lung
 psych/o - mind
 py/o - pus
 scler/o - hard
