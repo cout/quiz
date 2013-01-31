@@ -17,7 +17,7 @@ marked - significant
 morbidity - sick; a diseased state
 mortality - the state of being subject to death
 prognosis - foreknowledge; prediction of the likely outcome of a disease baed on the general health status of the patient along with knowledge of the usual course of the disease
-progressive - peratining to the advance of a condition as signs and symptoms increase in severity
+progressive - pertaining to the advance of a condition as signs and symptoms increase in severity
 prophylaxis - a process or measure that prevents disease
 recurrent - to occur again; describes a return of symptoms and signs after a period of quiescence
 sequela - a disorder or condition, usually resulting from a previous disease or injury
