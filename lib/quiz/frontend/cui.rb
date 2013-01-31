@@ -17,7 +17,12 @@ class CuiFrontend
 
   def show_question(question)
     @outfile.puts "================================="
-    @outfile.puts question
+    first = true
+    question.to_s.each_line do |line|
+      puts line
+      sleep 2 if first
+      first = false
+    end
     @outfile.puts "================================="
   end
 
