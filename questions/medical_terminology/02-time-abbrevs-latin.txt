@@ -1,20 +1,19 @@
-ā - ante
-ac - ante cibum
-am - ante meridiem
-h - hora
-hs - hora somni
-noc - noctis
-_
-p - post
-pp - post prandial
-pc - post cibum
-pm - post meridiem
-prn - pro re nata
-q - quaque
-qd - quaque die
-qh - quaque hora
-bid - bis in die
-qid - quarter in die
-qod - quaque altera die
-tid - ter in die
-STAT - statim
+ante - ā
+ante cibum - ac
+ante meridiem - am
+hora - h
+hora somni - hs
+noctis - noc
+post - p
+post prandial - pp
+post cibum - pc
+post meridiem - pm
+pro re nata - prn
+quaque - q
+quaque die - qd
+quaque hora - qh
+bis in die - bid
+quarter in die - qid
+quaque altera die - qod
+ter in die - tid
+statim - STAT
