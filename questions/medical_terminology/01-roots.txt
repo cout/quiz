@@ -7,7 +7,7 @@ angi/o - vessel
 vas/o - vessel
 vasul/o - vessel
 arthr/o - joint
-carin/o - cancer
+carcin/o - cancer
 cardi/o - heart
 cephal/o - head
 col/o - colon
