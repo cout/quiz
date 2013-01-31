@@ -1,7 +1,7 @@
 right ear - AD
 left ear - AS
 both ears - AU
-ad desired - as lib
+ad desired - ad lib
 amount - amt
 water - aq
 bilateral - B with a circle around it
