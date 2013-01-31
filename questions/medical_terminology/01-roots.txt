@@ -1,6 +1,6 @@
 abdomin/o - abdomen
 lapar/o - abdomen
-acr/o - extemity, topmost
+acr/o - extremity, topmost
 aden/o - gland
 aer/o - air, gas
 angi/o - vessel
