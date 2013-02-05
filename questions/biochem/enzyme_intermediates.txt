@@ -1,0 +1,11 @@
+class I aldolase - schiff base
+class II aldolase - zinc ion intermediate
+triose phosphate isomerase - enediol
+
+glyceraldehyde 3-phosphate dehydrogenase - thioester
+
+UDP glucose phosphorylase - schiff base
+
+phosphopentose isomerase - enediol
+phosphopentose epimerase - enediolate
+

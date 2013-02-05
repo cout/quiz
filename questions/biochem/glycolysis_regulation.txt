@@ -1,0 +1,26 @@
+fructose-2,6-bisphosphate - stimlulates phosophofructokinase, inhibits fructose-1,6-bisphosphatase
+phosophofructokinase - increase glycolysis
+fructose-1,6-bisphosphatase - increases gluconeogenesis
+insulin - stimulates phosphofructokinase, pyruvate kinase, fructose-2,6-BP
+glycogen - inhibits phosphofructokinase, pyruvate kinase,
+fructose-2,6-BP
+glycogen - stimulates PEP carboxykinase and production of
+fructose-1,6-BP
+PEP carboxykinase - increase gluconeogenesis
+AMP - allosterically activates glycogen phosphorylase
+glycogen phosphorylase - increases glycogen catabolism
+ATP - inhibits glycogen phosphorylase, increases AMPK
+glucose - inhibits glycogen phosphorylase
+caffeine - inhibits glycogen phosphorylase
+glucose-6-phosphate - stimulates glycogen synthase
+glycogen synthase - increases glycogen production/anabolism
+insulin - protein kinase cascade which activates glycogen synthase
+kinase 3 (GSK3)
+# glycogen synthase kinase 3 (GSK3) - ?
+insulin - increases GLUT3 activity
+xylulose-5-P - stimulates protein phosophopentose 2A (PP2A)
+protein phosophopentose 2A (PP2A) - deactivates PFK-2/F-2,6-BPase,
+deactivates ChREBP
+AMPK (AMP-activated protein kinase) - phosphorylation of key proteins
+which increases glucose transport, increases glycolysis, increases fatty
+acid oxidation

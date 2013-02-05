@@ -1,0 +1,27 @@
+hexokinase - ATP, Mg2+
+phosphoglucose isomerase - Mg2+
+phosophofructokinase-1 (PFK-1) - ATP, Mg2+
+
+glyceraldehyde 3-phosphate dehydrogenase - NAD+, Pi
+phosphoglycerate kinase - Mg2+, ADP
+phosphoglycerate mutase - Mg2+
+
+lactate dehydrogenase - NADH
+pyruvate decarboxylase - TPP, Mg2+
+alcohol dehydrogenase - NADH
+
+galctokinase - Mg2+, ATP
+UDP glucose epimerase - NAD+/NADH
+
+pyrovate carboxykinase - ATP, biotin (carries HCO3-)
+malate dehydrogenase - NADH
+PEP carboxykinase - GTP
+fructose-1,6-bisphosphatase (FBPase-1) - H2O
+glucose-6-phosphatase - H2O
+
+UDP-glucose phosphorylase - UTP
+
+glucrose 6-phosphate dehydrogenase - NADP+, Mg2+
+lactonase - H2O, Mg2+
+6-phosoglutonate dehydrogenase - NADP+, Mg2+
+transketolase - TPP

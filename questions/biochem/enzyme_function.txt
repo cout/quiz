@@ -1,0 +1,69 @@
+hexokinase - phosphorylation of glucode to form glucose-6-phosphate
+phosphoroglucose isomerase - isomerization of glucose-6-phosphate to
+form fructose-6-phosphate
+phosphofructokinase-1 (PFK-1) - phosphorylation of fructose-6-phosphate
+to form fructose-1,6-bisphosphate
+fructose-1,6-bisphosphate aldolase - condensation of
+fructose-1,6-bisphosphate to form glyceraldehyde-3-phosphate and
+dihydroxyacetone phosphate
+triose phosphate isomerase - convertes dihydroxyacetone phosphate to
+glyceraldehyde 3-phosphate (without hydrolysis)
+
+gylceraldehyde 3-phosphate dehydrogenase - oxidizes glyceraldehyde
+3-phosophate to form 1,3-bisphosphoglycerate
+phosphoglycerate kinase - dephosphorylates 1,3-bisphosphoglycerate to
+form 3-phosphoglycerate
+phosphoglycerate mutase - shifts phosphoryl group on 3-phosphoglycerate
+to form 2-phosphoglycerate
+enolase - dehydrates 2-phosphoglycerate to form phosphoenolpyruvate
+(PEP)
+pyruvate kinase - dephosphorylates PEP to form pyruvate (enol form)
+which tautomerizes rapidly to form pyruvate (keto form)
+
+lactate dehydrogenase - reduces pyruvate to lactate
+pyruvate decarboxylase - decarboxylates pyruvate to form acetaldehyde
+alcohol dehydrogenase - reduces acetaldehyde to form ethanol
+
+galactokinase - phosphorylates galactose to form galactose-1-phosphate
+# uridydyltransferase - ?
+# UDP glucose epimerase - ?
+phoglucomutase - shifts phosphoryl group on glucose-1-phosphate to form
+glucose-6-phosphate
+
+pyruvate carboxykinase - condenses pyruvate and bicarbonate to form
+oxaloacetate
+malate dehydrogenase - reduces oxaloacetate to malate
+PEP carboxykinase - decarboxylates oxaloacetate to form PEP
+fructose-1,6,-bisphosphatase (FBPase-1) - hydrolysis of
+fructose-1,6,-bisphosphate to form fructose-6-phosphate
+glucose-6-phosphatase - hydrolysis of glucose-6-phosphate to form
+glucose
+
+glycogen phosphorylase - catalyzes Pi attack of final glucose residue at
+C1 to produce glucose-1-phosphate
+debranching enzyme - removes branches on glycogen
+phosphglucomutase - shifts phosphoryl group on glucose-1-phosphate to
+form glucose-6-phosphate
+
+UDP-glucose phosphorylase - catalyzes attack of glucose-1-phosphate at
+alpha phosphate of UTP to form UDP-glucose
+glycogen synthase - transfers glucose residue from UDP-glucose to
+nonreducing end of branched glycogen
+glycogen branching enzyme - transfers 6 or 7 glucose residues from
+nonreducing end of glycogen to C6 hydroxyl group of residue on same
+glycogen molecule
+glycogenin - primes glycogen chain with 8 residues
+
+glucose 6-phosphate dehydrogenase - oxidizes glucose-6-phosphate to form
+6-phosphglucono-delta-lactone
+lactonase - hydrolyzes 6-phosphglucono-delta-lactone to form
+6-phosphgluconate
+6-phosphgluconate dehydrogenase - oxidative decarboxylation of
+6-phosphgluconate to form ribulose-5-phosphate
+phosphopentose isomerase - isomerizes ribulose-5-phosphate to aldose
+isomer ribose-5-phosphate
+phosophopentose epimerase - epimerizes ribulose-5-phosphate to
+xylulose-5-phosphate
+transketolase - transfers 2 carbon fragment from ketose to aldose
+transaldolase - transfers 3 carbon fragment
+
