@@ -32,7 +32,7 @@ autograft - graft transfer to a new position in the body of the same
 person
 heterograft - graft transfer bewteen different speciies, such as from an
 animal to a human
-xeno - graft transfer bewteen different speciies, such as from an
+xenograft - graft transfer bewteen different speciies, such as from an
 animal to a human
 homograft - donor transfer between persons of the same species, such
 human to human

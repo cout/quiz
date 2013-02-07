@@ -1,7 +1,7 @@
 AIDS - acquired immunodeficiency syndrome
 BCC - basal cell carcinoma
 Bx - biopsy
-C&S culture and sensitivity
+C&S - culture and sensitivity
 FS - frozen section
 HIV - himan immunodeficitncy virus
 HSV-1 - herpes simplex virus type 1
