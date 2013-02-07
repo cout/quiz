@@ -1,0 +1,23 @@
+adip/o - fat
+lip/o - fat
+steat/o - fat
+derm/o - skin
+dermat/o - skin
+cutane/o - skin
+erythr/o - red
+hidr/o - sweat
+hist/o - tisue
+histi/o - tissue
+kerat/o - hard
+leuk/o - white
+melan/o - black
+myc/o - nail
+plas/o - formation
+purpur/o - purple
+scler/o - hard
+seb/o - sebum (oil)
+squam/o - scale
+trich/o - hair
+xanth/o - yellow
+xer/o - dry
+
