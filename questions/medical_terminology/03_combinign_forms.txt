@@ -11,7 +11,8 @@ histi/o - tissue
 kerat/o - hard
 leuk/o - white
 melan/o - black
-myc/o - nail
+myc/o - fungus
+onych/o - nail
 plas/o - formation
 purpur/o - purple
 scler/o - hard
