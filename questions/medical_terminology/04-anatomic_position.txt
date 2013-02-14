@@ -1,0 +1,32 @@
+anatomic or anatomical position - used for noting body planes, positions
+or directions
+body planes - reference planes for indicating thelocation or direction
+of body parts
+coronal plane - vertical division of the body into front and back
+frontal plane - vertical division of the body into front and back
+sagittal plane - vertical division of the body into left and right
+transverse plane - horizontal division of the bdoy into upper and lower
+anterior - front of the body
+ventral - front of the body
+posterior - back of the body
+dorsal - back of the body
+anterior-posterior - from front to back
+posterior-anterior - from back to front
+superior - situated above another structure
+cephalic - situated above another structure
+inferior - situated below another structure
+caudal - situated below another structure
+proximal - toward the beginning or origin of a structure
+distal - away from the beginning or origin of a structure
+medial - toward the middle (midline)
+lateral - toward the side
+axis - imaginary line that runs through the center of the body or a body
+part
+erect - normal standing position
+decubitus - lying down
+lateral decubitus - lying on the side
+prone - lying face down and flat
+recumbent - lying down
+supine - lying flat on the back (on the spine)
+horizontal recumbent - lying flat on the back (on the spine)
+

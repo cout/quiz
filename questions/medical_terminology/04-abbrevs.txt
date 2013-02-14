@@ -1,0 +1,19 @@
+A - anterior
+AKA - above-knee amputation
+AP - anterior-posterior
+BKA - below-knee amputation
+CAT - computed axial tomography
+CT - computed tomography
+DJD - degenerative joint disease
+EMG - electromyelogram
+Fx - fracture
+MRI - magnetic resonance imaging
+NSAID - nonsteroidal antiinflammatory drug
+OA - osteoarthritis
+ORIF - open reduction, internal fixation
+P - posterior
+PA - posterior-anterior
+PT - physical therapy
+RA - rheumatoid arthritis
+ROM - range of motion
+Tx - traction
